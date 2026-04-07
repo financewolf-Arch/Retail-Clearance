@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ClearanceHub — Best Deals from Top Retailers</title>
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+</head>
+<body>
+
+<!-- HEADER -->
+<header class="site-header">
+  <div class="header-inner">
+    <div class="logo">
+      <span class="logo-icon">🏷️</span>
+      <span class="logo-text">Clearance<strong>Hub</strong></span>
+    </div>
+    <p class="tagline">Live clearance deals from Walmart, Target, Amazon, Costco &amp; more</p>
+    <div class="search-wrap">
+      <input type="text" id="searchInput" placeholder="Search clearance items…" autocomplete="off" />
+      <span class="search-icon">🔍</span>
+    </div>
+  </div>
+</header>
+
+<!-- FILTER BAR -->
+<nav class="filter-bar">
+  <div class="filter-inner">
+    <button class="filter-btn active" data-category="all">All Deals</button>
+    <button class="filter-btn" data-category="tech">💻 Tech</button>
+    <button class="filter-btn" data-category="fashion">👗 Fashion</button>
+    <button class="filter-btn" data-category="home">🏠 Home</button>
+    <button class="filter-btn" data-category="supplies">🛒 Supplies</button>
+    <button class="filter-btn" data-category="sports">⚽ Sports</button>
+    <button class="filter-btn" data-category="food">🍎 Food</button>
+    <button class="filter-btn" data-category="toys">🧸 Toys</button>
+    <button class="filter-btn" data-category="beauty">💄 Beauty</button>
+  </div>
+  <div class="sort-wrap">
+    <label for="sortSelect">Sort by:</label>
+    <select id="sortSelect">
+      <option value="savings-desc">Biggest Savings</option>
+      <option value="price-asc">Price: Low → High</option>
+      <option value="price-desc">Price: High → Low</option>
+      <option value="pct-desc">% Off: Highest</option>
+    </select>
+  </div>
+</nav>
+
+<!-- STATS BAR -->
+<div class="stats-bar">
+  <span id="dealsCount">0 deals found</span>
+  <span class="stats-sep">·</span>
+  <span>Updated daily from retailer clearance pages</span>
+</div>
+
+<!-- RETAILER FILTER CHIPS -->
+<div class="retailer-chips">
+  <span class="chip-label">Retailers:</span>
+  <button class="retailer-chip active" data-retailer="all">All</button>
+  <button class="retailer-chip" data-retailer="walmart">Walmart</button>
+  <button class="retailer-chip" data-retailer="target">Target</button>
+  <button class="retailer-chip" data-retailer="amazon">Amazon</button>
+  <button class="retailer-chip" data-retailer="costco">Costco</button>
+  <button class="retailer-chip" data-retailer="samsclub">Sam's Club</button>
+  <button class="retailer-chip" data-retailer="bestbuy">Best Buy</button>
+</div>
+
+<!-- DEALS GRID -->
+<main class="deals-section">
+  <div class="deals-grid" id="dealsGrid"></div>
+  <div class="no-results hidden" id="noResults">
+    <p>😕 No deals match your filters. Try a different category or retailer.</p>
+  </div>
+</main>
+
+<!-- FOOTER -->
+<footer class="site-footer">
+  <p>ClearanceHub aggregates publicly available clearance listings. Prices and availability are subject to change. Always verify on the retailer's website before purchasing.</p>
+  <p>© 2026 ClearanceHub · Not affiliated with any retailer</p>
+</footer>
+
+<script src="data.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
