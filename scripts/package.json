@@ -1,0 +1,9 @@
+{
+  "name": "clearancehub-scripts",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Server-side deal fetching for the daily GitHub Actions job",
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

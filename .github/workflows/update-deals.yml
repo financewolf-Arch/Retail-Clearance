@@ -1,0 +1,45 @@
+name: Auto-Update Clearance Deals
+
+# Runs every day at noon UTC (8 AM ET / 5 AM PT)
+# Also triggerable manually from the Actions tab
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # needed to commit & push data.js
+
+    steps:
+      - name: Checkout branch
+        uses: actions/checkout@v4
+        with:
+          ref: claude/clearance-marketplace-site-V82vF
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Node 20
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install script dependencies
+        run: npm install
+        working-directory: scripts
+
+      - name: Fetch live deals and regenerate data.js
+        run: node scripts/fetch-deals.js
+
+      - name: Commit & push if data changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data.js
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: auto-update clearance deals $(date -u +'%Y-%m-%d')"
+            git push
+          else
+            echo "No changes — deals are already current."
+          fi

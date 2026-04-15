@@ -373,6 +373,93 @@ body {
   transform: scale(1.02);
 }
 
+/* ── LIVE STATUS BAR ─────────────────────────────────────── */
+.live-status-bar {
+  padding: .45rem 1.5rem;
+  font-size: .8rem;
+  display: flex;
+  align-items: center;
+  gap: .5rem;
+  flex-wrap: wrap;
+  min-height: 0;
+  transition: all var(--transition);
+}
+.live-status-bar:empty { display: none; }
+
+.ls-loading { background: #fffbeb; color: #92400e; border-bottom: 1px solid #fde68a; }
+.ls-live    { background: #f0fdf4; color: #166534; border-bottom: 1px solid #bbf7d0; }
+.ls-cached  { background: #eff6ff; color: #1e40af; border-bottom: 1px solid #bfdbfe; }
+.ls-error   { background: #fef2f2; color: #991b1b; border-bottom: 1px solid #fecaca; }
+
+/* Status dot */
+.ldot {
+  display: inline-block;
+  width: 8px; height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+.ldot.green { background: #16a34a; }
+.ldot.blue  { background: #2563eb; }
+.ldot.red   { background: #dc2626; }
+.ldot.spin  {
+  background: #d97706;
+  animation: pulse-spin 1.2s ease-in-out infinite;
+}
+@keyframes pulse-spin {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50%       { opacity: .4; transform: scale(.7); }
+}
+
+/* Refresh button in status bar */
+.refresh-btn {
+  padding: .18rem .55rem;
+  border: 1px solid currentColor;
+  border-radius: 4px;
+  background: transparent;
+  font-size: .76rem;
+  font-weight: 600;
+  cursor: pointer;
+  color: inherit;
+  opacity: .75;
+  transition: opacity var(--transition);
+}
+.refresh-btn:hover { opacity: 1; }
+
+/* ── LIVE DEAL CARD VARIANTS ─────────────────────────────── */
+.card-live {
+  border-color: #86efac; /* green tint border for live cards */
+}
+.card-live .card-top::after {
+  content: "LIVE";
+  position: absolute;
+  bottom: .5rem;
+  right: .5rem;
+  font-size: .6rem;
+  font-weight: 800;
+  letter-spacing: .08em;
+  color: #16a34a;
+  background: #dcfce7;
+  padding: .15rem .4rem;
+  border-radius: 4px;
+}
+
+.badge-live {
+  background: #16a34a !important;
+  border-color: #15803d !important;
+  color: #fff !important;
+  animation: live-pulse 2s ease-in-out infinite;
+}
+@keyframes live-pulse {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(22,163,74,.5); }
+  50%       { box-shadow: 0 0 0 5px rgba(22,163,74,0); }
+}
+
+.live-source {
+  font-size: .72rem;
+  color: var(--muted);
+  font-style: italic;
+}
+
 /* ── FOOTER ─────────────────────────────────────────────── */
 .site-footer {
   background: #1a1a2e;
