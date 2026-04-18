@@ -1,12 +1,48 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-04-16 by GitHub Actions
+// Last updated: 2026-04-18 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "16-Oz Chemical Guys Total Interior Cleaner & Protectant Spray $6.75 w/ S&S",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    7.49,
+    clearancePrice: 6.75,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=16-Oz%20Chemical%20Guys%20To",
+    link:           "https://slickdeals.net/f/19432359-sns-6-74-16-oz-chemical-guys-total-interior-cleaner-protectant-interior-cleaner-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
+    name:           "Gap Factory: Extra Savings on Clearance Apparel for the Family: 55% Off + Free S&H on $50+",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    111.11,
+    clearancePrice: 50,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Gap%20Factory%3A%20Extra%20Sav",
+    link:           "https://slickdeals.net/f/19429434-gap-factory-extra-savings-on-clearance-apparel-for-the-family-55-off-free-s-h-on-50?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             3,
+    name:           "Select Home Depot Stores: Ridgid 18V 12.0 Ah Max Exp Lithium-Ion Battery",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    250,
+    clearancePrice: 125,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Home%20Depot%20Stor",
+    link:           "https://slickdeals.net/f/19421073-ridgid-12ah-18v-battery?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             4,
     name:           "Select Locations: 27-Pc Hyper Tough Home Repair Tool Kit",
     category:       "supplies",
     retailer:       "walmart",
@@ -18,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             5,
     name:           "Banana Republic Factory: Extra Savings on Select Sale Styles Extra 50% Off + Free Shipping $45+",
     category:       "supplies",
     retailer:       "amazon",
@@ -30,19 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
-    name:           "JBL HDI-3600 2.5-Way Floorstanding Loudspeaker (Gloss Black) $1150 + Free S&H",
-    category:       "tech",
-    retailer:       "amazon",
-    normalPrice:    2090,
-    clearancePrice: 1150,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=JBL%20HDI-3600%202.5-Way%20F",
-    link:           "https://slickdeals.net/f/19397862-jbl-hdi-3600-high-gloss-black-2-5-way-floorstanding-loudspeaker-each-1150?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             4,
+    id:             6,
     name:           "Men\\'s Brookstone x Christian McCaffrey 5-Head Rechargeable Electric Foil Shaver $10 + Free S&H on $35+",
     category:       "supplies",
     retailer:       "walmart",
@@ -54,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             7,
     name:           "Up to 70% Off Easter Clearance: 7\" Way To Celebrate Bow Truffle Bowl (Blue) $3 & More + Free Pickup",
     category:       "supplies",
     retailer:       "walmart",
@@ -66,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             8,
     name:           "Walgreens Easter Clearance: Easter Chocolates, Baskets, Décor, Toys & More Up to 60% Off + Free Pickup on $10+ Orders",
     category:       "food",
     retailer:       "amazon",
