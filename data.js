@@ -1,6 +1,6 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-04-18 by GitHub Actions
+// Last updated: 2026-04-19 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
@@ -31,6 +31,18 @@ const DEALS = [
   },
   {
     id:             3,
+    name:           "JCPenney Clearance Sale: Select Apparel, Shoes, Toys, Home Decor & More Up to 80% Off + Free S&H on $49+",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    245,
+    clearancePrice: 49,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=JCPenney%20Clearance%20Sal",
+    link:           "https://slickdeals.net/f/19425003-jc-penney-up-to-80-off-clearance-now?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             4,
     name:           "Select Home Depot Stores: Ridgid 18V 12.0 Ah Max Exp Lithium-Ion Battery",
     category:       "supplies",
     retailer:       "amazon",
@@ -42,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
     name:           "Select Locations: 27-Pc Hyper Tough Home Repair Tool Kit",
     category:       "supplies",
     retailer:       "walmart",
@@ -54,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             6,
     name:           "Banana Republic Factory: Extra Savings on Select Sale Styles Extra 50% Off + Free Shipping $45+",
     category:       "supplies",
     retailer:       "amazon",
@@ -66,7 +78,31 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             7,
+    name:           "386-Piece LEGO Decorative Easter Egg Building Set $5 + Free Pickup",
+    category:       "toys",
+    retailer:       "walmart",
+    normalPrice:    35,
+    clearancePrice: 5,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=386-Piece%20LEGO%20Decorat",
+    link:           "https://slickdeals.net/f/19399767-lego-decorative-easter-egg-building-toy-40816-4-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             8,
+    name:           "JBL HDI-3600 2.5-Way Floorstanding Loudspeaker (Gloss Black) $1150 + Free S&H",
+    category:       "tech",
+    retailer:       "amazon",
+    normalPrice:    2090,
+    clearancePrice: 1150,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=JBL%20HDI-3600%202.5-Way%20F",
+    link:           "https://slickdeals.net/f/19397862-jbl-hdi-3600-high-gloss-black-2-5-way-floorstanding-loudspeaker-each-1150?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             9,
     name:           "Men\\'s Brookstone x Christian McCaffrey 5-Head Rechargeable Electric Foil Shaver $10 + Free S&H on $35+",
     category:       "supplies",
     retailer:       "walmart",
@@ -78,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             10,
     name:           "Up to 70% Off Easter Clearance: 7\" Way To Celebrate Bow Truffle Bowl (Blue) $3 & More + Free Pickup",
     category:       "supplies",
     retailer:       "walmart",
@@ -90,7 +126,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             11,
     name:           "Walgreens Easter Clearance: Easter Chocolates, Baskets, Décor, Toys & More Up to 60% Off + Free Pickup on $10+ Orders",
     category:       "food",
     retailer:       "amazon",
