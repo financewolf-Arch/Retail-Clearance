@@ -1,6 +1,6 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-04-19 by GitHub Actions
+// Last updated: 2026-04-20 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
@@ -91,18 +91,6 @@ const DEALS = [
   },
   {
     id:             8,
-    name:           "JBL HDI-3600 2.5-Way Floorstanding Loudspeaker (Gloss Black) $1150 + Free S&H",
-    category:       "tech",
-    retailer:       "amazon",
-    normalPrice:    2090,
-    clearancePrice: 1150,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=JBL%20HDI-3600%202.5-Way%20F",
-    link:           "https://slickdeals.net/f/19397862-jbl-hdi-3600-high-gloss-black-2-5-way-floorstanding-loudspeaker-each-1150?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             9,
     name:           "Men\\'s Brookstone x Christian McCaffrey 5-Head Rechargeable Electric Foil Shaver $10 + Free S&H on $35+",
     category:       "supplies",
     retailer:       "walmart",
@@ -114,11 +102,11 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             10,
+    id:             9,
     name:           "Up to 70% Off Easter Clearance: 7\" Way To Celebrate Bow Truffle Bowl (Blue) $3 & More + Free Pickup",
     category:       "supplies",
     retailer:       "walmart",
-    normalPrice:    35,
+    normalPrice:    10,
     clearancePrice: 3,
     fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Up%20to%2070%25%20Off%20Easter%20C",
     link:           "https://slickdeals.net/f/19388481-up-to-70-off-easter-clearance-7-way-to-celebrate-bow-truffle-bowl-blue-3-more-free-pickup?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -126,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             11,
+    id:             10,
     name:           "Walgreens Easter Clearance: Easter Chocolates, Baskets, Décor, Toys & More Up to 60% Off + Free Pickup on $10+ Orders",
     category:       "food",
     retailer:       "amazon",
