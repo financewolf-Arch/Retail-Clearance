@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-04-20 by GitHub Actions
+// Last updated: 2026-04-22 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Clearance Apparel for the Family: Up to 85% Off + Free S&H on $50+",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    333.33,
+    clearancePrice: 50,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Clearance%20Apparel%20for%20",
+    link:           "https://slickdeals.net/f/19442538-up-to-85-off-old-navy-clearance-sale?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "16-Oz Chemical Guys Total Interior Cleaner & Protectant Spray $6.75 w/ S&S",
     category:       "supplies",
     retailer:       "amazon",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "Gap Factory: Extra Savings on Clearance Apparel for the Family: 55% Off + Free S&H on $50+",
     category:       "fashion",
     retailer:       "amazon",
@@ -30,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "JCPenney Clearance Sale: Select Apparel, Shoes, Toys, Home Decor & More Up to 80% Off + Free S&H on $49+",
     category:       "fashion",
     retailer:       "amazon",
@@ -42,7 +54,19 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
+    name:           "Warehouse Liquidation Sale: Apparel, Footwear, Gear & More Up to 80% Off + Free S&H on $50+",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    250,
+    clearancePrice: 50,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Warehouse%20Liquidation%20",
+    link:           "https://slickdeals.net/f/19422201-warehouse-liquidation-sale-apparel-footwear-gear-more-up-to-80-off-free-s-h-on-50?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             6,
     name:           "Select Home Depot Stores: Ridgid 18V 12.0 Ah Max Exp Lithium-Ion Battery",
     category:       "supplies",
     retailer:       "amazon",
@@ -54,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             7,
     name:           "Select Locations: 27-Pc Hyper Tough Home Repair Tool Kit",
     category:       "supplies",
     retailer:       "walmart",
@@ -66,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             8,
     name:           "Banana Republic Factory: Extra Savings on Select Sale Styles Extra 50% Off + Free Shipping $45+",
     category:       "supplies",
     retailer:       "amazon",
@@ -78,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             9,
     name:           "386-Piece LEGO Decorative Easter Egg Building Set $5 + Free Pickup",
     category:       "toys",
     retailer:       "walmart",
@@ -90,7 +114,19 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             10,
+    name:           "JBL HDI-3600 2.5-Way Floorstanding Loudspeaker (Gloss Black) $1150 + Free S&H",
+    category:       "tech",
+    retailer:       "amazon",
+    normalPrice:    2090,
+    clearancePrice: 1150,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=JBL%20HDI-3600%202.5-Way%20F",
+    link:           "https://slickdeals.net/f/19397862-jbl-hdi-3600-high-gloss-black-2-5-way-floorstanding-loudspeaker-each-1150?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             11,
     name:           "Men\\'s Brookstone x Christian McCaffrey 5-Head Rechargeable Electric Foil Shaver $10 + Free S&H on $35+",
     category:       "supplies",
     retailer:       "walmart",
@@ -98,30 +134,6 @@ const DEALS = [
     clearancePrice: 10,
     fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Men's%20Brookstone%20x%20Chr",
     link:           "https://slickdeals.net/f/19395324-brookstone-christian-mccaffrey-special-edition-cordless-rechargeable-5-head-foil-electric-shaver-for-men-9-98?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             9,
-    name:           "Up to 70% Off Easter Clearance: 7\" Way To Celebrate Bow Truffle Bowl (Blue) $3 & More + Free Pickup",
-    category:       "supplies",
-    retailer:       "walmart",
-    normalPrice:    10,
-    clearancePrice: 3,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Up%20to%2070%25%20Off%20Easter%20C",
-    link:           "https://slickdeals.net/f/19388481-up-to-70-off-easter-clearance-7-way-to-celebrate-bow-truffle-bowl-blue-3-more-free-pickup?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             10,
-    name:           "Walgreens Easter Clearance: Easter Chocolates, Baskets, Décor, Toys & More Up to 60% Off + Free Pickup on $10+ Orders",
-    category:       "food",
-    retailer:       "amazon",
-    normalPrice:    35,
-    clearancePrice: 10,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Walgreens%20Easter%20Clear",
-    link:           "https://slickdeals.net/f/19387743-walgreens-easter-clearance-50-off-free-store-pickup-on-10?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
