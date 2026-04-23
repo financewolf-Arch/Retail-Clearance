@@ -1,6 +1,6 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-04-22 by GitHub Actions
+// Last updated: 2026-04-23 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
@@ -122,18 +122,6 @@ const DEALS = [
     clearancePrice: 1150,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=JBL%20HDI-3600%202.5-Way%20F",
     link:           "https://slickdeals.net/f/19397862-jbl-hdi-3600-high-gloss-black-2-5-way-floorstanding-loudspeaker-each-1150?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             11,
-    name:           "Men\\'s Brookstone x Christian McCaffrey 5-Head Rechargeable Electric Foil Shaver $10 + Free S&H on $35+",
-    category:       "supplies",
-    retailer:       "walmart",
-    normalPrice:    35,
-    clearancePrice: 10,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Men's%20Brookstone%20x%20Chr",
-    link:           "https://slickdeals.net/f/19395324-brookstone-christian-mccaffrey-special-edition-cordless-rechargeable-5-head-foil-electric-shaver-for-men-9-98?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
