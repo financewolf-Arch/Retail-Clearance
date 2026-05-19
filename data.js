@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-05-15 by GitHub Actions
+// Last updated: 2026-05-19 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Nike Men\\'s Air Max Excee Shoes (Grey/White) $49.95 + Free S&H",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    49.97,
+    clearancePrice: 49.95,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Nike%20Men's%20Air%20Max%20Exc",
+    link:           "https://slickdeals.net/f/19528065-nike-men-s-air-max-excee-shoes-grey-white-49-95-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "Cooler Master MasterBox Q300L microATX Tower PC Case w/ Magnetic Dust Filter $35 + Free S&H",
     category:       "supplies",
     retailer:       "amazon",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "Fanatics Clearance Sale: Select Jerseys, Hats, Apparel & More up to 70% Off + Free S&H on $29+",
     category:       "fashion",
     retailer:       "amazon",
@@ -30,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "Banana Republic Factory: Extra Savings on Select Sale Styles Extra 50% Off",
     category:       "supplies",
     retailer:       "amazon",
@@ -42,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
     name:           "VRST Men\\'s Outdoor Grid 1/4 Zip Pullover (Plum) $13.55 + Free S&H",
     category:       "supplies",
     retailer:       "amazon",
@@ -54,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             6,
     name:           "Razer Kishi V3 Gaming Controller for iPhone 15, 16, 17 & Android $61 + Free S&H",
     category:       "tech",
     retailer:       "amazon",
@@ -66,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             7,
     name:           "40oz. Stanley Ice Flow Flip Straw Tumbler (Calcite Calacatta or Pink Amethyst) $27.50 + Free S&H on $35+",
     category:       "supplies",
     retailer:       "target",
@@ -78,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             8,
     name:           "Select Accts: Razer Kishi V3 Gaming Controller for iPhone 15, 16, 17 & Android $75 + Free S&H",
     category:       "tech",
     retailer:       "amazon",
@@ -86,30 +98,6 @@ const DEALS = [
     clearancePrice: 75,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Accts%3A%20Razer%20Ki",
     link:           "https://slickdeals.net/f/19505415-ac-74-99-razer-kishi-v3-gaming-controller-for-iphone-15-16-17-series-android-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             8,
-    name:           "Select Stores: 4-Pk Scotch 1.88\" x 54.6 yds. Heavy Duty Packaging Tape",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    17.98,
-    clearancePrice: 4.5,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Stores%3A%204-Pk%20Sc",
-    link:           "https://slickdeals.net/f/19499007-scotch-heavy-duty-shipping-packaging-tape-4-pack-home-depot-clearance-ymmv-4-5?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             9,
-    name:           "(Certified Refurb) eufy Omni C20 Robot Vacuum & Mop Combo $152 + Free S&H",
-    category:       "home",
-    retailer:       "amazon",
-    normalPrice:    189.99,
-    clearancePrice: 152,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=(Certified%20Refurb)%20euf",
-    link:           "https://slickdeals.net/f/19491549-certified-refurbished-eufy-omni-c20-robot-vacuum-and-mop-combo-151-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
