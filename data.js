@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-05-19 by GitHub Actions
+// Last updated: 2026-05-20 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Gap Factory: Extra Savings on Clearance Apparel for the Family 50% Off",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    100,
+    clearancePrice: 50,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Gap%20Factory%3A%20Extra%20Sav",
+    link:           "https://slickdeals.net/f/19536351-up-to-65-off-extra-50-off-gap-factory-clearance-sale?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "Nike Men\\'s Air Max Excee Shoes (Grey/White) $49.95 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "Cooler Master MasterBox Q300L microATX Tower PC Case w/ Magnetic Dust Filter $35 + Free S&H",
     category:       "supplies",
     retailer:       "amazon",
@@ -30,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "Fanatics Clearance Sale: Select Jerseys, Hats, Apparel & More up to 70% Off + Free S&H on $29+",
     category:       "fashion",
     retailer:       "amazon",
@@ -42,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
     name:           "Banana Republic Factory: Extra Savings on Select Sale Styles Extra 50% Off",
     category:       "supplies",
     retailer:       "amazon",
@@ -54,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             6,
     name:           "VRST Men\\'s Outdoor Grid 1/4 Zip Pullover (Plum) $13.55 + Free S&H",
     category:       "supplies",
     retailer:       "amazon",
@@ -66,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             7,
     name:           "Razer Kishi V3 Gaming Controller for iPhone 15, 16, 17 & Android $61 + Free S&H",
     category:       "tech",
     retailer:       "amazon",
@@ -78,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             8,
     name:           "40oz. Stanley Ice Flow Flip Straw Tumbler (Calcite Calacatta or Pink Amethyst) $27.50 + Free S&H on $35+",
     category:       "supplies",
     retailer:       "target",
@@ -90,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             9,
     name:           "Select Accts: Razer Kishi V3 Gaming Controller for iPhone 15, 16, 17 & Android $75 + Free S&H",
     category:       "tech",
     retailer:       "amazon",
