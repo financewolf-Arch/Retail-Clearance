@@ -1,12 +1,60 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-05-20 by GitHub Actions
+// Last updated: 2026-05-22 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "15-Lbs BalanceFrom Rubber Encased Hex Dumbbells (Pair) $23 + Free S&H on $35+",
+    category:       "sports",
+    retailer:       "walmart",
+    normalPrice:    35,
+    clearancePrice: 23,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=15-Lbs%20BalanceFrom%20Rub",
+    link:           "https://slickdeals.net/f/19545375-15-lbs-pair-balancefrom-rubber-encased-hex-dumbbells-22-95-free-shipping-w-walmart-or-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
+    name:           "Select Stores: KEF LSX II LT Wireless Bookshelf Speakers (Pair, Graphite Grey)",
+    category:       "tech",
+    retailer:       "costco",
+    normalPrice:    399.97,
+    clearancePrice: 399.95,
+    fallbackImage:  "https://placehold.co/300x200/005DAA/ffffff?text=Select%20Stores%3A%20KEF%20LSX",
+    link:           "https://slickdeals.net/f/19544364-costco-b-m-kef-lsx-ii-lt-wireless-bookshelf-speaker-399-97-in-store-clearance-ymmv?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             3,
+    name:           "Mountain Summit Gear Compact Cot (74\" x 28\") $30 + Free S&H on $50+",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    50,
+    clearancePrice: 30,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Mountain%20Summit%20Gear%20C",
+    link:           "https://slickdeals.net/f/19543023-mountain-summit-gear-compact-cot-74-x-28-29-99-free-shipping-on-50?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             4,
+    name:           "6-Stage SimPure Y9T Countertop Reverse Osmosis 300GPD Water Filter $176 + Free S&H",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    351.99,
+    clearancePrice: 176,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=6-Stage%20SimPure%20Y9T%20Co",
+    link:           "https://slickdeals.net/f/19540713-6-stage-simpure-y9t-countertop-reverse-osmosis-300gpd-water-filter-175-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             5,
     name:           "Gap Factory: Extra Savings on Clearance Apparel for the Family 50% Off",
     category:       "fashion",
     retailer:       "amazon",
@@ -18,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             6,
     name:           "Nike Men\\'s Air Max Excee Shoes (Grey/White) $49.95 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -30,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             7,
     name:           "Cooler Master MasterBox Q300L microATX Tower PC Case w/ Magnetic Dust Filter $35 + Free S&H",
     category:       "supplies",
     retailer:       "amazon",
@@ -42,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             8,
     name:           "Fanatics Clearance Sale: Select Jerseys, Hats, Apparel & More up to 70% Off + Free S&H on $29+",
     category:       "fashion",
     retailer:       "amazon",
@@ -54,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             9,
     name:           "Banana Republic Factory: Extra Savings on Select Sale Styles Extra 50% Off",
     category:       "supplies",
     retailer:       "amazon",
@@ -66,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             10,
     name:           "VRST Men\\'s Outdoor Grid 1/4 Zip Pullover (Plum) $13.55 + Free S&H",
     category:       "supplies",
     retailer:       "amazon",
@@ -78,7 +126,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             11,
     name:           "Razer Kishi V3 Gaming Controller for iPhone 15, 16, 17 & Android $61 + Free S&H",
     category:       "tech",
     retailer:       "amazon",
@@ -90,7 +138,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             12,
     name:           "40oz. Stanley Ice Flow Flip Straw Tumbler (Calcite Calacatta or Pink Amethyst) $27.50 + Free S&H on $35+",
     category:       "supplies",
     retailer:       "target",
@@ -102,7 +150,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             13,
     name:           "Select Accts: Razer Kishi V3 Gaming Controller for iPhone 15, 16, 17 & Android $75 + Free S&H",
     category:       "tech",
     retailer:       "amazon",
