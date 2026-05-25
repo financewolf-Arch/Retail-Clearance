@@ -1,19 +1,19 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-05-24 by GitHub Actions
+// Last updated: 2026-05-25 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
-    name:           "Select Costco Stores: Sonos Sub Wireless Subwoofer (Gen 4)",
-    category:       "supplies",
-    retailer:       "costco",
-    normalPrice:    714.29,
-    clearancePrice: 500,
-    fallbackImage:  "https://placehold.co/300x200/005DAA/ffffff?text=Select%20Costco%20Stores%3A%20",
-    link:           "https://slickdeals.net/f/19551813-sonos-sub-gen-4-costco-ymmv-499-in-store?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    name:           "Nordstrom Rack: Clear the Rack: Selected Clearance Items: Shoes, Beauty, Bags Extra 25% Off & More + Free S&H on $89+",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    118.67,
+    clearancePrice: 89,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Nordstrom%20Rack%3A%20Clear%20",
+    link:           "https://slickdeals.net/f/19550706-extra-25-off-nordstrom-rack-clear-the-rack-sale?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   },
@@ -45,10 +45,10 @@ const DEALS = [
     id:             4,
     name:           "Select Stores: KEF LSX II LT Wireless Bookshelf Speakers (Pair, Graphite Grey)",
     category:       "tech",
-    retailer:       "costco",
-    normalPrice:    399.97,
+    retailer:       "amazon",
+    normalPrice:    599,
     clearancePrice: 399.95,
-    fallbackImage:  "https://placehold.co/300x200/005DAA/ffffff?text=Select%20Stores%3A%20KEF%20LSX",
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Stores%3A%20KEF%20LSX",
     link:           "https://slickdeals.net/f/19544364-costco-b-m-kef-lsx-ii-lt-wireless-bookshelf-speaker-399-97-in-store-clearance-ymmv?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
@@ -115,6 +115,18 @@ const DEALS = [
   },
   {
     id:             10,
+    name:           "Osaki OS-Pro Maestro 4D SL-Track Zero Gravity Massage Chair w/ Heated Rollers $2999 + Free S&H",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    8999,
+    clearancePrice: 2999,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Osaki%20OS-Pro%20Maestro%204",
+    link:           "https://slickdeals.net/f/19535316-osaki-os-pro-maestro-4d-sl-track-zero-gravity-massage-chair-w-heated-rollers-3-colors-2999-free-delivery?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             11,
     name:           "Nike Men\\'s Air Max Excee Shoes (Grey/White) $49.95 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -126,7 +138,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             11,
+    id:             12,
     name:           "Cooler Master MasterBox Q300L microATX Tower PC Case w/ Magnetic Dust Filter $35 + Free S&H",
     category:       "supplies",
     retailer:       "amazon",
@@ -134,30 +146,6 @@ const DEALS = [
     clearancePrice: 35,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Cooler%20Master%20MasterBo",
     link:           "https://slickdeals.net/f/19521222-cooler-master-masterbox-q300l-micro-atx-tower-pc-case-w-magnetic-dust-filter-34-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             12,
-    name:           "Fanatics Clearance Sale: Select Jerseys, Hats, Apparel & More up to 70% Off + Free S&H on $29+",
-    category:       "fashion",
-    retailer:       "amazon",
-    normalPrice:    96.67,
-    clearancePrice: 29,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Fanatics%20Clearance%20Sal",
-    link:           "https://slickdeals.net/f/19518807-fanatics-up-to-70-off-clearance-jerseys-hats-3-99-lots-more?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             13,
-    name:           "Banana Republic Factory: Extra Savings on Select Sale Styles Extra 50% Off",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    100,
-    clearancePrice: 50,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Banana%20Republic%20Factor",
-    link:           "https://slickdeals.net/f/19512345-banana-republic-outlet-extra-50-off-select-men-s-or-women-s-sale-styles-free-shipping-on-50?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
