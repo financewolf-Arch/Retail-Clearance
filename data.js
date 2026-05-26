@@ -1,12 +1,36 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-05-25 by GitHub Actions
+// Last updated: 2026-05-26 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Academy Sports Clothing & Shoes Clearance Up to 75% off + Free S&H on $25+",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    100,
+    clearancePrice: 25,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Academy%20Sports%20Clothin",
+    link:           "https://slickdeals.net/f/19558986-up-to-75-off-academy-sports-clothing-shoes-clearance?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
+    name:           "Select Costco Stores: Sonos Sub Wireless Subwoofer (Gen 4)",
+    category:       "supplies",
+    retailer:       "costco",
+    normalPrice:    714.29,
+    clearancePrice: 500,
+    fallbackImage:  "https://placehold.co/300x200/005DAA/ffffff?text=Select%20Costco%20Stores%3A%20",
+    link:           "https://slickdeals.net/f/19551813-sonos-sub-gen-4-costco-ymmv-499-in-store?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             3,
     name:           "Nordstrom Rack: Clear the Rack: Selected Clearance Items: Shoes, Beauty, Bags Extra 25% Off & More + Free S&H on $89+",
     category:       "fashion",
     retailer:       "amazon",
@@ -18,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             4,
     name:           "4-Ct Bridgestone Alenza Sport A/S Crossover & SUV Tires (235/45R21) $205 after $80 Rebate + Free S&H",
     category:       "supplies",
     retailer:       "amazon",
@@ -30,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             5,
     name:           "15-Lbs BalanceFrom Rubber Encased Hex Dumbbells (Pair) $23 + Free S&H on $35+",
     category:       "sports",
     retailer:       "walmart",
@@ -42,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             6,
     name:           "Select Stores: KEF LSX II LT Wireless Bookshelf Speakers (Pair, Graphite Grey)",
     category:       "tech",
     retailer:       "amazon",
@@ -54,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             7,
     name:           "Select Stores: Swiffer Microfiber Dusters Starter Kit (1x Handle & 5x Dusters)",
     category:       "supplies",
     retailer:       "amazon",
@@ -66,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             8,
     name:           "Mountain Summit Gear Compact Cot (74\" x 28\") $30 + Free S&H on $50+",
     category:       "supplies",
     retailer:       "amazon",
@@ -78,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             9,
     name:           "Men\\'s Cotton Twill Blazer Jacket (Iconic Khaki) $22.50 & More + Free S/H $50+ Orders",
     category:       "fashion",
     retailer:       "amazon",
@@ -90,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             10,
     name:           "6-Stage SimPure Y9T Countertop Reverse Osmosis 300GPD Water Filter $176 + Free S&H",
     category:       "supplies",
     retailer:       "amazon",
@@ -102,7 +126,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             11,
     name:           "Gap Factory: Extra Savings on Clearance Apparel for the Family 50% Off",
     category:       "fashion",
     retailer:       "amazon",
@@ -114,7 +138,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             10,
+    id:             12,
     name:           "Osaki OS-Pro Maestro 4D SL-Track Zero Gravity Massage Chair w/ Heated Rollers $2999 + Free S&H",
     category:       "supplies",
     retailer:       "amazon",
@@ -126,7 +150,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             11,
+    id:             13,
     name:           "Nike Men\\'s Air Max Excee Shoes (Grey/White) $49.95 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -138,7 +162,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             12,
+    id:             14,
     name:           "Cooler Master MasterBox Q300L microATX Tower PC Case w/ Magnetic Dust Filter $35 + Free S&H",
     category:       "supplies",
     retailer:       "amazon",
