@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-05-31 by GitHub Actions
+// Last updated: 2026-06-02 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Select Sam\\'s Club Stores: 65\" LG B5 OLED AI 4K UHD 120Hz Smart TV (2025)",
+    category:       "tech",
+    retailer:       "samsclub",
+    normalPrice:    549.91,
+    clearancePrice: 549.9,
+    fallbackImage:  "https://placehold.co/300x200/004990/ffffff?text=Select%20Sam's%20Club%20Stor",
+    link:           "https://slickdeals.net/f/19577457-select-sam-s-club-stores-65-lg-b5-oled-ai-4k-uhd-120hz-smart-tv-2025-549-90-in-store-only?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "Gap Factory: Extra Savings on Clearance Apparel for the Family 55% Off + 10% Off + Free S&H $50+ Orders",
     category:       "fashion",
     retailer:       "amazon",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "2-Pk Livhil Mountable Hook Hat Rack (Holds Up to 20 Hats) $10 + Free S&H w/ $35+",
     category:       "supplies",
     retailer:       "walmart",
@@ -30,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "Solati Cordless Hair Clipper & Beard Trimmer Kit w/ LED Display (Black)",
     category:       "supplies",
     retailer:       "amazon",
@@ -42,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
     name:           "Academy Sports Clothing & Shoes Clearance Up to 75% off + Free S&H on $25+",
     category:       "fashion",
     retailer:       "amazon",
@@ -50,18 +62,6 @@ const DEALS = [
     clearancePrice: 25,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Academy%20Sports%20Clothin",
     link:           "https://slickdeals.net/f/19558986-up-to-75-off-academy-sports-clothing-shoes-clearance?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             5,
-    name:           "Select Costco Stores: Sonos Sub Wireless Subwoofer (Gen 4)",
-    category:       "supplies",
-    retailer:       "costco",
-    normalPrice:    714.29,
-    clearancePrice: 500,
-    fallbackImage:  "https://placehold.co/300x200/005DAA/ffffff?text=Select%20Costco%20Stores%3A%20",
-    link:           "https://slickdeals.net/f/19551813-sonos-sub-gen-4-costco-ymmv-499-in-store?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   },
@@ -82,7 +82,7 @@ const DEALS = [
     name:           "4-Ct Bridgestone Alenza Sport A/S Crossover & SUV Tires (235/45R21) $205 after $80 Rebate + Free S&H",
     category:       "supplies",
     retailer:       "amazon",
-    normalPrice:    284.52,
+    normalPrice:    388,
     clearancePrice: 205,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=4-Ct%20Bridgestone%20Alenz",
     link:           "https://slickdeals.net/f/19548264-4-ct-bridgestone-alenza-sport-a-s-crossover-suv-tires-235-45r21-205-after-80-rebate-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -105,35 +105,11 @@ const DEALS = [
     id:             9,
     name:           "Select Stores: KEF LSX II LT Wireless Bookshelf Speakers (Pair, Graphite Grey)",
     category:       "tech",
-    retailer:       "costco",
-    normalPrice:    399.97,
+    retailer:       "amazon",
+    normalPrice:    599,
     clearancePrice: 399.95,
-    fallbackImage:  "https://placehold.co/300x200/005DAA/ffffff?text=Select%20Stores%3A%20KEF%20LSX",
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Stores%3A%20KEF%20LSX",
     link:           "https://slickdeals.net/f/19544364-costco-b-m-kef-lsx-ii-lt-wireless-bookshelf-speaker-399-97-in-store-clearance-ymmv?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             10,
-    name:           "Mountain Summit Gear Compact Cot (74\" x 28\") $30 + Free S&H on $50+",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    50,
-    clearancePrice: 30,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Mountain%20Summit%20Gear%20C",
-    link:           "https://slickdeals.net/f/19543023-mountain-summit-gear-compact-cot-74-x-28-29-99-free-shipping-on-50?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             11,
-    name:           "Men\\'s Cotton Twill Blazer Jacket (Iconic Khaki) $22.50 & More + Free S/H $50+ Orders",
-    category:       "fashion",
-    retailer:       "amazon",
-    normalPrice:    50,
-    clearancePrice: 22.5,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Men's%20Cotton%20Twill%20Bla",
-    link:           "https://slickdeals.net/f/19542942-men-s-cotton-twill-blazer-jacket-iconic-khaki-22-49-more-free-shipping-on-50?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
