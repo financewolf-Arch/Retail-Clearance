@@ -1,6 +1,6 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-06-02 by GitHub Actions
+// Last updated: 2026-06-03 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
@@ -67,6 +67,18 @@ const DEALS = [
   },
   {
     id:             6,
+    name:           "Select Costco Stores: Sonos Sub Wireless Subwoofer (Gen 4)",
+    category:       "supplies",
+    retailer:       "costco",
+    normalPrice:    714.29,
+    clearancePrice: 500,
+    fallbackImage:  "https://placehold.co/300x200/005DAA/ffffff?text=Select%20Costco%20Stores%3A%20",
+    link:           "https://slickdeals.net/f/19551813-sonos-sub-gen-4-costco-ymmv-499-in-store?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             7,
     name:           "Nordstrom Rack: Clear the Rack: Selected Clearance Items: Shoes, Beauty, Bags Extra 25% Off & More + Free S&H on $89+",
     category:       "fashion",
     retailer:       "amazon",
@@ -78,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             8,
     name:           "4-Ct Bridgestone Alenza Sport A/S Crossover & SUV Tires (235/45R21) $205 after $80 Rebate + Free S&H",
     category:       "supplies",
     retailer:       "amazon",
@@ -90,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             9,
     name:           "15-Lbs BalanceFrom Rubber Encased Hex Dumbbells (Pair) $23 + Free S&H on $35+",
     category:       "sports",
     retailer:       "walmart",
@@ -98,18 +110,6 @@ const DEALS = [
     clearancePrice: 23,
     fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=15-Lbs%20BalanceFrom%20Rub",
     link:           "https://slickdeals.net/f/19545375-15-lbs-pair-balancefrom-rubber-encased-hex-dumbbells-22-95-free-shipping-w-walmart-or-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             9,
-    name:           "Select Stores: KEF LSX II LT Wireless Bookshelf Speakers (Pair, Graphite Grey)",
-    category:       "tech",
-    retailer:       "amazon",
-    normalPrice:    599,
-    clearancePrice: 399.95,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Stores%3A%20KEF%20LSX",
-    link:           "https://slickdeals.net/f/19544364-costco-b-m-kef-lsx-ii-lt-wireless-bookshelf-speaker-399-97-in-store-clearance-ymmv?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
