@@ -1,12 +1,48 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-06-03 by GitHub Actions
+// Last updated: 2026-06-04 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Summer Ingenuity Central Station Metal Frame Safety Gate (28.5\"-52\" Wide) $23 + Free S&H on $35+",
+    category:       "supplies",
+    retailer:       "walmart",
+    normalPrice:    35,
+    clearancePrice: 23,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Summer%20Ingenuity%20Centr",
+    link:           "https://slickdeals.net/f/19592250-summer-by-ingenuity-central-station-28-5-52-wide-30-tall-safety-pet-baby-gate-gray-23-00-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
+    name:           "Select Walgreen\\'s Stores: Wexford Dry Erase Board (11.42 x 13.74\") $2.30 + Free Pickup Orders $10+",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    10,
+    clearancePrice: 2.3,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Walgreen's%20Stor",
+    link:           "https://slickdeals.net/f/19587720-2-29-walgreens-clearance-ymmv-wexford-dry-erase-board-11-42x0-63x13-74-in-1-0-ea-fpu-at-10?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             3,
+    name:           "Banana Republic Factory Extra 50% Off Select Styles: Men\\'s Athletic Travel Jeans $15 & More + Free S&H on $50+",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    50,
+    clearancePrice: 15,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Banana%20Republic%20Factor",
+    link:           "https://slickdeals.net/f/19583205-banana-republic-factory-men-s-athletic-travel-jean-14-98-women-s-cozy-ribbed-knit-midi-dress-12-98-more-free-shipping-on-50?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             4,
     name:           "Select Sam\\'s Club Stores: 65\" LG B5 OLED AI 4K UHD 120Hz Smart TV (2025)",
     category:       "tech",
     retailer:       "samsclub",
@@ -18,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             5,
     name:           "Gap Factory: Extra Savings on Clearance Apparel for the Family 55% Off + 10% Off + Free S&H $50+ Orders",
     category:       "fashion",
     retailer:       "amazon",
@@ -30,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             6,
     name:           "2-Pk Livhil Mountable Hook Hat Rack (Holds Up to 20 Hats) $10 + Free S&H w/ $35+",
     category:       "supplies",
     retailer:       "walmart",
@@ -42,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             7,
     name:           "Solati Cordless Hair Clipper & Beard Trimmer Kit w/ LED Display (Black)",
     category:       "supplies",
     retailer:       "amazon",
@@ -54,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             8,
     name:           "Academy Sports Clothing & Shoes Clearance Up to 75% off + Free S&H on $25+",
     category:       "fashion",
     retailer:       "amazon",
@@ -66,19 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
-    name:           "Select Costco Stores: Sonos Sub Wireless Subwoofer (Gen 4)",
-    category:       "supplies",
-    retailer:       "costco",
-    normalPrice:    714.29,
-    clearancePrice: 500,
-    fallbackImage:  "https://placehold.co/300x200/005DAA/ffffff?text=Select%20Costco%20Stores%3A%20",
-    link:           "https://slickdeals.net/f/19551813-sonos-sub-gen-4-costco-ymmv-499-in-store?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             7,
+    id:             9,
     name:           "Nordstrom Rack: Clear the Rack: Selected Clearance Items: Shoes, Beauty, Bags Extra 25% Off & More + Free S&H on $89+",
     category:       "fashion",
     retailer:       "amazon",
@@ -86,30 +110,6 @@ const DEALS = [
     clearancePrice: 89,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Nordstrom%20Rack%3A%20Clear%20",
     link:           "https://slickdeals.net/f/19550706-extra-25-off-nordstrom-rack-clear-the-rack-sale?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             8,
-    name:           "4-Ct Bridgestone Alenza Sport A/S Crossover & SUV Tires (235/45R21) $205 after $80 Rebate + Free S&H",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    388,
-    clearancePrice: 205,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=4-Ct%20Bridgestone%20Alenz",
-    link:           "https://slickdeals.net/f/19548264-4-ct-bridgestone-alenza-sport-a-s-crossover-suv-tires-235-45r21-205-after-80-rebate-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             9,
-    name:           "15-Lbs BalanceFrom Rubber Encased Hex Dumbbells (Pair) $23 + Free S&H on $35+",
-    category:       "sports",
-    retailer:       "walmart",
-    normalPrice:    35,
-    clearancePrice: 23,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=15-Lbs%20BalanceFrom%20Rub",
-    link:           "https://slickdeals.net/f/19545375-15-lbs-pair-balancefrom-rubber-encased-hex-dumbbells-22-95-free-shipping-w-walmart-or-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
