@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-06-11 by GitHub Actions
+// Last updated: 2026-06-13 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "TV Store Online Summer Blowout Clearance Sale: Sweatpants, Hoodies, Shirts $4 & More + Free S&H",
+    category:       "tech",
+    retailer:       "amazon",
+    normalPrice:    5,
+    clearancePrice: 4,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=TV%20Store%20Online%20Summer",
+    link:           "https://slickdeals.net/f/19619208-tv-store-online-summer-blowout-clearance-sale-sweatpants-hoodies-shirts-4-more-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "Nike Men\\'s Giannis Freak 7 Basketball Shoes (Uni Red/White, Limited Sizes) $49.45 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "Nike Book 1 Basketball Shoes (Black/Multicolor) $65.65 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -30,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "2-Pk 8\" Fiskars Softgrip Titanium Scissors $4.30 + Free Pickup on $10+",
     category:       "supplies",
     retailer:       "amazon",
@@ -42,7 +54,19 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
+    name:           "Kohl\\'s Clearance Sale: Apparel, Home Decor & More Extra 50% Off + Free Pickup",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    98,
+    clearancePrice: 49,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Kohl's%20Clearance%20Sale%3A",
+    link:           "https://slickdeals.net/f/19593981-kohl-s-clearance-save-up-to-80-off-after-an-extra-50-off?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             6,
     name:           "Summer Ingenuity Central Station Metal Frame Safety Gate (28.5\"-52\" Wide) $23 + Free S&H on $35+",
     category:       "supplies",
     retailer:       "walmart",
@@ -54,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             7,
     name:           "Costway 2-Tier Raised Garden Bed w/ Trellis $63 + Free S&H",
     category:       "supplies",
     retailer:       "amazon",
@@ -66,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             8,
     name:           "Select Walgreen\\'s Stores: Wexford Dry Erase Board (11.42 x 13.74\") $2.30 + Free Pickup Orders $10+",
     category:       "supplies",
     retailer:       "amazon",
@@ -74,30 +98,6 @@ const DEALS = [
     clearancePrice: 2.3,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Walgreen's%20Stor",
     link:           "https://slickdeals.net/f/19587720-2-29-walgreens-clearance-ymmv-wexford-dry-erase-board-11-42x0-63x13-74-in-1-0-ea-fpu-at-10?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             7,
-    name:           "Banana Republic Factory Extra 50% Off Select Styles: Men\\'s Athletic Travel Jeans $15 & More + Free S&H on $50+",
-    category:       "fashion",
-    retailer:       "amazon",
-    normalPrice:    50,
-    clearancePrice: 15,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Banana%20Republic%20Factor",
-    link:           "https://slickdeals.net/f/19583205-banana-republic-factory-men-s-athletic-travel-jean-14-98-women-s-cozy-ribbed-knit-midi-dress-12-98-more-free-shipping-on-50?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             8,
-    name:           "Select Sam\\'s Club Stores: 65\" LG B5 OLED AI 4K UHD 120Hz Smart TV (2025)",
-    category:       "tech",
-    retailer:       "samsclub",
-    normalPrice:    549.91,
-    clearancePrice: 549.9,
-    fallbackImage:  "https://placehold.co/300x200/004990/ffffff?text=Select%20Sam's%20Club%20Stor",
-    link:           "https://slickdeals.net/f/19577457-select-sam-s-club-stores-65-lg-b5-oled-ai-4k-uhd-120hz-smart-tv-2025-549-90-in-store-only?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
