@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-06-13 by GitHub Actions
+// Last updated: 2026-06-15 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Select Stores: 16.3-Oz Skippy Super Chunk Peanut Butter $1 + Free Pickup on $10+",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    10,
+    clearancePrice: 1,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Stores%3A%2016.3-Oz",
+    link:           "https://slickdeals.net/f/19627995-99cents-walgreens-clearance-item-ymmv-on-stock-skippy-peanut-butter-super-chunk-16-3-oz-99-cents-free-pu-at-10?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "TV Store Online Summer Blowout Clearance Sale: Sweatpants, Hoodies, Shirts $4 & More + Free S&H",
     category:       "tech",
     retailer:       "amazon",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "Nike Men\\'s Giannis Freak 7 Basketball Shoes (Uni Red/White, Limited Sizes) $49.45 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -30,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "Nike Book 1 Basketball Shoes (Black/Multicolor) $65.65 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -42,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
     name:           "2-Pk 8\" Fiskars Softgrip Titanium Scissors $4.30 + Free Pickup on $10+",
     category:       "supplies",
     retailer:       "amazon",
@@ -54,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             6,
     name:           "Kohl\\'s Clearance Sale: Apparel, Home Decor & More Extra 50% Off + Free Pickup",
     category:       "fashion",
     retailer:       "amazon",
@@ -66,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             7,
     name:           "Summer Ingenuity Central Station Metal Frame Safety Gate (28.5\"-52\" Wide) $23 + Free S&H on $35+",
     category:       "supplies",
     retailer:       "walmart",
@@ -78,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             8,
     name:           "Costway 2-Tier Raised Garden Bed w/ Trellis $63 + Free S&H",
     category:       "supplies",
     retailer:       "amazon",
@@ -86,18 +98,6 @@ const DEALS = [
     clearancePrice: 63,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Costway%202-Tier%20Raised%20",
     link:           "https://slickdeals.net/f/19588662-costway-2-tier-raised-garden-bed-with-trellis-wooden-elevated-planter-box-with-legs-62-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             8,
-    name:           "Select Walgreen\\'s Stores: Wexford Dry Erase Board (11.42 x 13.74\") $2.30 + Free Pickup Orders $10+",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    10,
-    clearancePrice: 2.3,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Walgreen's%20Stor",
-    link:           "https://slickdeals.net/f/19587720-2-29-walgreens-clearance-ymmv-wexford-dry-erase-board-11-42x0-63x13-74-in-1-0-ea-fpu-at-10?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
