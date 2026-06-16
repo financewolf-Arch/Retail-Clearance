@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-06-15 by GitHub Actions
+// Last updated: 2026-06-16 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Select Stores: 0.16oz Revlon ColorStay Creme Eye Shadow (3 Colors) $2 + Free Pickup $10+ Orders",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    10,
+    clearancePrice: 2,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Stores%3A%200.16oz%20",
+    link:           "https://slickdeals.net/f/19628022-walgreens-clearance-1-99ac-revlon-colorstay-creme-eye-shadow-chocolate-0-16-oz-12-list?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "Select Stores: 16.3-Oz Skippy Super Chunk Peanut Butter $1 + Free Pickup on $10+",
     category:       "supplies",
     retailer:       "amazon",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "TV Store Online Summer Blowout Clearance Sale: Sweatpants, Hoodies, Shirts $4 & More + Free S&H",
     category:       "tech",
     retailer:       "amazon",
@@ -30,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "Nike Men\\'s Giannis Freak 7 Basketball Shoes (Uni Red/White, Limited Sizes) $49.45 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -42,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
     name:           "Nike Book 1 Basketball Shoes (Black/Multicolor) $65.65 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -54,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             6,
     name:           "2-Pk 8\" Fiskars Softgrip Titanium Scissors $4.30 + Free Pickup on $10+",
     category:       "supplies",
     retailer:       "amazon",
@@ -66,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             7,
     name:           "Kohl\\'s Clearance Sale: Apparel, Home Decor & More Extra 50% Off + Free Pickup",
     category:       "fashion",
     retailer:       "amazon",
@@ -78,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             8,
     name:           "Summer Ingenuity Central Station Metal Frame Safety Gate (28.5\"-52\" Wide) $23 + Free S&H on $35+",
     category:       "supplies",
     retailer:       "walmart",
@@ -86,18 +98,6 @@ const DEALS = [
     clearancePrice: 23,
     fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Summer%20Ingenuity%20Centr",
     link:           "https://slickdeals.net/f/19592250-summer-by-ingenuity-central-station-28-5-52-wide-30-tall-safety-pet-baby-gate-gray-23-00-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             8,
-    name:           "Costway 2-Tier Raised Garden Bed w/ Trellis $63 + Free S&H",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    109.99,
-    clearancePrice: 63,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Costway%202-Tier%20Raised%20",
-    link:           "https://slickdeals.net/f/19588662-costway-2-tier-raised-garden-bed-with-trellis-wooden-elevated-planter-box-with-legs-62-99-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
