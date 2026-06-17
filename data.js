@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-06-16 by GitHub Actions
+// Last updated: 2026-06-17 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Women\\'s Nike Air Max Fire Athletic Shoes (Burgundy) + Earn $10 Kohl\\'s Cash $57.75 + Free S&H",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    57.75,
+    clearancePrice: 10,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Women's%20Nike%20Air%20Max%20F",
+    link:           "https://slickdeals.net/f/19632024-women-s-nike-air-max-fire-athletic-shoes-burgundy-earn-10-kohl-s-cash-57-75-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "Select Stores: 0.16oz Revlon ColorStay Creme Eye Shadow (3 Colors) $2 + Free Pickup $10+ Orders",
     category:       "supplies",
     retailer:       "amazon",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "Select Stores: 16.3-Oz Skippy Super Chunk Peanut Butter $1 + Free Pickup on $10+",
     category:       "supplies",
     retailer:       "amazon",
@@ -30,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "TV Store Online Summer Blowout Clearance Sale: Sweatpants, Hoodies, Shirts $4 & More + Free S&H",
     category:       "tech",
     retailer:       "amazon",
@@ -42,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
     name:           "Nike Men\\'s Giannis Freak 7 Basketball Shoes (Uni Red/White, Limited Sizes) $49.45 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -54,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             6,
     name:           "Nike Book 1 Basketball Shoes (Black/Multicolor) $65.65 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -66,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             7,
     name:           "2-Pk 8\" Fiskars Softgrip Titanium Scissors $4.30 + Free Pickup on $10+",
     category:       "supplies",
     retailer:       "amazon",
@@ -78,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             8,
     name:           "Kohl\\'s Clearance Sale: Apparel, Home Decor & More Extra 50% Off + Free Pickup",
     category:       "fashion",
     retailer:       "amazon",
@@ -90,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             9,
     name:           "Summer Ingenuity Central Station Metal Frame Safety Gate (28.5\"-52\" Wide) $23 + Free S&H on $35+",
     category:       "supplies",
     retailer:       "walmart",
