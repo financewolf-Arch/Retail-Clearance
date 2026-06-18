@@ -1,6 +1,6 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-06-17 by GitHub Actions
+// Last updated: 2026-06-18 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
@@ -19,6 +19,18 @@ const DEALS = [
   },
   {
     id:             2,
+    name:           "Select Home Depot Stores: Scrub Daddy BBQ Daddy Grill Brush",
+    category:       "home",
+    retailer:       "amazon",
+    normalPrice:    29.98,
+    clearancePrice: 11.25,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Home%20Depot%20Stor",
+    link:           "https://slickdeals.net/f/19629087-scrub-daddy-bbq-daddy-grill-brush-home-depot-11-22-in-store-only-clearance?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             3,
     name:           "Select Stores: 0.16oz Revlon ColorStay Creme Eye Shadow (3 Colors) $2 + Free Pickup $10+ Orders",
     category:       "supplies",
     retailer:       "amazon",
@@ -30,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "Select Stores: 16.3-Oz Skippy Super Chunk Peanut Butter $1 + Free Pickup on $10+",
     category:       "supplies",
     retailer:       "amazon",
@@ -42,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
     name:           "TV Store Online Summer Blowout Clearance Sale: Sweatpants, Hoodies, Shirts $4 & More + Free S&H",
     category:       "tech",
     retailer:       "amazon",
@@ -54,7 +66,19 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             6,
+    name:           "Klein Tools KNECT (S) Pass Through Ratchet & 1/4\" Drive Socket Adapter Set",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    35,
+    clearancePrice: 18,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Klein%20Tools%20KNECT%20(S)%20",
+    link:           "https://slickdeals.net/f/19614174-klein-tools-knect-s-pass-through-ratchet-and-1-4-inch-drive-socket-adapter-set-17-98?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             7,
     name:           "Nike Men\\'s Giannis Freak 7 Basketball Shoes (Uni Red/White, Limited Sizes) $49.45 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -66,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             8,
     name:           "Nike Book 1 Basketball Shoes (Black/Multicolor) $65.65 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -78,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             9,
     name:           "2-Pk 8\" Fiskars Softgrip Titanium Scissors $4.30 + Free Pickup on $10+",
     category:       "supplies",
     retailer:       "amazon",
@@ -90,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             10,
     name:           "Kohl\\'s Clearance Sale: Apparel, Home Decor & More Extra 50% Off + Free Pickup",
     category:       "fashion",
     retailer:       "amazon",
@@ -102,7 +126,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             11,
     name:           "Summer Ingenuity Central Station Metal Frame Safety Gate (28.5\"-52\" Wide) $23 + Free S&H on $35+",
     category:       "supplies",
     retailer:       "walmart",
