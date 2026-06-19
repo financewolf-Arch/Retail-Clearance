@@ -1,12 +1,36 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-06-18 by GitHub Actions
+// Last updated: 2026-06-19 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "VRST Men\\'s Recharge Pebble Fleece 1/4-Zip Pullover (Palomino Gold Heather) $13.55 + Free S&H",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    13.57,
+    clearancePrice: 13.55,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=VRST%20Men's%20Recharge%20Pe",
+    link:           "https://slickdeals.net/f/19642767-vrst-men-s-recharge-pebble-fleece-1-4-zip-pullover-palomino-gold-heather-13-55-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
+    name:           "REI: The North Face Past Season Clearance Sale Up to 56% Off + Free Pickup",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    136.36,
+    clearancePrice: 60,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=REI%3A%20The%20North%20Face%20Pa",
+    link:           "https://slickdeals.net/f/19635696-up-to-56-off-the-north-face-past-season-clearance-at-rei?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             3,
     name:           "Women\\'s Nike Air Max Fire Athletic Shoes (Burgundy) + Earn $10 Kohl\\'s Cash $57.75 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -18,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             4,
     name:           "Select Home Depot Stores: Scrub Daddy BBQ Daddy Grill Brush",
     category:       "home",
     retailer:       "amazon",
@@ -30,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             5,
     name:           "Select Stores: 0.16oz Revlon ColorStay Creme Eye Shadow (3 Colors) $2 + Free Pickup $10+ Orders",
     category:       "supplies",
     retailer:       "amazon",
@@ -42,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             6,
     name:           "Select Stores: 16.3-Oz Skippy Super Chunk Peanut Butter $1 + Free Pickup on $10+",
     category:       "supplies",
     retailer:       "amazon",
@@ -54,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             7,
     name:           "TV Store Online Summer Blowout Clearance Sale: Sweatpants, Hoodies, Shirts $4 & More + Free S&H",
     category:       "tech",
     retailer:       "amazon",
@@ -66,19 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
-    name:           "Klein Tools KNECT (S) Pass Through Ratchet & 1/4\" Drive Socket Adapter Set",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    35,
-    clearancePrice: 18,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Klein%20Tools%20KNECT%20(S)%20",
-    link:           "https://slickdeals.net/f/19614174-klein-tools-knect-s-pass-through-ratchet-and-1-4-inch-drive-socket-adapter-set-17-98?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             7,
+    id:             8,
     name:           "Nike Men\\'s Giannis Freak 7 Basketball Shoes (Uni Red/White, Limited Sizes) $49.45 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -90,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             9,
     name:           "Nike Book 1 Basketball Shoes (Black/Multicolor) $65.65 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -102,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             10,
     name:           "2-Pk 8\" Fiskars Softgrip Titanium Scissors $4.30 + Free Pickup on $10+",
     category:       "supplies",
     retailer:       "amazon",
@@ -110,30 +122,6 @@ const DEALS = [
     clearancePrice: 4.3,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=2-Pk%208%22%20Fiskars%20Softgr",
     link:           "https://slickdeals.net/f/19597296-fiskars-scissor-2-0-ea-4-29-clearance-item-walgreens-stock-ymmv-fpu-at-10?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             10,
-    name:           "Kohl\\'s Clearance Sale: Apparel, Home Decor & More Extra 50% Off + Free Pickup",
-    category:       "fashion",
-    retailer:       "amazon",
-    normalPrice:    98,
-    clearancePrice: 49,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Kohl's%20Clearance%20Sale%3A",
-    link:           "https://slickdeals.net/f/19593981-kohl-s-clearance-save-up-to-80-off-after-an-extra-50-off?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             11,
-    name:           "Summer Ingenuity Central Station Metal Frame Safety Gate (28.5\"-52\" Wide) $23 + Free S&H on $35+",
-    category:       "supplies",
-    retailer:       "walmart",
-    normalPrice:    35,
-    clearancePrice: 23,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Summer%20Ingenuity%20Centr",
-    link:           "https://slickdeals.net/f/19592250-summer-by-ingenuity-central-station-28-5-52-wide-30-tall-safety-pet-baby-gate-gray-23-00-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
