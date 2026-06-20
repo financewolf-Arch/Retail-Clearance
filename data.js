@@ -1,6 +1,6 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-06-19 by GitHub Actions
+// Last updated: 2026-06-20 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
@@ -19,6 +19,30 @@ const DEALS = [
   },
   {
     id:             2,
+    name:           "Refurb: eufy Omni C20 Robot Vacuum & Mop Combo $126 + Free S&H",
+    category:       "home",
+    retailer:       "amazon",
+    normalPrice:    126.39,
+    clearancePrice: 126,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Refurb%3A%20eufy%20Omni%20C20%20",
+    link:           "https://slickdeals.net/f/19640301-refurbished-eufy-omni-c20-robot-vacuum-and-mop-combo-126-39-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             3,
+    name:           "Select Kroger Grocery Stores: 14oz. Ensure Max Protein 42g Nutritional Shake",
+    category:       "food",
+    retailer:       "amazon",
+    normalPrice:    3.99,
+    clearancePrice: 1,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Kroger%20Grocery%20",
+    link:           "https://slickdeals.net/f/19637169-back-again-ensure-max-protein-shakes-42g-protein-99-with-digital-coupon-use-5x-in-transaction-kroger?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             4,
     name:           "REI: The North Face Past Season Clearance Sale Up to 56% Off + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
@@ -30,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             5,
     name:           "Women\\'s Nike Air Max Fire Athletic Shoes (Burgundy) + Earn $10 Kohl\\'s Cash $57.75 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -42,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             6,
     name:           "Select Home Depot Stores: Scrub Daddy BBQ Daddy Grill Brush",
     category:       "home",
     retailer:       "amazon",
@@ -54,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             7,
     name:           "Select Stores: 0.16oz Revlon ColorStay Creme Eye Shadow (3 Colors) $2 + Free Pickup $10+ Orders",
     category:       "supplies",
     retailer:       "amazon",
@@ -66,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             8,
     name:           "Select Stores: 16.3-Oz Skippy Super Chunk Peanut Butter $1 + Free Pickup on $10+",
     category:       "supplies",
     retailer:       "amazon",
@@ -78,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             9,
     name:           "TV Store Online Summer Blowout Clearance Sale: Sweatpants, Hoodies, Shirts $4 & More + Free S&H",
     category:       "tech",
     retailer:       "amazon",
@@ -90,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             10,
     name:           "Nike Men\\'s Giannis Freak 7 Basketball Shoes (Uni Red/White, Limited Sizes) $49.45 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -102,7 +126,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             11,
     name:           "Nike Book 1 Basketball Shoes (Black/Multicolor) $65.65 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -110,18 +134,6 @@ const DEALS = [
     clearancePrice: 65.65,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Nike%20Book%201%20Basketball",
     link:           "https://slickdeals.net/f/19610076-nike-book-1-basketball-shoes-blk-multicolor-dusted-cly-65-67-free-shipping-on-49-for-scorecard-members?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             10,
-    name:           "2-Pk 8\" Fiskars Softgrip Titanium Scissors $4.30 + Free Pickup on $10+",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    10,
-    clearancePrice: 4.3,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=2-Pk%208%22%20Fiskars%20Softgr",
-    link:           "https://slickdeals.net/f/19597296-fiskars-scissor-2-0-ea-4-29-clearance-item-walgreens-stock-ymmv-fpu-at-10?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
