@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-06-20 by GitHub Actions
+// Last updated: 2026-06-21 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Select Walmart Stores: Anker Nano 5000mAh Power Bank w/ Foldable USB-C",
+    category:       "supplies",
+    retailer:       "walmart",
+    normalPrice:    35,
+    clearancePrice: 10,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Select%20Walmart%20Stores%3A",
+    link:           "https://slickdeals.net/f/19645992-select-walmart-stores-anker-nano-5000mah-power-bank-w-foldable-usb-c-10?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "VRST Men\\'s Recharge Pebble Fleece 1/4-Zip Pullover (Palomino Gold Heather) $13.55 + Free S&H",
     category:       "supplies",
     retailer:       "amazon",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "Refurb: eufy Omni C20 Robot Vacuum & Mop Combo $126 + Free S&H",
     category:       "home",
     retailer:       "amazon",
@@ -30,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "Select Kroger Grocery Stores: 14oz. Ensure Max Protein 42g Nutritional Shake",
     category:       "food",
     retailer:       "amazon",
@@ -42,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
     name:           "REI: The North Face Past Season Clearance Sale Up to 56% Off + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
@@ -54,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             6,
     name:           "Women\\'s Nike Air Max Fire Athletic Shoes (Burgundy) + Earn $10 Kohl\\'s Cash $57.75 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -66,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             7,
     name:           "Select Home Depot Stores: Scrub Daddy BBQ Daddy Grill Brush",
     category:       "home",
     retailer:       "amazon",
@@ -78,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             8,
     name:           "Select Stores: 0.16oz Revlon ColorStay Creme Eye Shadow (3 Colors) $2 + Free Pickup $10+ Orders",
     category:       "supplies",
     retailer:       "amazon",
@@ -90,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             9,
     name:           "Select Stores: 16.3-Oz Skippy Super Chunk Peanut Butter $1 + Free Pickup on $10+",
     category:       "supplies",
     retailer:       "amazon",
@@ -102,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             10,
     name:           "TV Store Online Summer Blowout Clearance Sale: Sweatpants, Hoodies, Shirts $4 & More + Free S&H",
     category:       "tech",
     retailer:       "amazon",
@@ -114,7 +126,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             10,
+    id:             11,
     name:           "Nike Men\\'s Giannis Freak 7 Basketball Shoes (Uni Red/White, Limited Sizes) $49.45 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -126,7 +138,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             11,
+    id:             12,
     name:           "Nike Book 1 Basketball Shoes (Black/Multicolor) $65.65 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
