@@ -1,19 +1,19 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-06-21 by GitHub Actions
+// Last updated: 2026-06-24 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
-    name:           "Select Walmart Stores: Anker Nano 5000mAh Power Bank w/ Foldable USB-C",
+    name:           "Dick\\'s Sporting Goods In-App Offer: $20 off $100+ Purchase (App Required)",
     category:       "supplies",
-    retailer:       "walmart",
-    normalPrice:    35,
-    clearancePrice: 10,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Select%20Walmart%20Stores%3A",
-    link:           "https://slickdeals.net/f/19645992-select-walmart-stores-anker-nano-5000mah-power-bank-w-foldable-usb-c-10?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    retailer:       "amazon",
+    normalPrice:    100,
+    clearancePrice: 20,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Dick's%20Sporting%20Goods%20",
+    link:           "https://slickdeals.net/f/19657206-dick-s-sporting-goods-app-20-off-100-today-6-22-free-shipping-on-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   },
@@ -43,6 +43,18 @@ const DEALS = [
   },
   {
     id:             4,
+    name:           "Prime Members: Roborock Qrevo S Pro Robot Vacuum & Mop $450 + Free S/H",
+    category:       "home",
+    retailer:       "amazon",
+    normalPrice:    499.99,
+    clearancePrice: 450,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Prime%20Members%3A%20Roboroc",
+    link:           "https://slickdeals.net/f/19639206-prime-members-roborock-qrevo-s-pro-robot-vacuum-mop-450-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             5,
     name:           "Select Kroger Grocery Stores: 14oz. Ensure Max Protein 42g Nutritional Shake",
     category:       "food",
     retailer:       "amazon",
@@ -54,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             6,
     name:           "REI: The North Face Past Season Clearance Sale Up to 56% Off + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
@@ -66,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             7,
     name:           "Women\\'s Nike Air Max Fire Athletic Shoes (Burgundy) + Earn $10 Kohl\\'s Cash $57.75 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -78,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             8,
     name:           "Select Home Depot Stores: Scrub Daddy BBQ Daddy Grill Brush",
     category:       "home",
     retailer:       "amazon",
@@ -90,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             9,
     name:           "Select Stores: 0.16oz Revlon ColorStay Creme Eye Shadow (3 Colors) $2 + Free Pickup $10+ Orders",
     category:       "supplies",
     retailer:       "amazon",
@@ -102,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             10,
     name:           "Select Stores: 16.3-Oz Skippy Super Chunk Peanut Butter $1 + Free Pickup on $10+",
     category:       "supplies",
     retailer:       "amazon",
@@ -114,7 +126,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             10,
+    id:             11,
     name:           "TV Store Online Summer Blowout Clearance Sale: Sweatpants, Hoodies, Shirts $4 & More + Free S&H",
     category:       "tech",
     retailer:       "amazon",
@@ -126,7 +138,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             11,
+    id:             12,
     name:           "Nike Men\\'s Giannis Freak 7 Basketball Shoes (Uni Red/White, Limited Sizes) $49.45 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -134,18 +146,6 @@ const DEALS = [
     clearancePrice: 49.45,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Nike%20Men's%20Giannis%20Fre",
     link:           "https://slickdeals.net/f/19611225-nike-men-s-giannis-freak-7-basketball-shoes-uni-red-uni-red-white-7-5-10-49-47-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             12,
-    name:           "Nike Book 1 Basketball Shoes (Black/Multicolor) $65.65 + Free S&H",
-    category:       "fashion",
-    retailer:       "amazon",
-    normalPrice:    65.67,
-    clearancePrice: 65.65,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Nike%20Book%201%20Basketball",
-    link:           "https://slickdeals.net/f/19610076-nike-book-1-basketball-shoes-blk-multicolor-dusted-cly-65-67-free-shipping-on-49-for-scorecard-members?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
