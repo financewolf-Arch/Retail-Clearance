@@ -1,6 +1,6 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-06-27 by GitHub Actions
+// Last updated: 2026-06-28 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
@@ -82,7 +82,7 @@ const DEALS = [
     name:           "Refurb: eufy Omni C20 Robot Vacuum & Mop Combo $126 + Free S&H",
     category:       "home",
     retailer:       "amazon",
-    normalPrice:    126.39,
+    normalPrice:    150.08,
     clearancePrice: 126,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Refurb%3A%20eufy%20Omni%20C20%20",
     link:           "https://slickdeals.net/f/19640301-refurbished-eufy-omni-c20-robot-vacuum-and-mop-combo-126-39-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -139,6 +139,18 @@ const DEALS = [
   },
   {
     id:             12,
+    name:           "Select Home Depot Stores: Scrub Daddy BBQ Daddy Grill Brush",
+    category:       "home",
+    retailer:       "amazon",
+    normalPrice:    29.98,
+    clearancePrice: 11.25,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Home%20Depot%20Stor",
+    link:           "https://slickdeals.net/f/19629087-scrub-daddy-bbq-daddy-grill-brush-home-depot-11-22-in-store-only-clearance?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             13,
     name:           "Select Stores: 0.16oz Revlon ColorStay Creme Eye Shadow (3 Colors) $2 + Free Pickup $10+ Orders",
     category:       "supplies",
     retailer:       "amazon",
@@ -150,7 +162,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             13,
+    id:             14,
     name:           "Select Stores: 16.3-Oz Skippy Super Chunk Peanut Butter $1 + Free Pickup on $10+",
     category:       "supplies",
     retailer:       "amazon",
