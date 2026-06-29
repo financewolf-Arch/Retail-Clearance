@@ -1,6 +1,6 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-06-28 by GitHub Actions
+// Last updated: 2026-06-29 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
@@ -134,42 +134,6 @@ const DEALS = [
     clearancePrice: 10,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Women's%20Nike%20Air%20Max%20F",
     link:           "https://slickdeals.net/f/19632024-women-s-nike-air-max-fire-athletic-shoes-burgundy-earn-10-kohl-s-cash-57-75-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             12,
-    name:           "Select Home Depot Stores: Scrub Daddy BBQ Daddy Grill Brush",
-    category:       "home",
-    retailer:       "amazon",
-    normalPrice:    29.98,
-    clearancePrice: 11.25,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Home%20Depot%20Stor",
-    link:           "https://slickdeals.net/f/19629087-scrub-daddy-bbq-daddy-grill-brush-home-depot-11-22-in-store-only-clearance?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             13,
-    name:           "Select Stores: 0.16oz Revlon ColorStay Creme Eye Shadow (3 Colors) $2 + Free Pickup $10+ Orders",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    10,
-    clearancePrice: 2,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Stores%3A%200.16oz%20",
-    link:           "https://slickdeals.net/f/19628022-walgreens-clearance-1-99ac-revlon-colorstay-creme-eye-shadow-chocolate-0-16-oz-12-list?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             14,
-    name:           "Select Stores: 16.3-Oz Skippy Super Chunk Peanut Butter $1 + Free Pickup on $10+",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    10,
-    clearancePrice: 1,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Stores%3A%2016.3-Oz",
-    link:           "https://slickdeals.net/f/19627995-99cents-walgreens-clearance-item-ymmv-on-stock-skippy-peanut-butter-super-chunk-16-3-oz-99-cents-free-pu-at-10?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
