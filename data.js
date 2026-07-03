@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-07-01 by GitHub Actions
+// Last updated: 2026-07-03 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Crocs Extra Savings: Select Accessories 40% Off, Sale Style Footwear 30% Off + Free S&H on $50+",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    83.33,
+    clearancePrice: 50,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Crocs%20Extra%20Savings%3A%20S",
+    link:           "https://slickdeals.net/f/19710732-crocs-extra-30-off-clearance-footwear-40-off-select-accessories-free-shipping-on-49-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "Select Stores: DeWALT 20V MAX XR POWERSTACK Li-Ion Kit w/ 3.5Ah Battery & Charger",
     category:       "supplies",
     retailer:       "amazon",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "Solati Cordless Hair Clipper & Beard Trimmer Kit w/ LED Display",
     category:       "supplies",
     retailer:       "amazon",
@@ -30,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "Old Navy Apparel for the Family: 50% Off Everything + Free S&H on $50+",
     category:       "fashion",
     retailer:       "amazon",
@@ -42,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
     name:           "4\\' RealPlay Jumbo Oversized 4-in-a-Row Connect Game w/ 42x Rings $44.85 + Free S&H",
     category:       "supplies",
     retailer:       "walmart",
@@ -54,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             6,
     name:           "REI: Past Season Clearance Sale up to 77% Off + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
@@ -66,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             7,
     name:           "REI 4th of July Deals Event: Up to 50% Off Clearance, Sale & More: See Thread For Deals + Free S&H on $60+",
     category:       "supplies",
     retailer:       "amazon",
@@ -78,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             8,
     name:           "Dick\\'s Sporting Goods In-App Offer: $20 off $100+ Purchase (App Required)",
     category:       "supplies",
     retailer:       "amazon",
@@ -86,30 +98,6 @@ const DEALS = [
     clearancePrice: 20,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Dick's%20Sporting%20Goods%20",
     link:           "https://slickdeals.net/f/19657206-dick-s-sporting-goods-app-20-off-100-today-6-22-free-shipping-on-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             8,
-    name:           "Victoria\\'s Secret: Women\\'s Panties (Various Styles) 8",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    50,
-    clearancePrice: 25,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Victoria's%20Secret%3A%20Wom",
-    link:           "https://slickdeals.net/f/19645953-victoria-s-secret-women-s-panties-various-styles-8-for-25-free-s-h-on-50?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             9,
-    name:           "VRST Men\\'s Recharge Pebble Fleece 1/4-Zip Pullover (Palomino Gold Heather) $13.55 + Free S&H",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    13.57,
-    clearancePrice: 13.55,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=VRST%20Men's%20Recharge%20Pe",
-    link:           "https://slickdeals.net/f/19642767-vrst-men-s-recharge-pebble-fleece-1-4-zip-pullover-palomino-gold-heather-13-55-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
