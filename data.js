@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-07-03 by GitHub Actions
+// Last updated: 2026-07-04 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Bath & Body Works Clearance Sale: 75% Off Select Items: Candles $4.25, Hand Soaps $2 & More + Free Pickup",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    4.48,
+    clearancePrice: 4.25,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Bath%20%26%20Body%20Works%20Clea",
+    link:           "https://slickdeals.net/f/19718940-bath-body-works-75-off-select-sale-items-wallflowers-2-foaming-hand-soap-2-lotions-4-candles-4-25-more-free-store-pickup?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "Crocs Extra Savings: Select Accessories 40% Off, Sale Style Footwear 30% Off + Free S&H on $50+",
     category:       "supplies",
     retailer:       "amazon",
@@ -18,7 +30,19 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
+    name:           "Cooler Master Elite 301 Lite Micro-ATX Computer Case (Black) $40 + Free S&H w/ Amazon Prime",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    49.99,
+    clearancePrice: 40,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Cooler%20Master%20Elite%2030",
+    link:           "https://slickdeals.net/f/19708275-cooler-master-elite-301-lite-micro-atx-high-airflow-minimalist-pc-case-40-free-s-h-w-prime-at-woot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             4,
     name:           "Select Stores: DeWALT 20V MAX XR POWERSTACK Li-Ion Kit w/ 3.5Ah Battery & Charger",
     category:       "supplies",
     retailer:       "amazon",
@@ -30,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             5,
     name:           "Solati Cordless Hair Clipper & Beard Trimmer Kit w/ LED Display",
     category:       "supplies",
     retailer:       "amazon",
@@ -42,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             6,
     name:           "Old Navy Apparel for the Family: 50% Off Everything + Free S&H on $50+",
     category:       "fashion",
     retailer:       "amazon",
@@ -54,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             7,
     name:           "4\\' RealPlay Jumbo Oversized 4-in-a-Row Connect Game w/ 42x Rings $44.85 + Free S&H",
     category:       "supplies",
     retailer:       "walmart",
@@ -66,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             8,
     name:           "REI: Past Season Clearance Sale up to 77% Off + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
@@ -78,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             9,
     name:           "REI 4th of July Deals Event: Up to 50% Off Clearance, Sale & More: See Thread For Deals + Free S&H on $60+",
     category:       "supplies",
     retailer:       "amazon",
@@ -90,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             10,
     name:           "Dick\\'s Sporting Goods In-App Offer: $20 off $100+ Purchase (App Required)",
     category:       "supplies",
     retailer:       "amazon",
