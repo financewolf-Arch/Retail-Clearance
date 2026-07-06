@@ -1,6 +1,6 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-07-05 by GitHub Actions
+// Last updated: 2026-07-06 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
@@ -91,18 +91,6 @@ const DEALS = [
   },
   {
     id:             8,
-    name:           "The Criterion Collection Films (4K UHD, Blu-ray, or DVD) 50% Off + Free Pickup",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    120,
-    clearancePrice: 60,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=The%20Criterion%20Collecti",
-    link:           "https://slickdeals.net/f/19687746-criterion-collection-semi-annual-50-off-sale-at-barnes-and-noble?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             9,
     name:           "Old Navy Apparel for the Family: 50% Off Everything + Free S&H on $50+",
     category:       "fashion",
     retailer:       "amazon",
@@ -114,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             10,
+    id:             9,
     name:           "4\\' RealPlay Jumbo Oversized 4-in-a-Row Connect Game w/ 42x Rings $44.85 + Free S&H",
     category:       "supplies",
     retailer:       "walmart",
@@ -126,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             11,
+    id:             10,
     name:           "REI: Past Season Clearance Sale up to 77% Off + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
@@ -138,7 +126,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             12,
+    id:             11,
     name:           "REI 4th of July Deals Event: Up to 50% Off Clearance, Sale & More: See Thread For Deals + Free S&H on $60+",
     category:       "supplies",
     retailer:       "amazon",
