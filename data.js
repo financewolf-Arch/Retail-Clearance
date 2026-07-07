@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-07-06 by GitHub Actions
+// Last updated: 2026-07-07 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Avia Little/Big Kids Zip Easy On Athletic Sneakers (various colors/sizes) $7 + Free S&H on $35+",
+    category:       "fashion",
+    retailer:       "walmart",
+    normalPrice:    35,
+    clearancePrice: 7,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Avia%20Little%2FBig%20Kids%20Z",
+    link:           "https://slickdeals.net/f/19729290-avia-little-and-big-kids-zip-easy-on-athletic-sneakers-4-colors-available-7-at-walmart?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "REI 4th of July Deals Event: Clothing, Footwear, Travel Gear & More Up to 50% Off + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "Eddie Bauer Clearance Sale: Women\\'s, Men\\'s and Kids\\' Apparel (Various) up to 60% Off + Free S&H on $99+",
     category:       "fashion",
     retailer:       "amazon",
@@ -30,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "Bath & Body Works Clearance Sale: 75% Off Select Items: Candles $4.25, Wallflowers $2 & More + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
@@ -42,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
     name:           "Crocs Extra Savings: Select Accessories 40% Off, Sale Style Footwear 30% Off + Free S&H on $50+",
     category:       "supplies",
     retailer:       "amazon",
@@ -54,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             6,
     name:           "Cooler Master Elite 301 Lite Micro-ATX Computer Case (Black) $40 + Free S&H w/ Amazon Prime",
     category:       "supplies",
     retailer:       "amazon",
@@ -66,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             7,
     name:           "Select Stores: DeWALT 20V MAX XR POWERSTACK Li-Ion Kit w/ 3.5Ah Battery & Charger",
     category:       "supplies",
     retailer:       "amazon",
@@ -78,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             8,
     name:           "Solati Cordless Hair Clipper & Beard Trimmer Kit w/ LED Display",
     category:       "supplies",
     retailer:       "amazon",
@@ -90,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             9,
     name:           "Old Navy Apparel for the Family: 50% Off Everything + Free S&H on $50+",
     category:       "fashion",
     retailer:       "amazon",
@@ -102,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             10,
     name:           "4\\' RealPlay Jumbo Oversized 4-in-a-Row Connect Game w/ 42x Rings $44.85 + Free S&H",
     category:       "supplies",
     retailer:       "walmart",
@@ -114,7 +126,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             10,
+    id:             11,
     name:           "REI: Past Season Clearance Sale up to 77% Off + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
@@ -122,18 +134,6 @@ const DEALS = [
     clearancePrice: 60,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=REI%3A%20Past%20Season%20Clear",
     link:           "https://slickdeals.net/f/19677150-up-to-77-off-rei-past-season-clearance-deals?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             11,
-    name:           "REI 4th of July Deals Event: Up to 50% Off Clearance, Sale & More: See Thread For Deals + Free S&H on $60+",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    120,
-    clearancePrice: 60,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=REI%204th%20of%20July%20Deals%20",
-    link:           "https://slickdeals.net/f/19662150-rei-4th-of-july-sale-huge-discounts-on-select-apparel-hiking-boots-and-outdoor-gear-starts-june-26?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
