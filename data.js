@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-07-07 by GitHub Actions
+// Last updated: 2026-07-08 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "HOKA Men\\'s Transport GTX Shoes (Druzy/Birch) $93.35 + Free S&H",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    113.37,
+    clearancePrice: 93.35,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=HOKA%20Men's%20Transport%20G",
+    link:           "https://slickdeals.net/f/19732686-hoka-men-s-transport-gtx-shoes-druzy-birch-93-37-w-promo-code-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "Avia Little/Big Kids Zip Easy On Athletic Sneakers (various colors/sizes) $7 + Free S&H on $35+",
     category:       "fashion",
     retailer:       "walmart",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "REI 4th of July Deals Event: Clothing, Footwear, Travel Gear & More Up to 50% Off + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
@@ -30,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "Eddie Bauer Clearance Sale: Women\\'s, Men\\'s and Kids\\' Apparel (Various) up to 60% Off + Free S&H on $99+",
     category:       "fashion",
     retailer:       "amazon",
@@ -42,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
     name:           "Bath & Body Works Clearance Sale: 75% Off Select Items: Candles $4.25, Wallflowers $2 & More + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
@@ -54,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             6,
     name:           "Crocs Extra Savings: Select Accessories 40% Off, Sale Style Footwear 30% Off + Free S&H on $50+",
     category:       "supplies",
     retailer:       "amazon",
@@ -66,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             7,
     name:           "Cooler Master Elite 301 Lite Micro-ATX Computer Case (Black) $40 + Free S&H w/ Amazon Prime",
     category:       "supplies",
     retailer:       "amazon",
@@ -78,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             8,
     name:           "Select Stores: DeWALT 20V MAX XR POWERSTACK Li-Ion Kit w/ 3.5Ah Battery & Charger",
     category:       "supplies",
     retailer:       "amazon",
@@ -90,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             9,
     name:           "Solati Cordless Hair Clipper & Beard Trimmer Kit w/ LED Display",
     category:       "supplies",
     retailer:       "amazon",
@@ -102,7 +114,19 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             10,
+    name:           "The Criterion Collection Films (4K UHD, Blu-ray, or DVD) 50% Off + Free Pickup",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    120,
+    clearancePrice: 60,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=The%20Criterion%20Collecti",
+    link:           "https://slickdeals.net/f/19687746-criterion-collection-semi-annual-50-off-sale-at-barnes-and-noble?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             11,
     name:           "Old Navy Apparel for the Family: 50% Off Everything + Free S&H on $50+",
     category:       "fashion",
     retailer:       "amazon",
@@ -114,7 +138,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             10,
+    id:             12,
     name:           "4\\' RealPlay Jumbo Oversized 4-in-a-Row Connect Game w/ 42x Rings $44.85 + Free S&H",
     category:       "supplies",
     retailer:       "walmart",
@@ -122,18 +146,6 @@ const DEALS = [
     clearancePrice: 44.85,
     fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=4'%20RealPlay%20Jumbo%20Over",
     link:           "https://slickdeals.net/f/19678536-4-realplay-jumbo-4-in-a-row-connect-game-w-42-rings-44-86-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             11,
-    name:           "REI: Past Season Clearance Sale up to 77% Off + Free Pickup",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    260.87,
-    clearancePrice: 60,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=REI%3A%20Past%20Season%20Clear",
-    link:           "https://slickdeals.net/f/19677150-up-to-77-off-rei-past-season-clearance-deals?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
