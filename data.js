@@ -1,12 +1,36 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-07-08 by GitHub Actions
+// Last updated: 2026-07-10 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Osaki OS-Atai Massage Chair w/ SL-Track, Heat, Foot Roller, Zero Gravity (various) $599 + Free S&H",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    3999,
+    clearancePrice: 599,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Osaki%20OS-Atai%20Massage%20",
+    link:           "https://slickdeals.net/f/19738602-final-clearance-osaki-os-atai-massage-chair-w-sl-track-heat-foot-roller-zero-gravity-various-colors-599-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
+    name:           "FansEdge Sale: Officially Licensed Sports Merchandise: Jerseys, Sweatshirt, Hats Up to 75% Off & More + Free S&H on $29+",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    116,
+    clearancePrice: 29,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=FansEdge%20Sale%3A%20Officia",
+    link:           "https://slickdeals.net/f/19737570-fansedge-sale-all-sports-shirts-jerseys-sweaters-collectibles-shoes-gear-up-to-75-off-free-shipping-on-orders-over-29-w-promo-code-ship29?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             3,
     name:           "HOKA Men\\'s Transport GTX Shoes (Druzy/Birch) $93.35 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -18,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             4,
     name:           "Avia Little/Big Kids Zip Easy On Athletic Sneakers (various colors/sizes) $7 + Free S&H on $35+",
     category:       "fashion",
     retailer:       "walmart",
@@ -30,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             5,
     name:           "REI 4th of July Deals Event: Clothing, Footwear, Travel Gear & More Up to 50% Off + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
@@ -42,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             6,
     name:           "Eddie Bauer Clearance Sale: Women\\'s, Men\\'s and Kids\\' Apparel (Various) up to 60% Off + Free S&H on $99+",
     category:       "fashion",
     retailer:       "amazon",
@@ -54,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             7,
     name:           "Bath & Body Works Clearance Sale: 75% Off Select Items: Candles $4.25, Wallflowers $2 & More + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
@@ -66,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             8,
     name:           "Crocs Extra Savings: Select Accessories 40% Off, Sale Style Footwear 30% Off + Free S&H on $50+",
     category:       "supplies",
     retailer:       "amazon",
@@ -78,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             9,
     name:           "Cooler Master Elite 301 Lite Micro-ATX Computer Case (Black) $40 + Free S&H w/ Amazon Prime",
     category:       "supplies",
     retailer:       "amazon",
@@ -90,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             10,
     name:           "Select Stores: DeWALT 20V MAX XR POWERSTACK Li-Ion Kit w/ 3.5Ah Battery & Charger",
     category:       "supplies",
     retailer:       "amazon",
@@ -102,7 +126,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             11,
     name:           "Solati Cordless Hair Clipper & Beard Trimmer Kit w/ LED Display",
     category:       "supplies",
     retailer:       "amazon",
@@ -114,7 +138,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             10,
+    id:             12,
     name:           "The Criterion Collection Films (4K UHD, Blu-ray, or DVD) 50% Off + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
@@ -122,30 +146,6 @@ const DEALS = [
     clearancePrice: 60,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=The%20Criterion%20Collecti",
     link:           "https://slickdeals.net/f/19687746-criterion-collection-semi-annual-50-off-sale-at-barnes-and-noble?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             11,
-    name:           "Old Navy Apparel for the Family: 50% Off Everything + Free S&H on $50+",
-    category:       "fashion",
-    retailer:       "amazon",
-    normalPrice:    100,
-    clearancePrice: 50,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Old%20Navy%20Apparel%20for%20t",
-    link:           "https://slickdeals.net/f/19682781-50-off-everything-old-navy-clearance-apparel-for-the-family?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             12,
-    name:           "4\\' RealPlay Jumbo Oversized 4-in-a-Row Connect Game w/ 42x Rings $44.85 + Free S&H",
-    category:       "supplies",
-    retailer:       "walmart",
-    normalPrice:    44.86,
-    clearancePrice: 44.85,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=4'%20RealPlay%20Jumbo%20Over",
-    link:           "https://slickdeals.net/f/19678536-4-realplay-jumbo-4-in-a-row-connect-game-w-42-rings-44-86-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
