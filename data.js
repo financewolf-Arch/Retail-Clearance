@@ -1,12 +1,48 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-07-10 by GitHub Actions
+// Last updated: 2026-07-12 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Brooks Men\\'s Glycerin 22 Running Shoes (White/Black, Select Sizes) $83.40 + Free S&H",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    138.98,
+    clearancePrice: 83.4,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Brooks%20Men's%20Glycerin%20",
+    link:           "https://slickdeals.net/f/19745868-brooks-men-s-glycerin-22-running-shoes-white-black-8-5-10-11-11-5-13-83-39-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
+    name:           "Hibbett: 40% off Clearance: Hoka Men\\'s Clifton 10 Shoe (Size 10, 10.5, 11) $77.40 + Free S&H",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    129,
+    clearancePrice: 77.4,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Hibbett%3A%2040%25%20off%20Clear",
+    link:           "https://slickdeals.net/f/19745520-hibbett-40-off-clearance-hoka-men-s-clifton-10-shoe-size-10-10-5-11-77-40-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             3,
+    name:           "Extra 50% Off Eddie Bauer Clearance: Men\\'s CirrusLite Down Jacket or Shirt Jacket $30 + Free S/H on $30+ Orders",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    60,
+    clearancePrice: 30,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Extra%2050%25%20Off%20Eddie%20Ba",
+    link:           "https://slickdeals.net/f/19742640-eddie-bauer-clearance-additional-50-off-men-s-cirruslite-down-jacket-or-shirt-jacket-29-98-women-s-fleece-pullover-12-48-kids-jackets-from-7-98-mor-free-shipping-on-30?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             4,
     name:           "Osaki OS-Atai Massage Chair w/ SL-Track, Heat, Foot Roller, Zero Gravity (various) $599 + Free S&H",
     category:       "supplies",
     retailer:       "amazon",
@@ -18,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             5,
     name:           "FansEdge Sale: Officially Licensed Sports Merchandise: Jerseys, Sweatshirt, Hats Up to 75% Off & More + Free S&H on $29+",
     category:       "fashion",
     retailer:       "amazon",
@@ -30,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             6,
     name:           "HOKA Men\\'s Transport GTX Shoes (Druzy/Birch) $93.35 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -42,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             7,
     name:           "Avia Little/Big Kids Zip Easy On Athletic Sneakers (various colors/sizes) $7 + Free S&H on $35+",
     category:       "fashion",
     retailer:       "walmart",
@@ -54,19 +90,19 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             8,
     name:           "REI 4th of July Deals Event: Clothing, Footwear, Travel Gear & More Up to 50% Off + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
-    normalPrice:    120,
-    clearancePrice: 60,
+    normalPrice:    60,
+    clearancePrice: 30,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=REI%204th%20of%20July%20Deals%20",
     link:           "https://slickdeals.net/f/19720392-up-to-79-off-rei-4th-of-july-sale?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             9,
     name:           "Eddie Bauer Clearance Sale: Women\\'s, Men\\'s and Kids\\' Apparel (Various) up to 60% Off + Free S&H on $99+",
     category:       "fashion",
     retailer:       "amazon",
@@ -78,11 +114,11 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             10,
     name:           "Bath & Body Works Clearance Sale: 75% Off Select Items: Candles $4.25, Wallflowers $2 & More + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
-    normalPrice:    4.48,
+    normalPrice:    50,
     clearancePrice: 4.25,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Bath%20%26%20Body%20Works%20Clea",
     link:           "https://slickdeals.net/f/19718940-bath-body-works-clearance-sale-75-off-select-items-candles-4-25-wallflowers-2-more-free-pickup?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -90,7 +126,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             11,
     name:           "Crocs Extra Savings: Select Accessories 40% Off, Sale Style Footwear 30% Off + Free S&H on $50+",
     category:       "supplies",
     retailer:       "amazon",
@@ -102,7 +138,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             12,
     name:           "Cooler Master Elite 301 Lite Micro-ATX Computer Case (Black) $40 + Free S&H w/ Amazon Prime",
     category:       "supplies",
     retailer:       "amazon",
@@ -114,7 +150,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             10,
+    id:             13,
     name:           "Select Stores: DeWALT 20V MAX XR POWERSTACK Li-Ion Kit w/ 3.5Ah Battery & Charger",
     category:       "supplies",
     retailer:       "amazon",
@@ -126,7 +162,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             11,
+    id:             14,
     name:           "Solati Cordless Hair Clipper & Beard Trimmer Kit w/ LED Display",
     category:       "supplies",
     retailer:       "amazon",
@@ -134,18 +170,6 @@ const DEALS = [
     clearancePrice: 17.7,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Solati%20Cordless%20Hair%20C",
     link:           "https://slickdeals.net/f/19700700-solati-cordless-hair-clipper-beard-trimmer-kit-w-led-display-black-17-69-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             12,
-    name:           "The Criterion Collection Films (4K UHD, Blu-ray, or DVD) 50% Off + Free Pickup",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    120,
-    clearancePrice: 60,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=The%20Criterion%20Collecti",
-    link:           "https://slickdeals.net/f/19687746-criterion-collection-semi-annual-50-off-sale-at-barnes-and-noble?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
