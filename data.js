@@ -1,6 +1,6 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-07-13 by GitHub Actions
+// Last updated: 2026-07-14 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
@@ -106,8 +106,8 @@ const DEALS = [
     name:           "REI 4th of July Deals Event: Clothing, Footwear, Travel Gear & More Up to 50% Off + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
-    normalPrice:    60,
-    clearancePrice: 30,
+    normalPrice:    120,
+    clearancePrice: 60,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=REI%204th%20of%20July%20Deals%20",
     link:           "https://slickdeals.net/f/19720392-up-to-79-off-rei-4th-of-july-sale?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
