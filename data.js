@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-07-14 by GitHub Actions
+// Last updated: 2026-07-15 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "12-Pk 3M Command Large Utility Hook w/ Hanging Strips $3.60 + Free Pickup",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    3.61,
+    clearancePrice: 3.6,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=12-Pk%203M%20Command%20Large",
+    link:           "https://slickdeals.net/f/19755438-12-pack-3m-command-hooks-3-61?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "Boys\\' Reebok Active Performance Flex Shorts (various colors/sizes) $5.85 + Free Pickup",
     category:       "supplies",
     retailer:       "walmart",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "Brooks Men\\'s Glycerin 22 Running Shoes (White/Black, Select Sizes) $83.40 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -30,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "Hibbett: 40% off Clearance: Hoka Men\\'s Clifton 10 Shoe (Size 10, 10.5, 11) $77.40 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -42,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
     name:           "Extra 50% Off Eddie Bauer Clearance: Men\\'s CirrusLite Down Jacket or Shirt Jacket $30 + Free S/H on $30+ Orders",
     category:       "fashion",
     retailer:       "amazon",
@@ -54,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             6,
     name:           "Osaki OS-Atai Massage Chair w/ SL-Track, Heat, Foot Roller, Zero Gravity (various) $599 + Free S&H",
     category:       "supplies",
     retailer:       "amazon",
@@ -66,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             7,
     name:           "FansEdge Sale: Officially Licensed Sports Merchandise: Jerseys, Sweatshirt, Hats Up to 75% Off & More + Free S&H on $29+",
     category:       "fashion",
     retailer:       "amazon",
@@ -78,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             8,
     name:           "HOKA Men\\'s Transport GTX Shoes (Druzy/Birch) $93.35 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -90,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             9,
     name:           "Avia Little/Big Kids Zip Easy On Athletic Sneakers (various colors/sizes) $7 + Free S&H on $35+",
     category:       "fashion",
     retailer:       "walmart",
@@ -102,19 +114,19 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             10,
     name:           "REI 4th of July Deals Event: Clothing, Footwear, Travel Gear & More Up to 50% Off + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
-    normalPrice:    120,
-    clearancePrice: 60,
+    normalPrice:    60,
+    clearancePrice: 30,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=REI%204th%20of%20July%20Deals%20",
     link:           "https://slickdeals.net/f/19720392-up-to-79-off-rei-4th-of-july-sale?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   },
   {
-    id:             10,
+    id:             11,
     name:           "Eddie Bauer Clearance Sale: Women\\'s, Men\\'s and Kids\\' Apparel (Various) up to 60% Off + Free S&H on $99+",
     category:       "fashion",
     retailer:       "amazon",
@@ -126,11 +138,11 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             11,
+    id:             12,
     name:           "Bath & Body Works Clearance Sale: 75% Off Select Items: Candles $4.25, Wallflowers $2 & More + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
-    normalPrice:    4.48,
+    normalPrice:    50,
     clearancePrice: 4.25,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Bath%20%26%20Body%20Works%20Clea",
     link:           "https://slickdeals.net/f/19718940-bath-body-works-clearance-sale-75-off-select-items-candles-4-25-wallflowers-2-more-free-pickup?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -138,7 +150,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             12,
+    id:             13,
     name:           "Crocs Extra Savings: Select Accessories 40% Off, Sale Style Footwear 30% Off + Free S&H on $50+",
     category:       "supplies",
     retailer:       "amazon",
@@ -146,30 +158,6 @@ const DEALS = [
     clearancePrice: 50,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Crocs%20Extra%20Savings%3A%20S",
     link:           "https://slickdeals.net/f/19710732-crocs-extra-30-off-clearance-footwear-40-off-select-accessories-free-shipping-on-49-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             13,
-    name:           "Cooler Master Elite 301 Lite Micro-ATX Computer Case (Black) $40 + Free S&H w/ Amazon Prime",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    49.99,
-    clearancePrice: 40,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Cooler%20Master%20Elite%2030",
-    link:           "https://slickdeals.net/f/19708275-cooler-master-elite-301-lite-micro-atx-high-airflow-minimalist-pc-case-40-free-s-h-w-prime-at-woot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             14,
-    name:           "Select Stores: DeWALT 20V MAX XR POWERSTACK Li-Ion Kit w/ 3.5Ah Battery & Charger",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    60.02,
-    clearancePrice: 60,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Stores%3A%20DeWALT%20",
-    link:           "https://slickdeals.net/f/19706139-ymmv-20v-max-xr-powerstack-lithium-ion-battery-starter-kit-with-3-5ah-battery-and-charger-60-at-home-depot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
