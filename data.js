@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-07-20 by GitHub Actions
+// Last updated: 2026-07-21 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "32 Degrees Summer Clearance Sale: Men\\'s Cool Crew T-Shirt $5 + Free S&H $23.75+",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    23.75,
+    clearancePrice: 5,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=32%20Degrees%20Summer%20Clea",
+    link:           "https://slickdeals.net/f/19786203-32-degrees-summer-clearance-sale-men-s-cool-crew-t-shirt-4-99-more-free-shipping-on-24?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "20-Pc Skil Sanders Mixed 5\" Round Sanding Paper Kit (60/80/120/240 Grits)",
     category:       "supplies",
     retailer:       "amazon",
@@ -18,7 +30,19 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
+    name:           "Dog Fetch Balls, Toys, & More Clearance: 2-Pk 2\" Chuckit! Erratic Ball Fetch Toy $1.25 & More",
+    category:       "toys",
+    retailer:       "walmart",
+    normalPrice:    3.85,
+    clearancePrice: 1.25,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Dog%20Fetch%20Balls%2C%20Toys%2C",
+    link:           "https://slickdeals.net/f/19782633-clearance-chew-king-chuck-it-more-dog-toys-89-0-89?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             4,
     name:           "Walmart Kids\\' Room Clearance: Cocomelon LED Canvas Wall Art (15.75\" x 11.5\") $2.40 & More",
     category:       "supplies",
     retailer:       "walmart",
@@ -30,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             5,
     name:           "Select Lowe\\'s Stores: Police Security Elite Skylar 3300-Lumens LED Flashlight $12.50 + Free Pickup Only",
     category:       "supplies",
     retailer:       "amazon",
@@ -42,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             6,
     name:           "Old Navy Clearance Sale: Women\\'s, Men\\'s & Kids\\' Apparel & More up to 85% OFF + Free S&H on $50+",
     category:       "fashion",
     retailer:       "amazon",
@@ -54,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             7,
     name:           "Gap Factory Sale: 55% Off Select Clearance Items & More + Get an Extra 15% Off + Free S&H on $50+",
     category:       "supplies",
     retailer:       "amazon",
@@ -66,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             8,
     name:           "Nike Men\\'s Air Max SC Shoes (White/Gold) $54.35 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -78,19 +102,19 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
-    name:           "Kohl\\'s Clearance and Closeout Sale: up to 70% Off + Free Pickup",
-    category:       "supplies",
+    id:             9,
+    name:           "HOKA Men\\'s Transport GTX Shoes (Druzy / Birch) $87.10 + Free S&H",
+    category:       "fashion",
     retailer:       "amazon",
-    normalPrice:    163.33,
-    clearancePrice: 49,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Kohl's%20Clearance%20and%20C",
-    link:           "https://slickdeals.net/f/19767390-kohl-s-up-to-70-off-clearance?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    normalPrice:    113.37,
+    clearancePrice: 87.1,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=HOKA%20Men's%20Transport%20G",
+    link:           "https://slickdeals.net/f/19769088-hoka-men-s-transport-gtx-shoes-druzy-birch-87-07-w-promo-code-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             10,
     name:           "Carter\\'s Kids\\' Clothing: 2-Pc Toddler Girls\\' Rib Snug Pajamas $3.60 & More + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
@@ -102,7 +126,19 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             11,
+    name:           "Hampton Bay 11-Ft Aluminum Cantilever Solar LED Patio Umbrella (Midnight Blue) $199 & More + Free S&H",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    299,
+    clearancePrice: 199,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Hampton%20Bay%2011-Ft%20Alum",
+    link:           "https://slickdeals.net/f/19766715-hampton-bay-11-ft-aluminum-cantilever-solar-led-patio-umbrella-midnight-blue-199-more-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             12,
     name:           "VRST Men\\'s Recharge Pebble Hoodie (Aqua Dust Heather, Small or Medium) $14.40 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -114,7 +150,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             10,
+    id:             13,
     name:           "Solati Cordless Hair Clipper & Beard Trimmer Kit w/ LED Display",
     category:       "supplies",
     retailer:       "amazon",
@@ -122,18 +158,6 @@ const DEALS = [
     clearancePrice: 17.4,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Solati%20Cordless%20Hair%20C",
     link:           "https://slickdeals.net/f/19765488-solati-professional-hair-clippers-beard-trimmers-kit-w-9-combs-17-39-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             11,
-    name:           "3-pk 2-Tier Snuvid Metal Under Sink Organizers w/ Slide Out Drawer (Black)",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    35,
-    clearancePrice: 15,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=3-pk%202-Tier%20Snuvid%20Met",
-    link:           "https://slickdeals.net/f/19764804-3-pack-2-tier-snuvid-metal-under-sink-organizers-w-slide-out-drawer-black-14-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
