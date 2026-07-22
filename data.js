@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-07-21 by GitHub Actions
+// Last updated: 2026-07-22 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "2-Pk Athletic Works 9\" Dri Mid Rise Bike Shorts (various colors/sizes) $5 + Free S&H on $35+",
+    category:       "sports",
+    retailer:       "walmart",
+    normalPrice:    35,
+    clearancePrice: 5,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=2-Pk%20Athletic%20Works%209%22",
+    link:           "https://slickdeals.net/f/19792332-2-pack-athletic-works-women-s-mid-rise-9-bike-shorts-3-colors-5-free-s-h-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "32 Degrees Summer Clearance Sale: Men\\'s Cool Crew T-Shirt $5 + Free S&H $23.75+",
     category:       "fashion",
     retailer:       "amazon",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "20-Pc Skil Sanders Mixed 5\" Round Sanding Paper Kit (60/80/120/240 Grits)",
     category:       "supplies",
     retailer:       "amazon",
@@ -30,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "Dog Fetch Balls, Toys, & More Clearance: 2-Pk 2\" Chuckit! Erratic Ball Fetch Toy $1.25 & More",
     category:       "toys",
     retailer:       "walmart",
@@ -42,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
     name:           "Walmart Kids\\' Room Clearance: Cocomelon LED Canvas Wall Art (15.75\" x 11.5\") $2.40 & More",
     category:       "supplies",
     retailer:       "walmart",
@@ -54,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             6,
     name:           "Select Lowe\\'s Stores: Police Security Elite Skylar 3300-Lumens LED Flashlight $12.50 + Free Pickup Only",
     category:       "supplies",
     retailer:       "amazon",
@@ -66,7 +78,19 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             7,
+    name:           "SKIL PWR CORE 20 Brushless 20V 18Ga Brad Nailer Kit w/ 2.0Ah Battery & Charger $91.20 + Free S&H",
+    category:       "supplies",
+    retailer:       "walmart",
+    normalPrice:    152,
+    clearancePrice: 91.2,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=SKIL%20PWR%20CORE%2020%20Brush",
+    link:           "https://slickdeals.net/f/19776762-skil-pwr-core-20-brushless-20v-18ga-brad-nailer-kit-w-2-0ah-battery-charger-91-20-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             8,
     name:           "Old Navy Clearance Sale: Women\\'s, Men\\'s & Kids\\' Apparel & More up to 85% OFF + Free S&H on $50+",
     category:       "fashion",
     retailer:       "amazon",
@@ -78,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             9,
     name:           "Gap Factory Sale: 55% Off Select Clearance Items & More + Get an Extra 15% Off + Free S&H on $50+",
     category:       "supplies",
     retailer:       "amazon",
@@ -90,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             10,
     name:           "Nike Men\\'s Air Max SC Shoes (White/Gold) $54.35 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -102,7 +126,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             11,
     name:           "HOKA Men\\'s Transport GTX Shoes (Druzy / Birch) $87.10 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -114,7 +138,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             10,
+    id:             12,
     name:           "Carter\\'s Kids\\' Clothing: 2-Pc Toddler Girls\\' Rib Snug Pajamas $3.60 & More + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
@@ -122,42 +146,6 @@ const DEALS = [
     clearancePrice: 3.6,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Carter's%20Kids'%20Clothin",
     link:           "https://slickdeals.net/f/19767282-carter-s-kids-clothing-2-pc-toddler-girls-rib-snug-pajamas-3-60-more-free-pickup?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             11,
-    name:           "Hampton Bay 11-Ft Aluminum Cantilever Solar LED Patio Umbrella (Midnight Blue) $199 & More + Free S&H",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    299,
-    clearancePrice: 199,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Hampton%20Bay%2011-Ft%20Alum",
-    link:           "https://slickdeals.net/f/19766715-hampton-bay-11-ft-aluminum-cantilever-solar-led-patio-umbrella-midnight-blue-199-more-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             12,
-    name:           "VRST Men\\'s Recharge Pebble Hoodie (Aqua Dust Heather, Small or Medium) $14.40 + Free S&H",
-    category:       "fashion",
-    retailer:       "amazon",
-    normalPrice:    14.42,
-    clearancePrice: 14.4,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=VRST%20Men's%20Recharge%20Pe",
-    link:           "https://slickdeals.net/f/19765872-vrst-men-s-recharge-pebble-hoodie-aqua-dust-heather-14-42-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             13,
-    name:           "Solati Cordless Hair Clipper & Beard Trimmer Kit w/ LED Display",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    29.99,
-    clearancePrice: 17.4,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Solati%20Cordless%20Hair%20C",
-    link:           "https://slickdeals.net/f/19765488-solati-professional-hair-clippers-beard-trimmers-kit-w-9-combs-17-39-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
