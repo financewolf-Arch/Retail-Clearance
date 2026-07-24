@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-07-22 by GitHub Actions
+// Last updated: 2026-07-24 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "25.4oz. Splenda Sugar Free Flavored Liquid Syrup (French Vanilla) $2.85 w/ S&S",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    3.02,
+    clearancePrice: 2.85,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=25.4oz.%20Splenda%20Sugar%20",
+    link:           "https://slickdeals.net/f/19795203-new-sns-2-87-25-4-oz-splenda-coffee-syrup-french-vanilla-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "2-Pk Athletic Works 9\" Dri Mid Rise Bike Shorts (various colors/sizes) $5 + Free S&H on $35+",
     category:       "sports",
     retailer:       "walmart",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "32 Degrees Summer Clearance Sale: Men\\'s Cool Crew T-Shirt $5 + Free S&H $23.75+",
     category:       "fashion",
     retailer:       "amazon",
@@ -30,19 +42,19 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "20-Pc Skil Sanders Mixed 5\" Round Sanding Paper Kit (60/80/120/240 Grits)",
     category:       "supplies",
-    retailer:       "amazon",
+    retailer:       "walmart",
     normalPrice:    35,
     clearancePrice: 4.9,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=20-Pc%20Skil%20Sanders%20Mix",
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=20-Pc%20Skil%20Sanders%20Mix",
     link:           "https://slickdeals.net/f/19782918-4-90-skil-20-piece-mixed-5-in-60-80-120-240-grits-round-sanding-paper-kit-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
     name:           "Dog Fetch Balls, Toys, & More Clearance: 2-Pk 2\" Chuckit! Erratic Ball Fetch Toy $1.25 & More",
     category:       "toys",
     retailer:       "walmart",
@@ -54,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             6,
     name:           "Walmart Kids\\' Room Clearance: Cocomelon LED Canvas Wall Art (15.75\" x 11.5\") $2.40 & More",
     category:       "supplies",
     retailer:       "walmart",
@@ -66,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             7,
     name:           "Select Lowe\\'s Stores: Police Security Elite Skylar 3300-Lumens LED Flashlight $12.50 + Free Pickup Only",
     category:       "supplies",
     retailer:       "amazon",
@@ -74,18 +86,6 @@ const DEALS = [
     clearancePrice: 12.5,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Lowe's%20Stores%3A%20",
     link:           "https://slickdeals.net/f/19777269-ymmv-police-security-skylar-3300-lumen-5-adjustable-mode-led-flashlight-one-size-98409tm-12-52?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             7,
-    name:           "SKIL PWR CORE 20 Brushless 20V 18Ga Brad Nailer Kit w/ 2.0Ah Battery & Charger $91.20 + Free S&H",
-    category:       "supplies",
-    retailer:       "walmart",
-    normalPrice:    152,
-    clearancePrice: 91.2,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=SKIL%20PWR%20CORE%2020%20Brush",
-    link:           "https://slickdeals.net/f/19776762-skil-pwr-core-20-brushless-20v-18ga-brad-nailer-kit-w-2-0ah-battery-charger-91-20-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   },
@@ -122,30 +122,6 @@ const DEALS = [
     clearancePrice: 54.35,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Nike%20Men's%20Air%20Max%20SC%20",
     link:           "https://slickdeals.net/f/19769469-nike-men-s-air-max-sc-shoes-white-gold-leaf-photon-dust-54-37-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             11,
-    name:           "HOKA Men\\'s Transport GTX Shoes (Druzy / Birch) $87.10 + Free S&H",
-    category:       "fashion",
-    retailer:       "amazon",
-    normalPrice:    113.37,
-    clearancePrice: 87.1,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=HOKA%20Men's%20Transport%20G",
-    link:           "https://slickdeals.net/f/19769088-hoka-men-s-transport-gtx-shoes-druzy-birch-87-07-w-promo-code-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             12,
-    name:           "Carter\\'s Kids\\' Clothing: 2-Pc Toddler Girls\\' Rib Snug Pajamas $3.60 & More + Free Pickup",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    50,
-    clearancePrice: 3.6,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Carter's%20Kids'%20Clothin",
-    link:           "https://slickdeals.net/f/19767282-carter-s-kids-clothing-2-pc-toddler-girls-rib-snug-pajamas-3-60-more-free-pickup?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
