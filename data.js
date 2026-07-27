@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-07-25 by GitHub Actions
+// Last updated: 2026-07-27 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Fanatics Sale: Sports Apparel & Accessories Up to 70% Off + Free S&H on $39+ via App",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    130,
+    clearancePrice: 39,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Fanatics%20Sale%3A%20Sports%20",
+    link:           "https://slickdeals.net/f/19809915-fanatics-70-off-3-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "Jos. A. Bank Sale: Tailored Fit Garment-Dyed Field Pants (Olivine) $20 & More + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -18,7 +30,19 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
+    name:           "3-Pk M+ Men\\'s Reading Glasses $2.90 & More",
+    category:       "supplies",
+    retailer:       "walmart",
+    normalPrice:    35,
+    clearancePrice: 2.9,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=3-Pk%20M%2B%20Men's%20Reading%20",
+    link:           "https://slickdeals.net/f/19804083-various-reading-glasses-on-clearance-from-2-walmart-w-free-ship-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             4,
     name:           "Posh Tech Carmen Faux Leather Band for Apple Watch $2.40 & More",
     category:       "supplies",
     retailer:       "walmart",
@@ -30,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             5,
     name:           "27-Pc GEARWRENCH 1/4\" Drive 6-Point Pass-Thru Mechanics Tool Set $68.10 or Less + Free S&H",
     category:       "supplies",
     retailer:       "amazon",
@@ -42,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             6,
     name:           "Crank Brothers Mallet Trail Pedal (Purple) $100 + Free S/H",
     category:       "supplies",
     retailer:       "amazon",
@@ -54,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             7,
     name:           "25.4oz. Splenda Sugar Free Flavored Liquid Syrup (French Vanilla) $2.85 w/ S&S",
     category:       "supplies",
     retailer:       "amazon",
@@ -66,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             8,
     name:           "2-Pk Athletic Works 9\" Dri Mid Rise Bike Shorts (various colors/sizes) $5 + Free S&H on $35+",
     category:       "sports",
     retailer:       "walmart",
@@ -78,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             9,
     name:           "32 Degrees Summer Clearance Sale: Men\\'s Cool Crew T-Shirt $5 + Free S&H $23.75+",
     category:       "fashion",
     retailer:       "amazon",
@@ -90,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             10,
     name:           "20-Pc Skil Sanders Mixed 5\" Round Sanding Paper Kit (60/80/120/240 Grits)",
     category:       "supplies",
     retailer:       "amazon",
@@ -102,23 +126,11 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
-    name:           "Dog Fetch Balls, Toys, & More Clearance: 2-Pk 2\" Chuckit! Erratic Ball Fetch Toy $1.25 & More",
-    category:       "toys",
-    retailer:       "walmart",
-    normalPrice:    3.85,
-    clearancePrice: 1.25,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Dog%20Fetch%20Balls%2C%20Toys%2C",
-    link:           "https://slickdeals.net/f/19782633-clearance-chew-king-chuck-it-more-dog-toys-89-0-89?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             10,
+    id:             11,
     name:           "Walmart Kids\\' Room Clearance: Cocomelon LED Canvas Wall Art (15.75\" x 11.5\") $2.40 & More",
     category:       "supplies",
     retailer:       "walmart",
-    normalPrice:    17.49,
+    normalPrice:    35,
     clearancePrice: 2.4,
     fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Walmart%20Kids'%20Room%20Cle",
     link:           "https://slickdeals.net/f/19781052-walmart-kids-room-clearance-cocomelon-led-canvas-wall-art-15-75-x-11-5-2-40-more?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -126,7 +138,19 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             11,
+    id:             12,
+    name:           "Walmart Hello Kitty Clearance: Hello Kitty Women\\'s Molded Clogs $12 & More",
+    category:       "supplies",
+    retailer:       "walmart",
+    normalPrice:    35,
+    clearancePrice: 12,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Walmart%20Hello%20Kitty%20Cl",
+    link:           "https://slickdeals.net/f/19780122-hello-kitty-merchandise-clearance-at-walmart-92?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             13,
     name:           "Select Lowe\\'s Stores: Police Security Elite Skylar 3300-Lumens LED Flashlight $12.50 + Free Pickup Only",
     category:       "supplies",
     retailer:       "amazon",
@@ -134,18 +158,6 @@ const DEALS = [
     clearancePrice: 12.5,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Lowe's%20Stores%3A%20",
     link:           "https://slickdeals.net/f/19777269-ymmv-police-security-skylar-3300-lumen-5-adjustable-mode-led-flashlight-one-size-98409tm-12-52?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             12,
-    name:           "Old Navy Clearance Sale: Women\\'s, Men\\'s & Kids\\' Apparel & More up to 85% OFF + Free S&H on $50+",
-    category:       "fashion",
-    retailer:       "amazon",
-    normalPrice:    333.33,
-    clearancePrice: 50,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Old%20Navy%20Clearance%20Sal",
-    link:           "https://slickdeals.net/f/19774758-up-to-85-off-old-navy-clearance-sale?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
