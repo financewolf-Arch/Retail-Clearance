@@ -1,6 +1,6 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-07-27 by GitHub Actions
+// Last updated: 2026-07-28 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
@@ -31,6 +31,18 @@ const DEALS = [
   },
   {
     id:             3,
+    name:           "Banana Republic Factory: Extra Savings on Select Sale Styles Extra 50% Off + Free S&H $50+",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    100,
+    clearancePrice: 50,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Banana%20Republic%20Factor",
+    link:           "https://slickdeals.net/f/19804251-extra-50-off-banana-republic-factory-sale?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             4,
     name:           "3-Pk M+ Men\\'s Reading Glasses $2.90 & More",
     category:       "supplies",
     retailer:       "walmart",
@@ -42,11 +54,11 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
     name:           "Posh Tech Carmen Faux Leather Band for Apple Watch $2.40 & More",
     category:       "supplies",
     retailer:       "walmart",
-    normalPrice:    2.7,
+    normalPrice:    35,
     clearancePrice: 2.4,
     fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Posh%20Tech%20Carmen%20Faux%20",
     link:           "https://slickdeals.net/f/19803984-posh-tech-carmen-faux-leather-band-for-apple-watch-2-40-more?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -54,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             6,
     name:           "27-Pc GEARWRENCH 1/4\" Drive 6-Point Pass-Thru Mechanics Tool Set $68.10 or Less + Free S&H",
     category:       "supplies",
     retailer:       "amazon",
@@ -66,7 +78,19 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             7,
+    name:           "Sam\\'s Club: Member\\'s Mark Pro 36\" Pellet Smoker w/ Induction Burner & Smoke Tray $394 + Free S&H w/ Plus",
+    category:       "supplies",
+    retailer:       "samsclub",
+    normalPrice:    400,
+    clearancePrice: 394,
+    fallbackImage:  "https://placehold.co/300x200/004990/ffffff?text=Sam's%20Club%3A%20Member's%20M",
+    link:           "https://slickdeals.net/f/19798527-member-s-mark-pro-series-36-pellet-smoker-w-induction-burner-smoke-tray-cover-393-84-free-s-h-w-sam-s-plus-members-394?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             8,
     name:           "Crank Brothers Mallet Trail Pedal (Purple) $100 + Free S/H",
     category:       "supplies",
     retailer:       "amazon",
@@ -78,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             9,
     name:           "25.4oz. Splenda Sugar Free Flavored Liquid Syrup (French Vanilla) $2.85 w/ S&S",
     category:       "supplies",
     retailer:       "amazon",
@@ -90,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             10,
     name:           "2-Pk Athletic Works 9\" Dri Mid Rise Bike Shorts (various colors/sizes) $5 + Free S&H on $35+",
     category:       "sports",
     retailer:       "walmart",
@@ -102,7 +126,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             11,
     name:           "32 Degrees Summer Clearance Sale: Men\\'s Cool Crew T-Shirt $5 + Free S&H $23.75+",
     category:       "fashion",
     retailer:       "amazon",
@@ -114,7 +138,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             10,
+    id:             12,
     name:           "20-Pc Skil Sanders Mixed 5\" Round Sanding Paper Kit (60/80/120/240 Grits)",
     category:       "supplies",
     retailer:       "amazon",
@@ -126,38 +150,14 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             11,
+    id:             13,
     name:           "Walmart Kids\\' Room Clearance: Cocomelon LED Canvas Wall Art (15.75\" x 11.5\") $2.40 & More",
     category:       "supplies",
     retailer:       "walmart",
-    normalPrice:    35,
+    normalPrice:    17.49,
     clearancePrice: 2.4,
     fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Walmart%20Kids'%20Room%20Cle",
     link:           "https://slickdeals.net/f/19781052-walmart-kids-room-clearance-cocomelon-led-canvas-wall-art-15-75-x-11-5-2-40-more?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             12,
-    name:           "Walmart Hello Kitty Clearance: Hello Kitty Women\\'s Molded Clogs $12 & More",
-    category:       "supplies",
-    retailer:       "walmart",
-    normalPrice:    35,
-    clearancePrice: 12,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Walmart%20Hello%20Kitty%20Cl",
-    link:           "https://slickdeals.net/f/19780122-hello-kitty-merchandise-clearance-at-walmart-92?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             13,
-    name:           "Select Lowe\\'s Stores: Police Security Elite Skylar 3300-Lumens LED Flashlight $12.50 + Free Pickup Only",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    12.52,
-    clearancePrice: 12.5,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Lowe's%20Stores%3A%20",
-    link:           "https://slickdeals.net/f/19777269-ymmv-police-security-skylar-3300-lumen-5-adjustable-mode-led-flashlight-one-size-98409tm-12-52?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
