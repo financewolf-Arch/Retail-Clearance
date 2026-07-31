@@ -1,6 +1,6 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-07-30 by GitHub Actions
+// Last updated: 2026-07-31 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
@@ -67,10 +67,22 @@ const DEALS = [
   },
   {
     id:             6,
+    name:           "3-Pk M+ Men\\'s Reading Glasses $2.90 & More",
+    category:       "supplies",
+    retailer:       "walmart",
+    normalPrice:    35,
+    clearancePrice: 2.9,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=3-Pk%20M%2B%20Men's%20Reading%20",
+    link:           "https://slickdeals.net/f/19804083-various-reading-glasses-on-clearance-from-2-walmart-w-free-ship-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             7,
     name:           "Posh Tech Carmen Faux Leather Band for Apple Watch $2.40 & More",
     category:       "supplies",
     retailer:       "walmart",
-    normalPrice:    2.7,
+    normalPrice:    35,
     clearancePrice: 2.4,
     fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Posh%20Tech%20Carmen%20Faux%20",
     link:           "https://slickdeals.net/f/19803984-posh-tech-carmen-faux-leather-band-for-apple-watch-2-40-more?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -78,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             8,
     name:           "27-Pc GEARWRENCH 1/4\" Drive 6-Point Pass-Thru Mechanics Tool Set $68.10 or Less + Free S&H",
     category:       "supplies",
     retailer:       "amazon",
@@ -90,7 +102,31 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             9,
+    name:           "Sam\\'s Club: Member\\'s Mark Pro 36\" Pellet Smoker w/ Induction Burner & Smoke Tray $394 + Free S&H w/ Plus",
+    category:       "supplies",
+    retailer:       "samsclub",
+    normalPrice:    400,
+    clearancePrice: 394,
+    fallbackImage:  "https://placehold.co/300x200/004990/ffffff?text=Sam's%20Club%3A%20Member's%20M",
+    link:           "https://slickdeals.net/f/19798527-member-s-mark-pro-series-36-pellet-smoker-w-induction-burner-smoke-tray-cover-393-84-free-s-h-w-sam-s-plus-members-394?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             10,
+    name:           "Crank Brothers Mallet Trail Pedal (Purple) $100 + Free S/H",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    200,
+    clearancePrice: 100,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Crank%20Brothers%20Mallet%20",
+    link:           "https://slickdeals.net/f/19798269-99-99-crank-brothers-mallet-trail-pedal-purple?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             11,
     name:           "25.4oz. Splenda Sugar Free Flavored Liquid Syrup (French Vanilla) $2.85 w/ S&S",
     category:       "supplies",
     retailer:       "amazon",
@@ -102,7 +138,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             12,
     name:           "2-Pk Athletic Works 9\" Dri Mid Rise Bike Shorts (various colors/sizes) $5 + Free S&H on $35+",
     category:       "sports",
     retailer:       "walmart",
@@ -110,18 +146,6 @@ const DEALS = [
     clearancePrice: 5,
     fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=2-Pk%20Athletic%20Works%209%22",
     link:           "https://slickdeals.net/f/19792332-2-pack-athletic-works-women-s-mid-rise-9-bike-shorts-3-colors-5-free-s-h-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             10,
-    name:           "32 Degrees Summer Clearance Sale: Men\\'s Cool Crew T-Shirt $5 + Free S&H $23.75+",
-    category:       "fashion",
-    retailer:       "amazon",
-    normalPrice:    23.75,
-    clearancePrice: 5,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=32%20Degrees%20Summer%20Clea",
-    link:           "https://slickdeals.net/f/19786203-32-degrees-summer-clearance-sale-men-s-cool-crew-t-shirt-4-99-more-free-shipping-on-24?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
