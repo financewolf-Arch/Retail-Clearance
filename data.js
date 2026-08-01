@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-07-31 by GitHub Actions
+// Last updated: 2026-08-01 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Calvin Klein Sale: Men\\'s, Women\\'s & Kids\\' Clothing, Home & More 50% Off + Extra 30% Off + Free S&H on $50+",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    100,
+    clearancePrice: 50,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Calvin%20Klein%20Sale%3A%20Men",
+    link:           "https://slickdeals.net/f/19825452-calvin-klein-sale-men-s-women-s-kids-clothing-home-more-50-off-extra-30-off-free-s-h-on-50?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "Extra 40% Off Select Styles: New Balance Men\\'s 520 v9 Running Shoes (Black) $36 & More + Free S/H Orders $99+",
     category:       "fashion",
     retailer:       "amazon",
@@ -18,7 +30,31 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
+    name:           "Select Sam\\'s Club Stores: 8-Ct. Philips Sonicare W3 White Replacement Brush Heads",
+    category:       "supplies",
+    retailer:       "samsclub",
+    normalPrice:    24.91,
+    clearancePrice: 14.9,
+    fallbackImage:  "https://placehold.co/300x200/004990/ffffff?text=Select%20Sam's%20Club%20Stor",
+    link:           "https://slickdeals.net/f/19818093-sam-s-club-philips-sonicare-w3-premium-white-replacement-brush-heads-8-ct-as-low-as-14-91-ymmv?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             4,
+    name:           "Old Navy Clearance Sale: Women\\'s, Men\\'s & Kids\\' Apparel & More up to 85% OFF + Free S&H on $50+",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    333.33,
+    clearancePrice: 50,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Old%20Navy%20Clearance%20Sal",
+    link:           "https://slickdeals.net/f/19816419-up-to-86-off-old-navy-clearance-sale?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             5,
     name:           "Camping World Clearance Sale: XL Quad Chair (Blue) $8.55 & More + Free S&H on $99+",
     category:       "sports",
     retailer:       "amazon",
@@ -30,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             6,
     name:           "Fanatics Sale: Sports Apparel & Accessories Up to 70% Off + Free S&H on $39+ via App",
     category:       "fashion",
     retailer:       "amazon",
@@ -42,19 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
-    name:           "Jos. A. Bank Sale: Tailored Fit Garment-Dyed Field Pants (Olivine) $20 & More + Free S&H",
-    category:       "fashion",
-    retailer:       "amazon",
-    normalPrice:    50,
-    clearancePrice: 20,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Jos.%20A.%20Bank%20Sale%3A%20Tai",
-    link:           "https://slickdeals.net/f/19805517-jos-a-bank-up-to-45-off-up-to-70-off-clearance-tailored-fit-garment-dyed-field-pants-19-99-exploded-plaid-cashmere-scarf-19-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             5,
+    id:             7,
     name:           "Banana Republic Factory: Extra Savings on Select Sale Styles Extra 50% Off + Free S&H $50+",
     category:       "supplies",
     retailer:       "amazon",
@@ -66,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             8,
     name:           "3-Pk M+ Men\\'s Reading Glasses $2.90 & More",
     category:       "supplies",
     retailer:       "walmart",
@@ -78,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             9,
     name:           "Posh Tech Carmen Faux Leather Band for Apple Watch $2.40 & More",
     category:       "supplies",
     retailer:       "walmart",
@@ -90,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             10,
     name:           "27-Pc GEARWRENCH 1/4\" Drive 6-Point Pass-Thru Mechanics Tool Set $68.10 or Less + Free S&H",
     category:       "supplies",
     retailer:       "amazon",
@@ -102,7 +126,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             11,
     name:           "Sam\\'s Club: Member\\'s Mark Pro 36\" Pellet Smoker w/ Induction Burner & Smoke Tray $394 + Free S&H w/ Plus",
     category:       "supplies",
     retailer:       "samsclub",
@@ -114,7 +138,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             10,
+    id:             12,
     name:           "Crank Brothers Mallet Trail Pedal (Purple) $100 + Free S/H",
     category:       "supplies",
     retailer:       "amazon",
@@ -122,30 +146,6 @@ const DEALS = [
     clearancePrice: 100,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Crank%20Brothers%20Mallet%20",
     link:           "https://slickdeals.net/f/19798269-99-99-crank-brothers-mallet-trail-pedal-purple?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             11,
-    name:           "25.4oz. Splenda Sugar Free Flavored Liquid Syrup (French Vanilla) $2.85 w/ S&S",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    3.02,
-    clearancePrice: 2.85,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=25.4oz.%20Splenda%20Sugar%20",
-    link:           "https://slickdeals.net/f/19795203-new-sns-2-87-25-4-oz-splenda-coffee-syrup-french-vanilla-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             12,
-    name:           "2-Pk Athletic Works 9\" Dri Mid Rise Bike Shorts (various colors/sizes) $5 + Free S&H on $35+",
-    category:       "sports",
-    retailer:       "walmart",
-    normalPrice:    35,
-    clearancePrice: 5,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=2-Pk%20Athletic%20Works%209%22",
-    link:           "https://slickdeals.net/f/19792332-2-pack-athletic-works-women-s-mid-rise-9-bike-shorts-3-colors-5-free-s-h-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
