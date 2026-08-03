@@ -1,6 +1,6 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-08-02 by GitHub Actions
+// Last updated: 2026-08-03 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
@@ -79,6 +79,18 @@ const DEALS = [
   },
   {
     id:             7,
+    name:           "Jos. A. Bank Sale: Tailored Fit Garment-Dyed Field Pants (Olivine) $20 & More + Free S&H",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    50,
+    clearancePrice: 20,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Jos.%20A.%20Bank%20Sale%3A%20Tai",
+    link:           "https://slickdeals.net/f/19805517-jos-a-bank-up-to-45-off-up-to-70-off-clearance-tailored-fit-garment-dyed-field-pants-19-99-exploded-plaid-cashmere-scarf-19-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             8,
     name:           "Banana Republic Factory: Extra Savings on Select Sale Styles Extra 50% Off + Free S&H $50+",
     category:       "supplies",
     retailer:       "amazon",
@@ -90,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             9,
     name:           "3-Pk M+ Men\\'s Reading Glasses $2.90 & More",
     category:       "supplies",
     retailer:       "walmart",
@@ -102,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             10,
     name:           "Posh Tech Carmen Faux Leather Band for Apple Watch $2.40 & More",
     category:       "supplies",
     retailer:       "walmart",
@@ -114,7 +126,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             10,
+    id:             11,
     name:           "27-Pc GEARWRENCH 1/4\" Drive 6-Point Pass-Thru Mechanics Tool Set $68.10 or Less + Free S&H",
     category:       "supplies",
     retailer:       "amazon",
@@ -122,30 +134,6 @@ const DEALS = [
     clearancePrice: 68.1,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=27-Pc%20GEARWRENCH%201%2F4%22%20",
     link:           "https://slickdeals.net/f/19800666-27-pc-gearwrench-1-4-drive-6-point-pass-thru-mechanics-tool-set-68-10-or-less-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             11,
-    name:           "Sam\\'s Club: Member\\'s Mark Pro 36\" Pellet Smoker w/ Induction Burner & Smoke Tray $394 + Free S&H w/ Plus",
-    category:       "supplies",
-    retailer:       "samsclub",
-    normalPrice:    400,
-    clearancePrice: 394,
-    fallbackImage:  "https://placehold.co/300x200/004990/ffffff?text=Sam's%20Club%3A%20Member's%20M",
-    link:           "https://slickdeals.net/f/19798527-member-s-mark-pro-series-36-pellet-smoker-w-induction-burner-smoke-tray-cover-393-84-free-s-h-w-sam-s-plus-members-394?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             12,
-    name:           "Crank Brothers Mallet Trail Pedal (Purple) $100 + Free S/H",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    200,
-    clearancePrice: 100,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Crank%20Brothers%20Mallet%20",
-    link:           "https://slickdeals.net/f/19798269-99-99-crank-brothers-mallet-trail-pedal-purple?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
