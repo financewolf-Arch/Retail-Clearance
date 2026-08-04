@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-08-03 by GitHub Actions
+// Last updated: 2026-08-04 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "GameStop Stores Only: Spot the Dot Clearance Event: Marked Clearance Items Up to 90% Off (Prices/Selection May Vary)",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    13.9,
+    clearancePrice: 1.39,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=GameStop%20Stores%20Only%3A%20",
+    link:           "https://slickdeals.net/f/19840869-gamestop-spot-the-dot-clearance-event-up-to-90-off-marked-prices?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "Calvin Klein Sale: Men\\'s, Women\\'s & Kids\\' Clothing, Home & More 50% Off + Extra 30% Off + Free S&H on $50+",
     category:       "supplies",
     retailer:       "amazon",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "Extra 40% Off Select Styles: New Balance Men\\'s 520 v9 Running Shoes (Black) $36 & More + Free S/H Orders $99+",
     category:       "fashion",
     retailer:       "amazon",
@@ -30,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "Select Sam\\'s Club Stores: 8-Ct. Philips Sonicare W3 White Replacement Brush Heads",
     category:       "supplies",
     retailer:       "samsclub",
@@ -42,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
     name:           "Old Navy Clearance Sale: Women\\'s, Men\\'s & Kids\\' Apparel & More up to 85% OFF + Free S&H on $50+",
     category:       "fashion",
     retailer:       "amazon",
@@ -50,18 +62,6 @@ const DEALS = [
     clearancePrice: 50,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Old%20Navy%20Clearance%20Sal",
     link:           "https://slickdeals.net/f/19816419-up-to-86-off-old-navy-clearance-sale?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             5,
-    name:           "Camping World Clearance Sale: XL Quad Chair (Blue) $8.55 & More + Free S&H on $99+",
-    category:       "sports",
-    retailer:       "amazon",
-    normalPrice:    99,
-    clearancePrice: 8.55,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Camping%20World%20Clearanc",
-    link:           "https://slickdeals.net/f/19814976-camping-world-xl-quad-chair-blue-8-54-15-wooden-over-the-door-hanging-hook-5-97-rv-wheel-cover-4-pack-6-97-more-free-shipping-on-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   },
@@ -79,18 +79,6 @@ const DEALS = [
   },
   {
     id:             7,
-    name:           "Jos. A. Bank Sale: Tailored Fit Garment-Dyed Field Pants (Olivine) $20 & More + Free S&H",
-    category:       "fashion",
-    retailer:       "amazon",
-    normalPrice:    50,
-    clearancePrice: 20,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Jos.%20A.%20Bank%20Sale%3A%20Tai",
-    link:           "https://slickdeals.net/f/19805517-jos-a-bank-up-to-45-off-up-to-70-off-clearance-tailored-fit-garment-dyed-field-pants-19-99-exploded-plaid-cashmere-scarf-19-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             8,
     name:           "Banana Republic Factory: Extra Savings on Select Sale Styles Extra 50% Off + Free S&H $50+",
     category:       "supplies",
     retailer:       "amazon",
@@ -102,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             8,
     name:           "3-Pk M+ Men\\'s Reading Glasses $2.90 & More",
     category:       "supplies",
     retailer:       "walmart",
@@ -114,26 +102,14 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             10,
+    id:             9,
     name:           "Posh Tech Carmen Faux Leather Band for Apple Watch $2.40 & More",
     category:       "supplies",
     retailer:       "walmart",
-    normalPrice:    35,
+    normalPrice:    2.7,
     clearancePrice: 2.4,
     fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Posh%20Tech%20Carmen%20Faux%20",
     link:           "https://slickdeals.net/f/19803984-posh-tech-carmen-faux-leather-band-for-apple-watch-2-40-more?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             11,
-    name:           "27-Pc GEARWRENCH 1/4\" Drive 6-Point Pass-Thru Mechanics Tool Set $68.10 or Less + Free S&H",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    68.11,
-    clearancePrice: 68.1,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=27-Pc%20GEARWRENCH%201%2F4%22%20",
-    link:           "https://slickdeals.net/f/19800666-27-pc-gearwrench-1-4-drive-6-point-pass-thru-mechanics-tool-set-68-10-or-less-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
