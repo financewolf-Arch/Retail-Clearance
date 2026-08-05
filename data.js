@@ -1,6 +1,6 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-08-04 by GitHub Actions
+// Last updated: 2026-08-05 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
@@ -19,6 +19,42 @@ const DEALS = [
   },
   {
     id:             2,
+    name:           "Select Home Depot Stores: RIDGID 18V Cordless Hybrid Jobsite Fan (Tool Only) $8.90 (Limited Availability In-Store Only) & More",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    15,
+    clearancePrice: 8.9,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Home%20Depot%20Stor",
+    link:           "https://slickdeals.net/f/19840281-extreme-ymmv-ridgid-hybrid-jobsite-fan-bare-tool-8-90-reg-89-and-brushless-subcompact-impact-driver-15-reg-149-at-home-depot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             3,
+    name:           "Solati Cordless Hair Clipper & Beard Trimmer Kit w/ LED Display",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    29.99,
+    clearancePrice: 17.4,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Solati%20Cordless%20Hair%20C",
+    link:           "https://slickdeals.net/f/19839870-solati-professional-hair-clipper-zero-gap-beard-trimmer-set-black-17-39-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             4,
+    name:           "Men\\'s Athletic Works Woven Track Jacket (various colors/sizes) $6.80 + Free S&H on $35+",
+    category:       "fashion",
+    retailer:       "walmart",
+    normalPrice:    35,
+    clearancePrice: 6.8,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Men's%20Athletic%20Works%20W",
+    link:           "https://slickdeals.net/f/19835913-athletic-works-men-s-woven-track-jacket-heritage-blue-from-9-50-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             5,
     name:           "Calvin Klein Sale: Men\\'s, Women\\'s & Kids\\' Clothing, Home & More 50% Off + Extra 30% Off + Free S&H on $50+",
     category:       "supplies",
     retailer:       "amazon",
@@ -30,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             6,
     name:           "Extra 40% Off Select Styles: New Balance Men\\'s 520 v9 Running Shoes (Black) $36 & More + Free S/H Orders $99+",
     category:       "fashion",
     retailer:       "amazon",
@@ -42,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             7,
     name:           "Select Sam\\'s Club Stores: 8-Ct. Philips Sonicare W3 White Replacement Brush Heads",
     category:       "supplies",
     retailer:       "samsclub",
@@ -54,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             8,
     name:           "Old Navy Clearance Sale: Women\\'s, Men\\'s & Kids\\' Apparel & More up to 85% OFF + Free S&H on $50+",
     category:       "fashion",
     retailer:       "amazon",
@@ -66,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             9,
     name:           "Fanatics Sale: Sports Apparel & Accessories Up to 70% Off + Free S&H on $39+ via App",
     category:       "fashion",
     retailer:       "amazon",
@@ -74,42 +110,6 @@ const DEALS = [
     clearancePrice: 39,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Fanatics%20Sale%3A%20Sports%20",
     link:           "https://slickdeals.net/f/19809915-fanatics-70-off-3-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             7,
-    name:           "Banana Republic Factory: Extra Savings on Select Sale Styles Extra 50% Off + Free S&H $50+",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    100,
-    clearancePrice: 50,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Banana%20Republic%20Factor",
-    link:           "https://slickdeals.net/f/19804251-extra-50-off-banana-republic-factory-sale?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             8,
-    name:           "3-Pk M+ Men\\'s Reading Glasses $2.90 & More",
-    category:       "supplies",
-    retailer:       "walmart",
-    normalPrice:    35,
-    clearancePrice: 2.9,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=3-Pk%20M%2B%20Men's%20Reading%20",
-    link:           "https://slickdeals.net/f/19804083-various-reading-glasses-on-clearance-from-2-walmart-w-free-ship-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             9,
-    name:           "Posh Tech Carmen Faux Leather Band for Apple Watch $2.40 & More",
-    category:       "supplies",
-    retailer:       "walmart",
-    normalPrice:    2.7,
-    clearancePrice: 2.4,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Posh%20Tech%20Carmen%20Faux%20",
-    link:           "https://slickdeals.net/f/19803984-posh-tech-carmen-faux-leather-band-for-apple-watch-2-40-more?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
