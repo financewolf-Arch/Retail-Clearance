@@ -1,19 +1,19 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-08-05 by GitHub Actions
+// Last updated: 2026-08-06 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
-    name:           "GameStop Stores Only: Spot the Dot Clearance Event: Marked Clearance Items Up to 90% Off (Prices/Selection May Vary)",
-    category:       "supplies",
+    name:           "Old Navy Clearance Sale: Women\\'s, Men\\'s & Kids\\' Apparel & More Extra 30% Off + Free S&H $50+",
+    category:       "fashion",
     retailer:       "amazon",
-    normalPrice:    13.9,
-    clearancePrice: 1.39,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=GameStop%20Stores%20Only%3A%20",
-    link:           "https://slickdeals.net/f/19840869-gamestop-spot-the-dot-clearance-event-up-to-90-off-marked-prices?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    normalPrice:    71.43,
+    clearancePrice: 50,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Old%20Navy%20Clearance%20Sal",
+    link:           "https://slickdeals.net/f/19843560-up-to-86-off-extra-30-off-old-navy-clearance-sale?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   },
@@ -98,18 +98,6 @@ const DEALS = [
     clearancePrice: 50,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Old%20Navy%20Clearance%20Sal",
     link:           "https://slickdeals.net/f/19816419-up-to-86-off-old-navy-clearance-sale?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             9,
-    name:           "Fanatics Sale: Sports Apparel & Accessories Up to 70% Off + Free S&H on $39+ via App",
-    category:       "fashion",
-    retailer:       "amazon",
-    normalPrice:    130,
-    clearancePrice: 39,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Fanatics%20Sale%3A%20Sports%20",
-    link:           "https://slickdeals.net/f/19809915-fanatics-70-off-3-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
