@@ -1,6 +1,6 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-08-06 by GitHub Actions
+// Last updated: 2026-08-07 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
@@ -19,6 +19,18 @@ const DEALS = [
   },
   {
     id:             2,
+    name:           "GameStop Stores Only: Spot the Dot Clearance Event: Marked Clearance Items Up to 90% Off (Prices/Selection May Vary)",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    13.9,
+    clearancePrice: 1.39,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=GameStop%20Stores%20Only%3A%20",
+    link:           "https://slickdeals.net/f/19840869-gamestop-spot-the-dot-clearance-event-up-to-90-off-marked-prices?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             3,
     name:           "Select Home Depot Stores: RIDGID 18V Cordless Hybrid Jobsite Fan (Tool Only) $8.90 (Limited Availability In-Store Only) & More",
     category:       "supplies",
     retailer:       "amazon",
@@ -30,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "Solati Cordless Hair Clipper & Beard Trimmer Kit w/ LED Display",
     category:       "supplies",
     retailer:       "amazon",
@@ -42,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
     name:           "Men\\'s Athletic Works Woven Track Jacket (various colors/sizes) $6.80 + Free S&H on $35+",
     category:       "fashion",
     retailer:       "walmart",
@@ -54,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             6,
     name:           "Calvin Klein Sale: Men\\'s, Women\\'s & Kids\\' Clothing, Home & More 50% Off + Extra 30% Off + Free S&H on $50+",
     category:       "supplies",
     retailer:       "amazon",
@@ -66,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             7,
     name:           "Extra 40% Off Select Styles: New Balance Men\\'s 520 v9 Running Shoes (Black) $36 & More + Free S/H Orders $99+",
     category:       "fashion",
     retailer:       "amazon",
@@ -78,11 +90,11 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             8,
     name:           "Select Sam\\'s Club Stores: 8-Ct. Philips Sonicare W3 White Replacement Brush Heads",
     category:       "supplies",
     retailer:       "samsclub",
-    normalPrice:    24.91,
+    normalPrice:    14.91,
     clearancePrice: 14.9,
     fallbackImage:  "https://placehold.co/300x200/004990/ffffff?text=Select%20Sam's%20Club%20Stor",
     link:           "https://slickdeals.net/f/19818093-sam-s-club-philips-sonicare-w3-premium-white-replacement-brush-heads-8-ct-as-low-as-14-91-ymmv?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -90,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             9,
     name:           "Old Navy Clearance Sale: Women\\'s, Men\\'s & Kids\\' Apparel & More up to 85% OFF + Free S&H on $50+",
     category:       "fashion",
     retailer:       "amazon",
@@ -98,6 +110,18 @@ const DEALS = [
     clearancePrice: 50,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Old%20Navy%20Clearance%20Sal",
     link:           "https://slickdeals.net/f/19816419-up-to-86-off-old-navy-clearance-sale?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             10,
+    name:           "Camping World Clearance Sale: XL Quad Chair (Blue) $8.55 & More + Free S&H on $99+",
+    category:       "sports",
+    retailer:       "amazon",
+    normalPrice:    99,
+    clearancePrice: 8.55,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Camping%20World%20Clearanc",
+    link:           "https://slickdeals.net/f/19814976-camping-world-xl-quad-chair-blue-8-54-15-wooden-over-the-door-hanging-hook-5-97-rv-wheel-cover-4-pack-6-97-more-free-shipping-on-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
