@@ -1,6 +1,6 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-08-07 by GitHub Actions
+// Last updated: 2026-08-08 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
@@ -67,6 +67,18 @@ const DEALS = [
   },
   {
     id:             6,
+    name:           "MinnARK Over-the-Door Basketball Dual Hoop Indoor Sports Game (Hoop + 2 Balls) $20.85 + Free Pickup",
+    category:       "supplies",
+    retailer:       "walmart",
+    normalPrice:    20.86,
+    clearancePrice: 20.85,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=MinnARK%20Over-the-Door%20",
+    link:           "https://slickdeals.net/f/19829817-20-58-over-the-door-basketball-dual-hoop-indoor-sports-game-hoop-2-inflated-balls?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             7,
     name:           "Calvin Klein Sale: Men\\'s, Women\\'s & Kids\\' Clothing, Home & More 50% Off + Extra 30% Off + Free S&H on $50+",
     category:       "supplies",
     retailer:       "amazon",
@@ -78,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             8,
     name:           "Extra 40% Off Select Styles: New Balance Men\\'s 520 v9 Running Shoes (Black) $36 & More + Free S/H Orders $99+",
     category:       "fashion",
     retailer:       "amazon",
@@ -90,11 +102,11 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             9,
     name:           "Select Sam\\'s Club Stores: 8-Ct. Philips Sonicare W3 White Replacement Brush Heads",
     category:       "supplies",
     retailer:       "samsclub",
-    normalPrice:    14.91,
+    normalPrice:    24.91,
     clearancePrice: 14.9,
     fallbackImage:  "https://placehold.co/300x200/004990/ffffff?text=Select%20Sam's%20Club%20Stor",
     link:           "https://slickdeals.net/f/19818093-sam-s-club-philips-sonicare-w3-premium-white-replacement-brush-heads-8-ct-as-low-as-14-91-ymmv?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -102,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             10,
     name:           "Old Navy Clearance Sale: Women\\'s, Men\\'s & Kids\\' Apparel & More up to 85% OFF + Free S&H on $50+",
     category:       "fashion",
     retailer:       "amazon",
@@ -114,7 +126,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             10,
+    id:             11,
     name:           "Camping World Clearance Sale: XL Quad Chair (Blue) $8.55 & More + Free S&H on $99+",
     category:       "sports",
     retailer:       "amazon",
