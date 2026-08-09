@@ -1,12 +1,48 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-08-08 by GitHub Actions
+// Last updated: 2026-08-09 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "HOKA Women\\'s Transport Shoes (White) $93.45 + Free S&H",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    93.47,
+    clearancePrice: 93.45,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=HOKA%20Women's%20Transport",
+    link:           "https://slickdeals.net/f/19856544-hoka-women-s-transport-shoes-white-93-47-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
+    name:           "On Women\\'s Cloudmonster Running Shoes (Black/Grey) $90.50 + Free S&H",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    110.47,
+    clearancePrice: 90.5,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=On%20Women's%20Cloudmonste",
+    link:           "https://slickdeals.net/f/19853280-on-women-s-cloudmonster-shoes-black-grey-90-47-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             3,
+    name:           "On Men\\'s Cloud 6 Waterproof Shoes (Olive/Safari) $89.75 w/ Email Sign-Up + Free S&H",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    109.77,
+    clearancePrice: 89.75,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=On%20Men's%20Cloud%206%20Water",
+    link:           "https://slickdeals.net/f/19853268-on-men-s-cloud-6-waterproof-shoes-olive-safari-89-77-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             4,
     name:           "Old Navy Clearance Sale: Women\\'s, Men\\'s & Kids\\' Apparel & More Extra 30% Off + Free S&H $50+",
     category:       "fashion",
     retailer:       "amazon",
@@ -18,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             5,
     name:           "GameStop Stores Only: Spot the Dot Clearance Event: Marked Clearance Items Up to 90% Off (Prices/Selection May Vary)",
     category:       "supplies",
     retailer:       "amazon",
@@ -30,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             6,
     name:           "Select Home Depot Stores: RIDGID 18V Cordless Hybrid Jobsite Fan (Tool Only) $8.90 (Limited Availability In-Store Only) & More",
     category:       "supplies",
     retailer:       "amazon",
@@ -42,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             7,
     name:           "Solati Cordless Hair Clipper & Beard Trimmer Kit w/ LED Display",
     category:       "supplies",
     retailer:       "amazon",
@@ -54,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             8,
     name:           "Men\\'s Athletic Works Woven Track Jacket (various colors/sizes) $6.80 + Free S&H on $35+",
     category:       "fashion",
     retailer:       "walmart",
@@ -66,19 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
-    name:           "MinnARK Over-the-Door Basketball Dual Hoop Indoor Sports Game (Hoop + 2 Balls) $20.85 + Free Pickup",
-    category:       "supplies",
-    retailer:       "walmart",
-    normalPrice:    20.86,
-    clearancePrice: 20.85,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=MinnARK%20Over-the-Door%20",
-    link:           "https://slickdeals.net/f/19829817-20-58-over-the-door-basketball-dual-hoop-indoor-sports-game-hoop-2-inflated-balls?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             7,
+    id:             9,
     name:           "Calvin Klein Sale: Men\\'s, Women\\'s & Kids\\' Clothing, Home & More 50% Off + Extra 30% Off + Free S&H on $50+",
     category:       "supplies",
     retailer:       "amazon",
@@ -90,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             10,
     name:           "Extra 40% Off Select Styles: New Balance Men\\'s 520 v9 Running Shoes (Black) $36 & More + Free S/H Orders $99+",
     category:       "fashion",
     retailer:       "amazon",
@@ -102,7 +126,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             11,
     name:           "Select Sam\\'s Club Stores: 8-Ct. Philips Sonicare W3 White Replacement Brush Heads",
     category:       "supplies",
     retailer:       "samsclub",
@@ -110,30 +134,6 @@ const DEALS = [
     clearancePrice: 14.9,
     fallbackImage:  "https://placehold.co/300x200/004990/ffffff?text=Select%20Sam's%20Club%20Stor",
     link:           "https://slickdeals.net/f/19818093-sam-s-club-philips-sonicare-w3-premium-white-replacement-brush-heads-8-ct-as-low-as-14-91-ymmv?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             10,
-    name:           "Old Navy Clearance Sale: Women\\'s, Men\\'s & Kids\\' Apparel & More up to 85% OFF + Free S&H on $50+",
-    category:       "fashion",
-    retailer:       "amazon",
-    normalPrice:    333.33,
-    clearancePrice: 50,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Old%20Navy%20Clearance%20Sal",
-    link:           "https://slickdeals.net/f/19816419-up-to-86-off-old-navy-clearance-sale?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             11,
-    name:           "Camping World Clearance Sale: XL Quad Chair (Blue) $8.55 & More + Free S&H on $99+",
-    category:       "sports",
-    retailer:       "amazon",
-    normalPrice:    99,
-    clearancePrice: 8.55,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Camping%20World%20Clearanc",
-    link:           "https://slickdeals.net/f/19814976-camping-world-xl-quad-chair-blue-8-54-15-wooden-over-the-door-hanging-hook-5-97-rv-wheel-cover-4-pack-6-97-more-free-shipping-on-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
