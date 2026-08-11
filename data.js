@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-08-10 by GitHub Actions
+// Last updated: 2026-08-11 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Open Box/Excellent: Shokz OpenDots ONE Open-Ear Clip-On Bluetooth Earbuds $49 Or Less + Free S&H",
+    category:       "tech",
+    retailer:       "bestbuy",
+    normalPrice:    75,
+    clearancePrice: 49,
+    fallbackImage:  "https://placehold.co/300x200/0046be/ffffff?text=Open%20Box%2FExcellent%3A%20Sh",
+    link:           "https://slickdeals.net/f/19863987-shokz-opendots-one-open-ear-clip-on-true-wireless-bluetooth-earbuds-gray-open-box-excellent-48-99-good-43-99-ymmv-at-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "HOKA Women\\'s Transport Shoes (White) $93.45 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "On Women\\'s Cloudmonster Running Shoes (Black/Grey) $90.50 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -30,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "On Men\\'s Cloud 6 Waterproof Shoes (Olive/Safari) $89.75 w/ Email Sign-Up + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -42,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
     name:           "Belk Clearance Sale (Apparel, Shoes, Accessories, Back to School & More): Up to 75% Off + Free S&H on $99+",
     category:       "fashion",
     retailer:       "amazon",
@@ -54,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             6,
     name:           "Old Navy Clearance Sale: Women\\'s, Men\\'s & Kids\\' Apparel & More Extra 30% Off + Free S&H $50+",
     category:       "fashion",
     retailer:       "amazon",
@@ -66,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             7,
     name:           "GameStop Stores Only: Spot the Dot Clearance Event: Marked Clearance Items Up to 90% Off (Prices/Selection May Vary)",
     category:       "supplies",
     retailer:       "amazon",
@@ -74,18 +86,6 @@ const DEALS = [
     clearancePrice: 1.39,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=GameStop%20Stores%20Only%3A%20",
     link:           "https://slickdeals.net/f/19840869-gamestop-spot-the-dot-clearance-event-up-to-90-off-marked-prices?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             7,
-    name:           "Select Home Depot Stores: RIDGID 18V Cordless Hybrid Jobsite Fan (Tool Only) $8.90 (Limited Availability In-Store Only) & More",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    15,
-    clearancePrice: 8.9,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Home%20Depot%20Stor",
-    link:           "https://slickdeals.net/f/19840281-extreme-ymmv-ridgid-hybrid-jobsite-fan-bare-tool-8-90-reg-89-and-brushless-subcompact-impact-driver-15-reg-149-at-home-depot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   },
