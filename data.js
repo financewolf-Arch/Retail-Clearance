@@ -1,6 +1,6 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-08-11 by GitHub Actions
+// Last updated: 2026-08-12 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
@@ -79,18 +79,6 @@ const DEALS = [
   },
   {
     id:             7,
-    name:           "GameStop Stores Only: Spot the Dot Clearance Event: Marked Clearance Items Up to 90% Off (Prices/Selection May Vary)",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    13.9,
-    clearancePrice: 1.39,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=GameStop%20Stores%20Only%3A%20",
-    link:           "https://slickdeals.net/f/19840869-gamestop-spot-the-dot-clearance-event-up-to-90-off-marked-prices?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             8,
     name:           "Solati Cordless Hair Clipper & Beard Trimmer Kit w/ LED Display",
     category:       "supplies",
     retailer:       "amazon",
@@ -102,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             8,
     name:           "Men\\'s Athletic Works Woven Track Jacket (various colors/sizes) $6.80 + Free S&H on $35+",
     category:       "fashion",
     retailer:       "walmart",
@@ -114,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             10,
+    id:             9,
     name:           "MinnARK Over-the-Door Basketball Dual Hoop Indoor Sports Game (Hoop + 2 Balls) $20.85 + Free Pickup",
     category:       "supplies",
     retailer:       "walmart",
@@ -126,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             11,
+    id:             10,
     name:           "Calvin Klein Sale: Men\\'s, Women\\'s & Kids\\' Clothing, Home & More 50% Off + Extra 30% Off + Free S&H on $50+",
     category:       "supplies",
     retailer:       "amazon",
@@ -134,18 +122,6 @@ const DEALS = [
     clearancePrice: 50,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Calvin%20Klein%20Sale%3A%20Men",
     link:           "https://slickdeals.net/f/19825452-calvin-klein-sale-men-s-women-s-kids-clothing-home-more-50-off-extra-30-off-free-s-h-on-50?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             12,
-    name:           "Extra 40% Off Select Styles: New Balance Men\\'s 520 v9 Running Shoes (Black) $36 & More + Free S/H Orders $99+",
-    category:       "fashion",
-    retailer:       "amazon",
-    normalPrice:    99,
-    clearancePrice: 36,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Extra%2040%25%20Off%20Select%20S",
-    link:           "https://slickdeals.net/f/19822761-joe-s-new-balance-outlet-extra-40-off-select-styles-men-s-fresh-foam-arishi-from-30-men-s-fresh-foam-680v9-41-39-and-more?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
