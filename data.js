@@ -1,19 +1,19 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-08-12 by GitHub Actions
+// Last updated: 2026-08-13 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
-    name:           "Open Box/Excellent: Shokz OpenDots ONE Open-Ear Clip-On Bluetooth Earbuds $49 Or Less + Free S&H",
-    category:       "tech",
-    retailer:       "bestbuy",
-    normalPrice:    75,
-    clearancePrice: 49,
-    fallbackImage:  "https://placehold.co/300x200/0046be/ffffff?text=Open%20Box%2FExcellent%3A%20Sh",
-    link:           "https://slickdeals.net/f/19863987-shokz-opendots-one-open-ear-clip-on-true-wireless-bluetooth-earbuds-gray-open-box-excellent-48-99-good-43-99-ymmv-at-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    name:           "2.3-L The North Face Jester Crossbody Bag (Black) $15 + Free Pickup",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    39,
+    clearancePrice: 15,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=2.3-L%20The%20North%20Face%20J",
+    link:           "https://slickdeals.net/f/19871439-2-3-l-the-north-face-jester-crossbody-bag-black-15-free-pickup?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   },
@@ -67,6 +67,18 @@ const DEALS = [
   },
   {
     id:             6,
+    name:           "Eligible Walmart Customers: Next Three Eligible Walmart Orders $10 Off $35+ + Free Pickup or Delivery w/ Walmart+",
+    category:       "supplies",
+    retailer:       "walmart",
+    normalPrice:    35,
+    clearancePrice: 10,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Eligible%20Walmart%20Custo",
+    link:           "https://slickdeals.net/f/19844658-new-walmart-code-no-banana-10-off-35-ymmv?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             7,
     name:           "Old Navy Clearance Sale: Women\\'s, Men\\'s & Kids\\' Apparel & More Extra 30% Off + Free S&H $50+",
     category:       "fashion",
     retailer:       "amazon",
@@ -78,7 +90,19 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             8,
+    name:           "Select Home Depot Stores: RIDGID 18V Cordless Hybrid Jobsite Fan (Tool Only) $8.90 (Limited Availability In-Store Only) & More",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    15,
+    clearancePrice: 8.9,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Home%20Depot%20Stor",
+    link:           "https://slickdeals.net/f/19840281-extreme-ymmv-ridgid-hybrid-jobsite-fan-bare-tool-8-90-reg-89-and-brushless-subcompact-impact-driver-15-reg-149-at-home-depot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             9,
     name:           "Solati Cordless Hair Clipper & Beard Trimmer Kit w/ LED Display",
     category:       "supplies",
     retailer:       "amazon",
@@ -90,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             10,
     name:           "Men\\'s Athletic Works Woven Track Jacket (various colors/sizes) $6.80 + Free S&H on $35+",
     category:       "fashion",
     retailer:       "walmart",
@@ -98,30 +122,6 @@ const DEALS = [
     clearancePrice: 6.8,
     fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Men's%20Athletic%20Works%20W",
     link:           "https://slickdeals.net/f/19835913-athletic-works-men-s-woven-track-jacket-heritage-blue-from-9-50-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             9,
-    name:           "MinnARK Over-the-Door Basketball Dual Hoop Indoor Sports Game (Hoop + 2 Balls) $20.85 + Free Pickup",
-    category:       "supplies",
-    retailer:       "walmart",
-    normalPrice:    20.86,
-    clearancePrice: 20.85,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=MinnARK%20Over-the-Door%20",
-    link:           "https://slickdeals.net/f/19829817-20-58-over-the-door-basketball-dual-hoop-indoor-sports-game-hoop-2-inflated-balls?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             10,
-    name:           "Calvin Klein Sale: Men\\'s, Women\\'s & Kids\\' Clothing, Home & More 50% Off + Extra 30% Off + Free S&H on $50+",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    100,
-    clearancePrice: 50,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Calvin%20Klein%20Sale%3A%20Men",
-    link:           "https://slickdeals.net/f/19825452-calvin-klein-sale-men-s-women-s-kids-clothing-home-more-50-off-extra-30-off-free-s-h-on-50?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
