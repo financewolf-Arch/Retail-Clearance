@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-08-13 by GitHub Actions
+// Last updated: 2026-08-14 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Solati Cordless Hair Clipper & Beard Trimmer Kit w/ LED Display",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    29.99,
+    clearancePrice: 17.4,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Solati%20Cordless%20Hair%20C",
+    link:           "https://slickdeals.net/f/19872417-solati-cordless-hair-clipper-beard-trimmer-kit-w-led-display-17-40?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "2.3-L The North Face Jester Crossbody Bag (Black) $15 + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
@@ -18,7 +30,19 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
+    name:           "Open Box/Excellent: Shokz OpenDots ONE Open-Ear Clip-On Bluetooth Earbuds $49 Or Less + Free S&H",
+    category:       "tech",
+    retailer:       "bestbuy",
+    normalPrice:    75,
+    clearancePrice: 49,
+    fallbackImage:  "https://placehold.co/300x200/0046be/ffffff?text=Open%20Box%2FExcellent%3A%20Sh",
+    link:           "https://slickdeals.net/f/19863987-shokz-opendots-one-open-ear-clip-on-true-wireless-bluetooth-earbuds-gray-open-box-excellent-48-99-good-43-99-ymmv-at-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             4,
     name:           "HOKA Women\\'s Transport Shoes (White) $93.45 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -30,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             5,
     name:           "On Women\\'s Cloudmonster Running Shoes (Black/Grey) $90.50 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -42,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             6,
     name:           "On Men\\'s Cloud 6 Waterproof Shoes (Olive/Safari) $89.75 w/ Email Sign-Up + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -54,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             7,
     name:           "Belk Clearance Sale (Apparel, Shoes, Accessories, Back to School & More): Up to 75% Off + Free S&H on $99+",
     category:       "fashion",
     retailer:       "amazon",
@@ -66,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             8,
     name:           "Eligible Walmart Customers: Next Three Eligible Walmart Orders $10 Off $35+ + Free Pickup or Delivery w/ Walmart+",
     category:       "supplies",
     retailer:       "walmart",
@@ -74,54 +98,6 @@ const DEALS = [
     clearancePrice: 10,
     fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Eligible%20Walmart%20Custo",
     link:           "https://slickdeals.net/f/19844658-new-walmart-code-no-banana-10-off-35-ymmv?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             7,
-    name:           "Old Navy Clearance Sale: Women\\'s, Men\\'s & Kids\\' Apparel & More Extra 30% Off + Free S&H $50+",
-    category:       "fashion",
-    retailer:       "amazon",
-    normalPrice:    71.43,
-    clearancePrice: 50,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Old%20Navy%20Clearance%20Sal",
-    link:           "https://slickdeals.net/f/19843560-up-to-86-off-extra-30-off-old-navy-clearance-sale?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             8,
-    name:           "Select Home Depot Stores: RIDGID 18V Cordless Hybrid Jobsite Fan (Tool Only) $8.90 (Limited Availability In-Store Only) & More",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    15,
-    clearancePrice: 8.9,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Home%20Depot%20Stor",
-    link:           "https://slickdeals.net/f/19840281-extreme-ymmv-ridgid-hybrid-jobsite-fan-bare-tool-8-90-reg-89-and-brushless-subcompact-impact-driver-15-reg-149-at-home-depot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             9,
-    name:           "Solati Cordless Hair Clipper & Beard Trimmer Kit w/ LED Display",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    29.99,
-    clearancePrice: 17.4,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Solati%20Cordless%20Hair%20C",
-    link:           "https://slickdeals.net/f/19839870-solati-professional-hair-clipper-zero-gap-beard-trimmer-set-black-17-39-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             10,
-    name:           "Men\\'s Athletic Works Woven Track Jacket (various colors/sizes) $6.80 + Free S&H on $35+",
-    category:       "fashion",
-    retailer:       "walmart",
-    normalPrice:    35,
-    clearancePrice: 6.8,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Men's%20Athletic%20Works%20W",
-    link:           "https://slickdeals.net/f/19835913-athletic-works-men-s-woven-track-jacket-heritage-blue-from-9-50-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
