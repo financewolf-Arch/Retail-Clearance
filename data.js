@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-08-14 by GitHub Actions
+// Last updated: 2026-08-15 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Walter Hagen Men\\'s Performance 11 Bloom Full-Zip Woven Golf Jacket (Navy/White) $12.75 + Free Pickup",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    49,
+    clearancePrice: 12.75,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Walter%20Hagen%20Men's%20Per",
+    link:           "https://slickdeals.net/f/19878432-walter-hagen-men-s-performance-11-bloom-full-zip-woven-golf-jacket-12-73-free-shipping-on-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "Solati Cordless Hair Clipper & Beard Trimmer Kit w/ LED Display",
     category:       "supplies",
     retailer:       "amazon",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "2.3-L The North Face Jester Crossbody Bag (Black) $15 + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
@@ -30,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "Open Box/Excellent: Shokz OpenDots ONE Open-Ear Clip-On Bluetooth Earbuds $49 Or Less + Free S&H",
     category:       "tech",
     retailer:       "bestbuy",
@@ -42,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
     name:           "HOKA Women\\'s Transport Shoes (White) $93.45 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -54,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             6,
     name:           "On Women\\'s Cloudmonster Running Shoes (Black/Grey) $90.50 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -66,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             7,
     name:           "On Men\\'s Cloud 6 Waterproof Shoes (Olive/Safari) $89.75 w/ Email Sign-Up + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -74,30 +86,6 @@ const DEALS = [
     clearancePrice: 89.75,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=On%20Men's%20Cloud%206%20Water",
     link:           "https://slickdeals.net/f/19853268-on-men-s-cloud-6-waterproof-shoes-olive-safari-89-77-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             7,
-    name:           "Belk Clearance Sale (Apparel, Shoes, Accessories, Back to School & More): Up to 75% Off + Free S&H on $99+",
-    category:       "fashion",
-    retailer:       "amazon",
-    normalPrice:    396,
-    clearancePrice: 99,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Belk%20Clearance%20Sale%20(A",
-    link:           "https://slickdeals.net/f/19847529-up-to-75-off-belk-clearance-deals?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             8,
-    name:           "Eligible Walmart Customers: Next Three Eligible Walmart Orders $10 Off $35+ + Free Pickup or Delivery w/ Walmart+",
-    category:       "supplies",
-    retailer:       "walmart",
-    normalPrice:    35,
-    clearancePrice: 10,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Eligible%20Walmart%20Custo",
-    link:           "https://slickdeals.net/f/19844658-new-walmart-code-no-banana-10-off-35-ymmv?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
