@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-08-17 by GitHub Actions
+// Last updated: 2026-08-18 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Walter Hagen Men\\'s Performance 11 Bloom Full-Zip Woven Golf Jacket (Navy/White) $12.75 + Free Pickup",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    49,
+    clearancePrice: 12.75,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Walter%20Hagen%20Men's%20Per",
+    link:           "https://slickdeals.net/f/19878432-walter-hagen-men-s-performance-11-bloom-full-zip-woven-golf-jacket-12-73-free-shipping-on-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "Solati Cordless Hair Clipper & Beard Trimmer Kit w/ LED Display",
     category:       "supplies",
     retailer:       "amazon",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "2.3-L The North Face Jester Crossbody Bag (Black) $15 + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
@@ -26,18 +38,6 @@ const DEALS = [
     clearancePrice: 15,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=2.3-L%20The%20North%20Face%20J",
     link:           "https://slickdeals.net/f/19871439-2-3-l-the-north-face-jester-crossbody-bag-black-15-free-pickup?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             3,
-    name:           "Open Box/Excellent: Shokz OpenDots ONE Open-Ear Clip-On Bluetooth Earbuds $49 Or Less + Free S&H",
-    category:       "tech",
-    retailer:       "bestbuy",
-    normalPrice:    75,
-    clearancePrice: 49,
-    fallbackImage:  "https://placehold.co/300x200/0046be/ffffff?text=Open%20Box%2FExcellent%3A%20Sh",
-    link:           "https://slickdeals.net/f/19863987-shokz-opendots-one-open-ear-clip-on-true-wireless-bluetooth-earbuds-gray-open-box-excellent-48-99-good-43-99-ymmv-at-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   },
