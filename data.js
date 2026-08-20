@@ -1,24 +1,12 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-08-19 by GitHub Actions
+// Last updated: 2026-08-20 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
-    name:           "Women\\'s Clearance Apparel: Disney Women\\'s Mickey 76 Graphic Shorts $4.55 & More",
-    category:       "fashion",
-    retailer:       "walmart",
-    normalPrice:    35,
-    clearancePrice: 4.55,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Women's%20Clearance%20Appa",
-    link:           "https://slickdeals.net/f/19892472-walmart-women-s-clearance?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             2,
     name:           "Banana Republic Factory: Savings on Select Sale Styles Extra 50% Off + Free S&H $50+",
     category:       "supplies",
     retailer:       "amazon",
@@ -30,19 +18,19 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
-    name:           "Dearfoams Men\\'s Slippers: Cozy Comfort Jersey Clog (Navy) $6.60 & More",
-    category:       "supplies",
-    retailer:       "walmart",
-    normalPrice:    6.61,
-    clearancePrice: 6.6,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Dearfoams%20Men's%20Slippe",
-    link:           "https://slickdeals.net/f/19883310-dearfoam-men-s-slipper-clearance-various-from-5?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    id:             2,
+    name:           "Walter Hagen Men\\'s Performance 11 Bloom Full-Zip Woven Golf Jacket (Navy/White) $12.75 + Free Pickup",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    49,
+    clearancePrice: 12.75,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Walter%20Hagen%20Men's%20Per",
+    link:           "https://slickdeals.net/f/19878432-walter-hagen-men-s-performance-11-bloom-full-zip-woven-golf-jacket-12-73-free-shipping-on-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             3,
     name:           "Solati Cordless Hair Clipper & Beard Trimmer Kit w/ LED Display",
     category:       "supplies",
     retailer:       "amazon",
@@ -54,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             4,
     name:           "2.3-L The North Face Jester Crossbody Bag (Black) $15 + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
@@ -66,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             5,
     name:           "Girls\\' Shirts: Athletic Works Sleeveless Moisture-Wicking Active Tennis Polo $3.15 & More",
     category:       "fashion",
     retailer:       "walmart",
@@ -78,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             6,
     name:           "HOKA Women\\'s Transport Shoes (White) $93.45 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
