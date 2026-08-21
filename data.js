@@ -1,12 +1,36 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-08-20 by GitHub Actions
+// Last updated: 2026-08-21 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Select Home Depot Stores: RYOBI ONE+ 18V 9\" Cordless Battery Edger (Tool Only)",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    49.5,
+    clearancePrice: 49,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Home%20Depot%20Stor",
+    link:           "https://slickdeals.net/f/19904349-ymmv-ryobi-one-18v-9-in-cordless-battery-edger-tool-only-49-5-at-home-depot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
+    name:           "4-Pc CENFORGE Plier Organizer Rack w/ Non-Slip Rubber Base (Green)",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    35,
+    clearancePrice: 14.5,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=4-Pc%20CENFORGE%20Plier%20Or",
+    link:           "https://slickdeals.net/f/19896258-cenfoge-plier-organizer-rack-cutter-organizer-with-non-slip-rubber-base-organizer-for-tool-box-drawer-4-pc-green-14-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             3,
     name:           "Banana Republic Factory: Savings on Select Sale Styles Extra 50% Off + Free S&H $50+",
     category:       "supplies",
     retailer:       "amazon",
@@ -18,19 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
-    name:           "Walter Hagen Men\\'s Performance 11 Bloom Full-Zip Woven Golf Jacket (Navy/White) $12.75 + Free Pickup",
-    category:       "fashion",
-    retailer:       "amazon",
-    normalPrice:    49,
-    clearancePrice: 12.75,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Walter%20Hagen%20Men's%20Per",
-    link:           "https://slickdeals.net/f/19878432-walter-hagen-men-s-performance-11-bloom-full-zip-woven-golf-jacket-12-73-free-shipping-on-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             3,
+    id:             4,
     name:           "Solati Cordless Hair Clipper & Beard Trimmer Kit w/ LED Display",
     category:       "supplies",
     retailer:       "amazon",
@@ -42,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
     name:           "2.3-L The North Face Jester Crossbody Bag (Black) $15 + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
@@ -54,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             6,
     name:           "Girls\\' Shirts: Athletic Works Sleeveless Moisture-Wicking Active Tennis Polo $3.15 & More",
     category:       "fashion",
     retailer:       "walmart",
@@ -66,14 +78,14 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
-    name:           "HOKA Women\\'s Transport Shoes (White) $93.45 + Free S&H",
+    id:             7,
+    name:           "Boys\\' Clearance Apparel: Weekend Academy Mesh Tank Top (Uniform Green) $2.85 & More",
     category:       "fashion",
-    retailer:       "amazon",
-    normalPrice:    93.47,
-    clearancePrice: 93.45,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=HOKA%20Women's%20Transport",
-    link:           "https://slickdeals.net/f/19856544-hoka-women-s-transport-shoes-white-93-47-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    retailer:       "walmart",
+    normalPrice:    35,
+    clearancePrice: 2.85,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Boys'%20Clearance%20Appare",
+    link:           "https://slickdeals.net/f/19860561-walmart-clearance-boys-tops-reebok-athletic-works-ozark-trails-more-2-16?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
