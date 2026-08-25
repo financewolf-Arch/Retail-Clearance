@@ -1,6 +1,6 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-08-24 by GitHub Actions
+// Last updated: 2026-08-25 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
@@ -19,18 +19,6 @@ const DEALS = [
   },
   {
     id:             2,
-    name:           "Select Home Depot Stores: RYOBI ONE+ 18V 9\" Cordless Battery Edger (Tool Only)",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    49.5,
-    clearancePrice: 49,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Home%20Depot%20Stor",
-    link:           "https://slickdeals.net/f/19904349-ymmv-ryobi-one-18v-9-in-cordless-battery-edger-tool-only-49-5-at-home-depot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             3,
     name:           "Men\\'s Netflix Stranger Things Hellfire Club Button-Up Short Sleeve Shirt in Red $5.40 + Free S&H w/ $35+",
     category:       "fashion",
     retailer:       "walmart",
@@ -42,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             3,
     name:           "4-Pc CENFORGE Plier Organizer Rack w/ Non-Slip Rubber Base (Green)",
     category:       "supplies",
     retailer:       "amazon",
@@ -50,6 +38,18 @@ const DEALS = [
     clearancePrice: 14.5,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=4-Pc%20CENFORGE%20Plier%20Or",
     link:           "https://slickdeals.net/f/19896258-cenfoge-plier-organizer-rack-cutter-organizer-with-non-slip-rubber-base-organizer-for-tool-box-drawer-4-pc-green-14-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             4,
+    name:           "Women\\'s Clearance Apparel: Disney Women\\'s Mickey 76 Graphic Shorts $4.55 & More",
+    category:       "fashion",
+    retailer:       "walmart",
+    normalPrice:    35,
+    clearancePrice: 4.55,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Women's%20Clearance%20Appa",
+    link:           "https://slickdeals.net/f/19892472-walmart-women-s-clearance?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   },
@@ -86,18 +86,6 @@ const DEALS = [
     clearancePrice: 15,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=2.3-L%20The%20North%20Face%20J",
     link:           "https://slickdeals.net/f/19871439-2-3-l-the-north-face-jester-crossbody-bag-black-15-free-pickup?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             8,
-    name:           "Open Box/Excellent: Shokz OpenDots ONE Open-Ear Clip-On Bluetooth Earbuds $49 Or Less + Free S&H",
-    category:       "tech",
-    retailer:       "bestbuy",
-    normalPrice:    75,
-    clearancePrice: 49,
-    fallbackImage:  "https://placehold.co/300x200/0046be/ffffff?text=Open%20Box%2FExcellent%3A%20Sh",
-    link:           "https://slickdeals.net/f/19863987-shokz-opendots-one-open-ear-clip-on-true-wireless-bluetooth-earbuds-gray-open-box-excellent-48-99-good-43-99-ymmv-at-best-buy?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
