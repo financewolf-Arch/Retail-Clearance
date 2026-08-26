@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-08-25 by GitHub Actions
+// Last updated: 2026-08-26 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Fanatics Sports Apparel & More: 25% Off Select Non-Clearance, Clearance Items Extra 10% Off (Exclusions Apply) + Shipping",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    38.67,
+    clearancePrice: 29,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Fanatics%20Sports%20Appare",
+    link:           "https://slickdeals.net/f/19921191-up-to-50-off-25-off-29-mlb-clearance-sale-at-fanatics?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "Carhartt Shamrock Patch Knit Beanie (Black or White)",
     category:       "supplies",
     retailer:       "amazon",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "Men\\'s Netflix Stranger Things Hellfire Club Button-Up Short Sleeve Shirt in Red $5.40 + Free S&H w/ $35+",
     category:       "fashion",
     retailer:       "walmart",
@@ -30,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "4-Pc CENFORGE Plier Organizer Rack w/ Non-Slip Rubber Base (Green)",
     category:       "supplies",
     retailer:       "amazon",
@@ -38,18 +50,6 @@ const DEALS = [
     clearancePrice: 14.5,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=4-Pc%20CENFORGE%20Plier%20Or",
     link:           "https://slickdeals.net/f/19896258-cenfoge-plier-organizer-rack-cutter-organizer-with-non-slip-rubber-base-organizer-for-tool-box-drawer-4-pc-green-14-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             4,
-    name:           "Women\\'s Clearance Apparel: Disney Women\\'s Mickey 76 Graphic Shorts $4.55 & More",
-    category:       "fashion",
-    retailer:       "walmart",
-    normalPrice:    35,
-    clearancePrice: 4.55,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Women's%20Clearance%20Appa",
-    link:           "https://slickdeals.net/f/19892472-walmart-women-s-clearance?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   },
@@ -67,6 +67,18 @@ const DEALS = [
   },
   {
     id:             6,
+    name:           "Dearfoams Men\\'s Slippers: Cozy Comfort Jersey Clog (Navy) $6.60 & More",
+    category:       "supplies",
+    retailer:       "walmart",
+    normalPrice:    6.61,
+    clearancePrice: 6.6,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Dearfoams%20Men's%20Slippe",
+    link:           "https://slickdeals.net/f/19883310-dearfoam-men-s-slipper-clearance-various-from-5?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             7,
     name:           "Solati Cordless Hair Clipper & Beard Trimmer Kit w/ LED Display",
     category:       "supplies",
     retailer:       "amazon",
@@ -78,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             8,
     name:           "2.3-L The North Face Jester Crossbody Bag (Black) $15 + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
