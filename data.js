@@ -1,12 +1,36 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-08-26 by GitHub Actions
+// Last updated: 2026-08-27 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Patagonia Past Season Clearance Sale up to 60% Off + Free S&H on $60+",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    150,
+    clearancePrice: 60,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Patagonia%20Past%20Season%20",
+    link:           "https://slickdeals.net/f/19931970-up-to-60-off-patagonia-past-season-clearance-sale-at-rei?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
+    name:           "Victoria\\'s Secret PINK: Wink Thong Panty (Hushed Lilac) $3 & More + Free S&H on $50+",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    50,
+    clearancePrice: 3,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Victoria's%20Secret%20PINK",
+    link:           "https://slickdeals.net/f/19929375-victoria-s-secret-pink-wink-thong-panty-hushed-lilac-cotton-string-bikini-panty-waffle-knit-deep-forest-2-99-each-more-free-shipping-on-orders-50?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             3,
     name:           "Fanatics Sports Apparel & More: 25% Off Select Non-Clearance, Clearance Items Extra 10% Off (Exclusions Apply) + Shipping",
     category:       "fashion",
     retailer:       "amazon",
@@ -18,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             4,
     name:           "Carhartt Shamrock Patch Knit Beanie (Black or White)",
     category:       "supplies",
     retailer:       "amazon",
@@ -30,7 +54,19 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             5,
+    name:           "Select Home Depot Stores: RYOBI ONE+ 18V 9\" Cordless Battery Edger (Tool Only)",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    49.5,
+    clearancePrice: 49,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Home%20Depot%20Stor",
+    link:           "https://slickdeals.net/f/19904349-ymmv-ryobi-one-18v-9-in-cordless-battery-edger-tool-only-49-5-at-home-depot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             6,
     name:           "Men\\'s Netflix Stranger Things Hellfire Club Button-Up Short Sleeve Shirt in Red $5.40 + Free S&H w/ $35+",
     category:       "fashion",
     retailer:       "walmart",
@@ -42,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             7,
     name:           "4-Pc CENFORGE Plier Organizer Rack w/ Non-Slip Rubber Base (Green)",
     category:       "supplies",
     retailer:       "amazon",
@@ -54,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             8,
     name:           "Banana Republic Factory: Savings on Select Sale Styles Extra 50% Off + Free S&H $50+",
     category:       "supplies",
     retailer:       "amazon",
@@ -66,19 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
-    name:           "Dearfoams Men\\'s Slippers: Cozy Comfort Jersey Clog (Navy) $6.60 & More",
-    category:       "supplies",
-    retailer:       "walmart",
-    normalPrice:    6.61,
-    clearancePrice: 6.6,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Dearfoams%20Men's%20Slippe",
-    link:           "https://slickdeals.net/f/19883310-dearfoam-men-s-slipper-clearance-various-from-5?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             7,
+    id:             9,
     name:           "Solati Cordless Hair Clipper & Beard Trimmer Kit w/ LED Display",
     category:       "supplies",
     retailer:       "amazon",
@@ -90,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             10,
     name:           "2.3-L The North Face Jester Crossbody Bag (Black) $15 + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
