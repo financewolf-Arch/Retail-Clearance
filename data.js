@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-08-27 by GitHub Actions
+// Last updated: 2026-08-28 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "VEVOR Foldable Garden Kneeler & Seat w/ 8\" EVA Pad & 2x Tool Pouches",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    35,
+    clearancePrice: 17.9,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=VEVOR%20Foldable%20Garden%20",
+    link:           "https://slickdeals.net/f/19939044-vevor-foldable-garden-kneeler-seat-w-8-eva-pad-and-tool-pouches-green-17-90-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "Patagonia Past Season Clearance Sale up to 60% Off + Free S&H on $60+",
     category:       "supplies",
     retailer:       "amazon",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "Victoria\\'s Secret PINK: Wink Thong Panty (Hushed Lilac) $3 & More + Free S&H on $50+",
     category:       "supplies",
     retailer:       "amazon",
@@ -30,7 +42,19 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
+    name:           "Nike Caitlin Clark Basketball Phoenix Women\\'s Fleece Pullover Hoodie (Navy)",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    49,
+    clearancePrice: 19.5,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Nike%20Caitlin%20Clark%20Bas",
+    link:           "https://slickdeals.net/f/19929285-nike-caitlin-clark-basketball-fleece-hoodie-midnight-navy-19-48-free-shipping-on-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             5,
     name:           "Fanatics Sports Apparel & More: 25% Off Select Non-Clearance, Clearance Items Extra 10% Off (Exclusions Apply) + Shipping",
     category:       "fashion",
     retailer:       "amazon",
@@ -42,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             6,
     name:           "Carhartt Shamrock Patch Knit Beanie (Black or White)",
     category:       "supplies",
     retailer:       "amazon",
@@ -54,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             7,
     name:           "Select Home Depot Stores: RYOBI ONE+ 18V 9\" Cordless Battery Edger (Tool Only)",
     category:       "supplies",
     retailer:       "amazon",
@@ -66,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             8,
     name:           "Men\\'s Netflix Stranger Things Hellfire Club Button-Up Short Sleeve Shirt in Red $5.40 + Free S&H w/ $35+",
     category:       "fashion",
     retailer:       "walmart",
@@ -78,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             9,
     name:           "4-Pc CENFORGE Plier Organizer Rack w/ Non-Slip Rubber Base (Green)",
     category:       "supplies",
     retailer:       "amazon",
@@ -90,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             10,
     name:           "Banana Republic Factory: Savings on Select Sale Styles Extra 50% Off + Free S&H $50+",
     category:       "supplies",
     retailer:       "amazon",
@@ -102,26 +126,14 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
-    name:           "Solati Cordless Hair Clipper & Beard Trimmer Kit w/ LED Display",
-    category:       "supplies",
+    id:             11,
+    name:           "Walter Hagen Men\\'s Performance 11 Bloom Full-Zip Woven Golf Jacket (Navy/White) $12.75 + Free Pickup",
+    category:       "fashion",
     retailer:       "amazon",
-    normalPrice:    29.99,
-    clearancePrice: 17.4,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Solati%20Cordless%20Hair%20C",
-    link:           "https://slickdeals.net/f/19872417-solati-cordless-hair-clipper-beard-trimmer-kit-w-led-display-17-40?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             10,
-    name:           "2.3-L The North Face Jester Crossbody Bag (Black) $15 + Free Pickup",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    39,
-    clearancePrice: 15,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=2.3-L%20The%20North%20Face%20J",
-    link:           "https://slickdeals.net/f/19871439-2-3-l-the-north-face-jester-crossbody-bag-black-15-free-pickup?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    normalPrice:    49,
+    clearancePrice: 12.75,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Walter%20Hagen%20Men's%20Per",
+    link:           "https://slickdeals.net/f/19878432-walter-hagen-men-s-performance-11-bloom-full-zip-woven-golf-jacket-12-73-free-shipping-on-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
