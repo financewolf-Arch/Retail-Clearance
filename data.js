@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-08-28 by GitHub Actions
+// Last updated: 2026-08-29 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Select Stores: RYOBI ONE+ 18V 9 in. Cordless Battery Edger (Tool Only)",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    49.5,
+    clearancePrice: 49,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Stores%3A%20RYOBI%20O",
+    link:           "https://slickdeals.net/f/19940019-select-stores-ryobi-one-18v-9-in-cordless-battery-edger-tool-only-49-in-store-only?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "VEVOR Foldable Garden Kneeler & Seat w/ 8\" EVA Pad & 2x Tool Pouches",
     category:       "supplies",
     retailer:       "amazon",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "Patagonia Past Season Clearance Sale up to 60% Off + Free S&H on $60+",
     category:       "supplies",
     retailer:       "amazon",
@@ -30,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "Victoria\\'s Secret PINK: Wink Thong Panty (Hushed Lilac) $3 & More + Free S&H on $50+",
     category:       "supplies",
     retailer:       "amazon",
@@ -38,18 +50,6 @@ const DEALS = [
     clearancePrice: 3,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Victoria's%20Secret%20PINK",
     link:           "https://slickdeals.net/f/19929375-victoria-s-secret-pink-wink-thong-panty-hushed-lilac-cotton-string-bikini-panty-waffle-knit-deep-forest-2-99-each-more-free-shipping-on-orders-50?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             4,
-    name:           "Nike Caitlin Clark Basketball Phoenix Women\\'s Fleece Pullover Hoodie (Navy)",
-    category:       "fashion",
-    retailer:       "amazon",
-    normalPrice:    49,
-    clearancePrice: 19.5,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Nike%20Caitlin%20Clark%20Bas",
-    link:           "https://slickdeals.net/f/19929285-nike-caitlin-clark-basketball-fleece-hoodie-midnight-navy-19-48-free-shipping-on-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   },
@@ -122,18 +122,6 @@ const DEALS = [
     clearancePrice: 50,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Banana%20Republic%20Factor",
     link:           "https://slickdeals.net/f/19889382-extra-50-off-banana-republic-factory-sale?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             11,
-    name:           "Walter Hagen Men\\'s Performance 11 Bloom Full-Zip Woven Golf Jacket (Navy/White) $12.75 + Free Pickup",
-    category:       "fashion",
-    retailer:       "amazon",
-    normalPrice:    49,
-    clearancePrice: 12.75,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Walter%20Hagen%20Men's%20Per",
-    link:           "https://slickdeals.net/f/19878432-walter-hagen-men-s-performance-11-bloom-full-zip-woven-golf-jacket-12-73-free-shipping-on-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
