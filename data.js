@@ -1,6 +1,6 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-08-29 by GitHub Actions
+// Last updated: 2026-08-30 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
@@ -103,18 +103,6 @@ const DEALS = [
   },
   {
     id:             9,
-    name:           "4-Pc CENFORGE Plier Organizer Rack w/ Non-Slip Rubber Base (Green)",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    35,
-    clearancePrice: 14.5,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=4-Pc%20CENFORGE%20Plier%20Or",
-    link:           "https://slickdeals.net/f/19896258-cenfoge-plier-organizer-rack-cutter-organizer-with-non-slip-rubber-base-organizer-for-tool-box-drawer-4-pc-green-14-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             10,
     name:           "Banana Republic Factory: Savings on Select Sale Styles Extra 50% Off + Free S&H $50+",
     category:       "supplies",
     retailer:       "amazon",
