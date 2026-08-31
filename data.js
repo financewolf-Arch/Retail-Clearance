@@ -1,19 +1,19 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-08-30 by GitHub Actions
+// Last updated: 2026-08-31 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
-    name:           "Select Stores: RYOBI ONE+ 18V 9 in. Cordless Battery Edger (Tool Only)",
+    name:           "Select Advance Auto Stores: 6-Gal. Seachoice Portable Marine Gas Tank (Red) $20.45 + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
-    normalPrice:    49.5,
-    clearancePrice: 49,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Stores%3A%20RYOBI%20O",
-    link:           "https://slickdeals.net/f/19940019-select-stores-ryobi-one-18v-9-in-cordless-battery-edger-tool-only-49-in-store-only?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    normalPrice:    81.8,
+    clearancePrice: 20.45,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Advance%20Auto%20St",
+    link:           "https://slickdeals.net/f/19945860-seachoice-products-marine-fuel-tank-6-gallon-capacity-without-gauge-epa-carb-compliant-red-20-45-at-advance-auto-parts?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   },
@@ -55,18 +55,6 @@ const DEALS = [
   },
   {
     id:             5,
-    name:           "Fanatics Sports Apparel & More: 25% Off Select Non-Clearance, Clearance Items Extra 10% Off (Exclusions Apply) + Shipping",
-    category:       "fashion",
-    retailer:       "amazon",
-    normalPrice:    38.67,
-    clearancePrice: 29,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Fanatics%20Sports%20Appare",
-    link:           "https://slickdeals.net/f/19921191-up-to-50-off-25-off-29-mlb-clearance-sale-at-fanatics?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             6,
     name:           "Carhartt Shamrock Patch Knit Beanie (Black or White)",
     category:       "supplies",
     retailer:       "amazon",
@@ -78,19 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
-    name:           "Select Home Depot Stores: RYOBI ONE+ 18V 9\" Cordless Battery Edger (Tool Only)",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    49.5,
-    clearancePrice: 49,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Home%20Depot%20Stor",
-    link:           "https://slickdeals.net/f/19904349-ymmv-ryobi-one-18v-9-in-cordless-battery-edger-tool-only-49-5-at-home-depot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             8,
+    id:             6,
     name:           "Men\\'s Netflix Stranger Things Hellfire Club Button-Up Short Sleeve Shirt in Red $5.40 + Free S&H w/ $35+",
     category:       "fashion",
     retailer:       "walmart",
@@ -102,7 +78,19 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             7,
+    name:           "4-Pc CENFORGE Plier Organizer Rack w/ Non-Slip Rubber Base (Green)",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    35,
+    clearancePrice: 14.5,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=4-Pc%20CENFORGE%20Plier%20Or",
+    link:           "https://slickdeals.net/f/19896258-cenfoge-plier-organizer-rack-cutter-organizer-with-non-slip-rubber-base-organizer-for-tool-box-drawer-4-pc-green-14-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             8,
     name:           "Banana Republic Factory: Savings on Select Sale Styles Extra 50% Off + Free S&H $50+",
     category:       "supplies",
     retailer:       "amazon",
@@ -110,6 +98,18 @@ const DEALS = [
     clearancePrice: 50,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Banana%20Republic%20Factor",
     link:           "https://slickdeals.net/f/19889382-extra-50-off-banana-republic-factory-sale?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             9,
+    name:           "Dearfoams Men\\'s Slippers: Cozy Comfort Jersey Clog (Navy) $6.60 & More",
+    category:       "supplies",
+    retailer:       "walmart",
+    normalPrice:    6.61,
+    clearancePrice: 6.6,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Dearfoams%20Men's%20Slippe",
+    link:           "https://slickdeals.net/f/19883310-dearfoam-men-s-slipper-clearance-various-from-5?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
