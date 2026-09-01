@@ -1,24 +1,12 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-08-31 by GitHub Actions
+// Last updated: 2026-09-01 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
-    name:           "Select Advance Auto Stores: 6-Gal. Seachoice Portable Marine Gas Tank (Red) $20.45 + Free Pickup",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    81.8,
-    clearancePrice: 20.45,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Advance%20Auto%20St",
-    link:           "https://slickdeals.net/f/19945860-seachoice-products-marine-fuel-tank-6-gallon-capacity-without-gauge-epa-carb-compliant-red-20-45-at-advance-auto-parts?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             2,
     name:           "VEVOR Foldable Garden Kneeler & Seat w/ 8\" EVA Pad & 2x Tool Pouches",
     category:       "supplies",
     retailer:       "amazon",
@@ -30,7 +18,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             2,
     name:           "Patagonia Past Season Clearance Sale up to 60% Off + Free S&H on $60+",
     category:       "supplies",
     retailer:       "amazon",
@@ -42,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             3,
     name:           "Victoria\\'s Secret PINK: Wink Thong Panty (Hushed Lilac) $3 & More + Free S&H on $50+",
     category:       "supplies",
     retailer:       "amazon",
@@ -54,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             4,
     name:           "Carhartt Shamrock Patch Knit Beanie (Black or White)",
     category:       "supplies",
     retailer:       "amazon",
@@ -66,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             5,
     name:           "Men\\'s Netflix Stranger Things Hellfire Club Button-Up Short Sleeve Shirt in Red $5.40 + Free S&H w/ $35+",
     category:       "fashion",
     retailer:       "walmart",
@@ -78,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             6,
     name:           "4-Pc CENFORGE Plier Organizer Rack w/ Non-Slip Rubber Base (Green)",
     category:       "supplies",
     retailer:       "amazon",
@@ -90,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             7,
     name:           "Banana Republic Factory: Savings on Select Sale Styles Extra 50% Off + Free S&H $50+",
     category:       "supplies",
     retailer:       "amazon",
@@ -98,18 +86,6 @@ const DEALS = [
     clearancePrice: 50,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Banana%20Republic%20Factor",
     link:           "https://slickdeals.net/f/19889382-extra-50-off-banana-republic-factory-sale?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             9,
-    name:           "Dearfoams Men\\'s Slippers: Cozy Comfort Jersey Clog (Navy) $6.60 & More",
-    category:       "supplies",
-    retailer:       "walmart",
-    normalPrice:    6.61,
-    clearancePrice: 6.6,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Dearfoams%20Men's%20Slippe",
-    link:           "https://slickdeals.net/f/19883310-dearfoam-men-s-slipper-clearance-various-from-5?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
