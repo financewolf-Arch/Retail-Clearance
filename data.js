@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-09-01 by GitHub Actions
+// Last updated: 2026-09-02 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Select Stores: RYOBI ONE+ 18V 9 in. Cordless Battery Edger (Tool Only)",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    49.5,
+    clearancePrice: 49,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Stores%3A%20RYOBI%20O",
+    link:           "https://slickdeals.net/f/19940019-select-stores-ryobi-one-18v-9-in-cordless-battery-edger-tool-only-49-in-store-only?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "VEVOR Foldable Garden Kneeler & Seat w/ 8\" EVA Pad & 2x Tool Pouches",
     category:       "supplies",
     retailer:       "amazon",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "Patagonia Past Season Clearance Sale up to 60% Off + Free S&H on $60+",
     category:       "supplies",
     retailer:       "amazon",
@@ -30,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "Victoria\\'s Secret PINK: Wink Thong Panty (Hushed Lilac) $3 & More + Free S&H on $50+",
     category:       "supplies",
     retailer:       "amazon",
@@ -42,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
     name:           "Carhartt Shamrock Patch Knit Beanie (Black or White)",
     category:       "supplies",
     retailer:       "amazon",
@@ -54,7 +66,19 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             6,
+    name:           "Select Home Depot Stores: RYOBI ONE+ 18V 9\" Cordless Battery Edger (Tool Only)",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    49.5,
+    clearancePrice: 49,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Home%20Depot%20Stor",
+    link:           "https://slickdeals.net/f/19904349-ymmv-ryobi-one-18v-9-in-cordless-battery-edger-tool-only-49-5-at-home-depot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             7,
     name:           "Men\\'s Netflix Stranger Things Hellfire Club Button-Up Short Sleeve Shirt in Red $5.40 + Free S&H w/ $35+",
     category:       "fashion",
     retailer:       "walmart",
@@ -66,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             8,
     name:           "4-Pc CENFORGE Plier Organizer Rack w/ Non-Slip Rubber Base (Green)",
     category:       "supplies",
     retailer:       "amazon",
@@ -78,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             9,
     name:           "Banana Republic Factory: Savings on Select Sale Styles Extra 50% Off + Free S&H $50+",
     category:       "supplies",
     retailer:       "amazon",
