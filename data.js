@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-09-04 by GitHub Actions
+// Last updated: 2026-09-05 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Kohl\\'s: Extra 50% Off Clearance + Earn Kohl\\'s Cash + Coupon Offers $10 Off $25 + 15% Off Home + Free Pickup",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    25,
+    clearancePrice: 10,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Kohl's%3A%20Extra%2050%25%20Off%20",
+    link:           "https://slickdeals.net/f/19963884-kohls-10-off-25-coupon-code-reusable-extra-50-off-clearance-up-to-85-earn-kohls-cash-15-off-home?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "Select Sam\\'s Club Stores: 65\" Samsung S90FD 4K 120Hz OLED Smart TV",
     category:       "tech",
     retailer:       "samsclub",
@@ -14,18 +26,6 @@ const DEALS = [
     clearancePrice: 799.9,
     fallbackImage:  "https://placehold.co/300x200/004990/ffffff?text=Select%20Sam's%20Club%20Stor",
     link:           "https://slickdeals.net/f/19943088-sam-s-club-in-store-samsung-65inch-class-s90fd-series-4k-oled-smart-tv-799-91-5-yr-all-state-ymmv?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             2,
-    name:           "Select Stores: RYOBI ONE+ 18V 9 in. Cordless Battery Edger (Tool Only)",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    49.5,
-    clearancePrice: 49,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Stores%3A%20RYOBI%20O",
-    link:           "https://slickdeals.net/f/19940019-select-stores-ryobi-one-18v-9-in-cordless-battery-edger-tool-only-49-in-store-only?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   },
@@ -98,18 +98,6 @@ const DEALS = [
     clearancePrice: 5.4,
     fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Men's%20Netflix%20Stranger",
     link:           "https://slickdeals.net/f/19901526-netflix-stranger-things-men-s-and-big-men-s-100-cotton-poplin-short-sleeve-hellfire-club-print-button-up-shirt-sizes-xs-3xl-5-40-free-s-h-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             9,
-    name:           "4-Pc CENFORGE Plier Organizer Rack w/ Non-Slip Rubber Base (Green)",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    35,
-    clearancePrice: 14.5,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=4-Pc%20CENFORGE%20Plier%20Or",
-    link:           "https://slickdeals.net/f/19896258-cenfoge-plier-organizer-rack-cutter-organizer-with-non-slip-rubber-base-organizer-for-tool-box-drawer-4-pc-green-14-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
