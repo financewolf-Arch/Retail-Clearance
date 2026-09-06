@@ -1,6 +1,6 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-09-05 by GitHub Actions
+// Last updated: 2026-09-06 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
@@ -13,12 +13,36 @@ const DEALS = [
     normalPrice:    25,
     clearancePrice: 10,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Kohl's%3A%20Extra%2050%25%20Off%20",
-    link:           "https://slickdeals.net/f/19963884-kohls-10-off-25-coupon-code-reusable-extra-50-off-clearance-up-to-85-earn-kohls-cash-15-off-home?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    link:           "https://slickdeals.net/f/19963884-kohl-s-extra-50-off-clearance-earn-kohl-s-cash-coupon-offers-10-off-25-15-off-home-free-pickup?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   },
   {
     id:             2,
+    name:           "Kohl\\'s Clearance Up to 85% Off + Free Pickup",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    326.67,
+    clearancePrice: 49,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Kohl's%20Clearance%20Up%20to",
+    link:           "https://slickdeals.net/f/19948458-kohl-s-clearance-save-up-to-85-after-an-extra-50-off?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             3,
+    name:           "Select Advance Auto Stores: 6-Gal. Seachoice Portable Marine Gas Tank (Red) $20.45 + Free Pickup",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    81.8,
+    clearancePrice: 20.45,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Advance%20Auto%20St",
+    link:           "https://slickdeals.net/f/19945860-seachoice-products-marine-fuel-tank-6-gallon-capacity-without-gauge-epa-carb-compliant-red-20-45-at-advance-auto-parts?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             4,
     name:           "Select Sam\\'s Club Stores: 65\" Samsung S90FD 4K 120Hz OLED Smart TV",
     category:       "tech",
     retailer:       "samsclub",
@@ -30,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             5,
     name:           "VEVOR Foldable Garden Kneeler & Seat w/ 8\" EVA Pad & 2x Tool Pouches",
     category:       "supplies",
     retailer:       "amazon",
@@ -42,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             6,
     name:           "Patagonia Past Season Clearance Sale up to 60% Off + Free S&H on $60+",
     category:       "supplies",
     retailer:       "amazon",
@@ -54,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             7,
     name:           "Victoria\\'s Secret PINK: Wink Thong Panty (Hushed Lilac) $3 & More + Free S&H on $50+",
     category:       "supplies",
     retailer:       "amazon",
@@ -66,19 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
-    name:           "Select Home Depot Stores: DeWALT 60V 20\" Flexvolt Max Brushless Chainsaw w/ Case",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    251.1,
-    clearancePrice: 251,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Home%20Depot%20Stor",
-    link:           "https://slickdeals.net/f/19919172-ymmv-dewalt-flexvolt-60-volt-max-20-in-brushless-cordless-battery-powered-chainsaw-and-case-tool-with-case-only-251-at-home-depot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             7,
+    id:             8,
     name:           "Carhartt Shamrock Patch Knit Beanie (Black or White)",
     category:       "supplies",
     retailer:       "amazon",
@@ -90,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             9,
     name:           "Men\\'s Netflix Stranger Things Hellfire Club Button-Up Short Sleeve Shirt in Red $5.40 + Free S&H w/ $35+",
     category:       "fashion",
     retailer:       "walmart",
