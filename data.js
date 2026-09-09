@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-09-08 by GitHub Actions
+// Last updated: 2026-09-09 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Backpack Clearance Sale: Wonder Nation Kids\\' 17\" Backpack (Various) $2 & More",
+    category:       "supplies",
+    retailer:       "walmart",
+    normalPrice:    12.79,
+    clearancePrice: 2,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Backpack%20Clearance%20Sal",
+    link:           "https://slickdeals.net/f/19990230-backpack-clearance-sale-wonder-nation-kids-17-backpack-various-2-more?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "Lucid 2\" Cooling Gel Aloe Vera Plush Memory Foam Mattress Topper (Twin XL Size) $16.95 + Free S&H on $35+",
     category:       "home",
     retailer:       "walmart",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "Gunpla Model Kits: Bandai Gundam RG 1:144 RX-78-2 Gundam Ver. 2.0 Model Kit $30 & More + Free S/H Orders $49+",
     category:       "supplies",
     retailer:       "amazon",
@@ -30,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "Kohl\\'s: Extra 50% Off Clearance + Earn Kohl\\'s Cash + Coupon Offers $10 Off $25 + 15% Off Home + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
@@ -42,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
     name:           "Kohl\\'s Clearance Up to 85% Off + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
@@ -50,18 +62,6 @@ const DEALS = [
     clearancePrice: 49,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Kohl's%20Clearance%20Up%20to",
     link:           "https://slickdeals.net/f/19948458-kohl-s-clearance-save-up-to-85-after-an-extra-50-off?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             5,
-    name:           "Select Advance Auto Stores: 6-Gal. Seachoice Portable Marine Gas Tank (Red) $20.45 + Free Pickup",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    81.8,
-    clearancePrice: 20.45,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Advance%20Auto%20St",
-    link:           "https://slickdeals.net/f/19945860-seachoice-products-marine-fuel-tank-6-gallon-capacity-without-gauge-epa-carb-compliant-red-20-45-at-advance-auto-parts?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   },
@@ -122,18 +122,6 @@ const DEALS = [
     clearancePrice: 251,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Home%20Depot%20Stor",
     link:           "https://slickdeals.net/f/19919172-ymmv-dewalt-flexvolt-60-volt-max-20-in-brushless-cordless-battery-powered-chainsaw-and-case-tool-with-case-only-251-at-home-depot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             11,
-    name:           "Carhartt Shamrock Patch Knit Beanie (Black or White)",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    8.97,
-    clearancePrice: 8.95,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Carhartt%20Shamrock%20Patc",
-    link:           "https://slickdeals.net/f/19906002-carhartt-shamrock-patch-knit-beanie-black-or-white-8-97-free-shipping-on-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
