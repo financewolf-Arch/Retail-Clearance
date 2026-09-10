@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-09-09 by GitHub Actions
+// Last updated: 2026-09-10 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Nike Vapor 16/Phantom 6 Academy D-Width Soccer Cleats (various colors) $22.50 + Free S&H on $25+",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    25,
+    clearancePrice: 22.5,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Nike%20Vapor%2016%2FPhantom%20",
+    link:           "https://slickdeals.net/f/19992495-nike-vapor-16-phantom-6-academy-d-width-soccer-cleats-various-colors-22-50-free-s-h-on-25?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "Backpack Clearance Sale: Wonder Nation Kids\\' 17\" Backpack (Various) $2 & More",
     category:       "supplies",
     retailer:       "walmart",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "Lucid 2\" Cooling Gel Aloe Vera Plush Memory Foam Mattress Topper (Twin XL Size) $16.95 + Free S&H on $35+",
     category:       "home",
     retailer:       "walmart",
@@ -30,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "Gunpla Model Kits: Bandai Gundam RG 1:144 RX-78-2 Gundam Ver. 2.0 Model Kit $30 & More + Free S/H Orders $49+",
     category:       "supplies",
     retailer:       "amazon",
@@ -42,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
     name:           "Kohl\\'s: Extra 50% Off Clearance + Earn Kohl\\'s Cash + Coupon Offers $10 Off $25 + 15% Off Home + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
@@ -54,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             6,
     name:           "Kohl\\'s Clearance Up to 85% Off + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
@@ -66,7 +78,19 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             7,
+    name:           "Select Advance Auto Stores: 6-Gal. Seachoice Portable Marine Gas Tank (Red) $20.45 + Free Pickup",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    81.8,
+    clearancePrice: 20.45,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Advance%20Auto%20St",
+    link:           "https://slickdeals.net/f/19945860-seachoice-products-marine-fuel-tank-6-gallon-capacity-without-gauge-epa-carb-compliant-red-20-45-at-advance-auto-parts?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             8,
     name:           "Select Sam\\'s Club Stores: 65\" Samsung S90FD 4K 120Hz OLED Smart TV",
     category:       "tech",
     retailer:       "samsclub",
@@ -78,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             9,
     name:           "VEVOR Foldable Garden Kneeler & Seat w/ 8\" EVA Pad & 2x Tool Pouches",
     category:       "supplies",
     retailer:       "amazon",
@@ -90,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             10,
     name:           "Patagonia Past Season Clearance Sale up to 60% Off + Free S&H on $60+",
     category:       "supplies",
     retailer:       "amazon",
@@ -102,7 +126,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             11,
     name:           "Victoria\\'s Secret PINK: Wink Thong Panty (Hushed Lilac) $3 & More + Free S&H on $50+",
     category:       "supplies",
     retailer:       "amazon",
@@ -110,18 +134,6 @@ const DEALS = [
     clearancePrice: 3,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Victoria's%20Secret%20PINK",
     link:           "https://slickdeals.net/f/19929375-victoria-s-secret-pink-wink-thong-panty-hushed-lilac-cotton-string-bikini-panty-waffle-knit-deep-forest-2-99-each-more-free-shipping-on-orders-50?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             10,
-    name:           "Select Home Depot Stores: DeWALT 60V 20\" Flexvolt Max Brushless Chainsaw w/ Case",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    251.1,
-    clearancePrice: 251,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Home%20Depot%20Stor",
-    link:           "https://slickdeals.net/f/19919172-ymmv-dewalt-flexvolt-60-volt-max-20-in-brushless-cordless-battery-powered-chainsaw-and-case-tool-with-case-only-251-at-home-depot?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
