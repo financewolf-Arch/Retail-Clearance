@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-09-12 by GitHub Actions
+// Last updated: 2026-09-13 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Cooler Master Q300L V1 Micro-ATX High Airflow PC Case $35 + Free S&H",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    39.99,
+    clearancePrice: 35,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Cooler%20Master%20Q300L%20V1",
+    link:           "https://slickdeals.net/f/20004621-ac-34-98-cooler-master-masterbox-q300l-microatx-tower-pc-case-w-magnetic-dust-filter-at-amazon?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "Nike Vapor 16/Phantom 6 Academy D-Width Soccer Cleats (various colors) $22.50 + Free S&H on $25+",
     category:       "supplies",
     retailer:       "amazon",
@@ -18,26 +30,14 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "Backpack Clearance Sale: Wonder Nation Kids\\' 17\" Backpack (Various) $2 & More",
     category:       "supplies",
     retailer:       "walmart",
-    normalPrice:    12.79,
+    normalPrice:    35,
     clearancePrice: 2,
     fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Backpack%20Clearance%20Sal",
     link:           "https://slickdeals.net/f/19990230-backpack-clearance-sale-wonder-nation-kids-17-backpack-various-2-more?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             3,
-    name:           "Eastsport Backpacks: 19\" Aero Core $8, 16\" Success Mesh $4.80 & More",
-    category:       "supplies",
-    retailer:       "walmart",
-    normalPrice:    11.97,
-    clearancePrice: 8,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Eastsport%20Backpacks%3A%201",
-    link:           "https://slickdeals.net/f/19990191-walmart-has-eastport-backpacks-on-clearance-prices-as-low-as-4-79?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   },
@@ -79,18 +79,6 @@ const DEALS = [
   },
   {
     id:             7,
-    name:           "Kohl\\'s Clearance Up to 85% Off + Free Pickup",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    326.67,
-    clearancePrice: 49,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Kohl's%20Clearance%20Up%20to",
-    link:           "https://slickdeals.net/f/19948458-kohl-s-clearance-save-up-to-85-after-an-extra-50-off?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             8,
     name:           "Select Advance Auto Stores: 6-Gal. Seachoice Portable Marine Gas Tank (Red) $20.45 + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
@@ -102,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             8,
     name:           "Select Sam\\'s Club Stores: 65\" Samsung S90FD 4K 120Hz OLED Smart TV",
     category:       "tech",
     retailer:       "samsclub",
@@ -110,6 +98,18 @@ const DEALS = [
     clearancePrice: 799.9,
     fallbackImage:  "https://placehold.co/300x200/004990/ffffff?text=Select%20Sam's%20Club%20Stor",
     link:           "https://slickdeals.net/f/19943088-sam-s-club-in-store-samsung-65inch-class-s90fd-series-4k-oled-smart-tv-799-91-5-yr-all-state-ymmv?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             9,
+    name:           "Select Stores: RYOBI ONE+ 18V 9 in. Cordless Battery Edger (Tool Only)",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    49.5,
+    clearancePrice: 49,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Stores%3A%20RYOBI%20O",
+    link:           "https://slickdeals.net/f/19940019-select-stores-ryobi-one-18v-9-in-cordless-battery-edger-tool-only-49-in-store-only?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   },
@@ -134,18 +134,6 @@ const DEALS = [
     clearancePrice: 60,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Patagonia%20Past%20Season%20",
     link:           "https://slickdeals.net/f/19931970-up-to-60-off-patagonia-past-season-clearance-sale-at-rei?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             12,
-    name:           "Victoria\\'s Secret PINK: Wink Thong Panty (Hushed Lilac) $3 & More + Free S&H on $50+",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    50,
-    clearancePrice: 3,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Victoria's%20Secret%20PINK",
-    link:           "https://slickdeals.net/f/19929375-victoria-s-secret-pink-wink-thong-panty-hushed-lilac-cotton-string-bikini-panty-waffle-knit-deep-forest-2-99-each-more-free-shipping-on-orders-50?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
