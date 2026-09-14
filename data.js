@@ -1,6 +1,6 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-09-13 by GitHub Actions
+// Last updated: 2026-09-14 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
@@ -79,18 +79,6 @@ const DEALS = [
   },
   {
     id:             7,
-    name:           "Select Advance Auto Stores: 6-Gal. Seachoice Portable Marine Gas Tank (Red) $20.45 + Free Pickup",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    81.8,
-    clearancePrice: 20.45,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Advance%20Auto%20St",
-    link:           "https://slickdeals.net/f/19945860-seachoice-products-marine-fuel-tank-6-gallon-capacity-without-gauge-epa-carb-compliant-red-20-45-at-advance-auto-parts?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             8,
     name:           "Select Sam\\'s Club Stores: 65\" Samsung S90FD 4K 120Hz OLED Smart TV",
     category:       "tech",
     retailer:       "samsclub",
@@ -102,19 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
-    name:           "Select Stores: RYOBI ONE+ 18V 9 in. Cordless Battery Edger (Tool Only)",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    49.5,
-    clearancePrice: 49,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Stores%3A%20RYOBI%20O",
-    link:           "https://slickdeals.net/f/19940019-select-stores-ryobi-one-18v-9-in-cordless-battery-edger-tool-only-49-in-store-only?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             10,
+    id:             8,
     name:           "VEVOR Foldable Garden Kneeler & Seat w/ 8\" EVA Pad & 2x Tool Pouches",
     category:       "supplies",
     retailer:       "amazon",
@@ -126,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             11,
+    id:             9,
     name:           "Patagonia Past Season Clearance Sale up to 60% Off + Free S&H on $60+",
     category:       "supplies",
     retailer:       "amazon",
