@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-09-14 by GitHub Actions
+// Last updated: 2026-09-15 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Vibrant Life 11\" Holiday Highland Cow w/ Present Plush Dog Toy (Brown/Red) $2.40 + Free S&H on $35+",
+    category:       "toys",
+    retailer:       "walmart",
+    normalPrice:    35,
+    clearancePrice: 2.4,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Vibrant%20Life%2011%22%20Holid",
+    link:           "https://slickdeals.net/f/20014338-vibrant-life-11-holiday-highland-cow-plush-dog-toy-2-39-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "Cooler Master Q300L V1 Micro-ATX High Airflow PC Case $35 + Free S&H",
     category:       "supplies",
     retailer:       "amazon",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "Nike Vapor 16/Phantom 6 Academy D-Width Soccer Cleats (various colors) $22.50 + Free S&H on $25+",
     category:       "supplies",
     retailer:       "amazon",
@@ -30,11 +42,11 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "Backpack Clearance Sale: Wonder Nation Kids\\' 17\" Backpack (Various) $2 & More",
     category:       "supplies",
     retailer:       "walmart",
-    normalPrice:    35,
+    normalPrice:    12.79,
     clearancePrice: 2,
     fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Backpack%20Clearance%20Sal",
     link:           "https://slickdeals.net/f/19990230-backpack-clearance-sale-wonder-nation-kids-17-backpack-various-2-more?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -42,7 +54,19 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
+    name:           "Eastsport Backpacks: 19\" Aero Core $8, 16\" Success Mesh $4.80 & More",
+    category:       "supplies",
+    retailer:       "walmart",
+    normalPrice:    11.97,
+    clearancePrice: 8,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Eastsport%20Backpacks%3A%201",
+    link:           "https://slickdeals.net/f/19990191-walmart-has-eastport-backpacks-on-clearance-prices-as-low-as-4-79?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             6,
     name:           "Lucid 2\" Cooling Gel Aloe Vera Plush Memory Foam Mattress Topper (Twin XL Size) $16.95 + Free S&H on $35+",
     category:       "home",
     retailer:       "walmart",
@@ -54,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             7,
     name:           "Gunpla Model Kits: Bandai Gundam RG 1:144 RX-78-2 Gundam Ver. 2.0 Model Kit $30 & More + Free S/H Orders $49+",
     category:       "supplies",
     retailer:       "amazon",
@@ -66,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             8,
     name:           "Kohl\\'s: Extra 50% Off Clearance + Earn Kohl\\'s Cash + Coupon Offers $10 Off $25 + 15% Off Home + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
@@ -78,7 +102,19 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             9,
+    name:           "Kohl\\'s Clearance Up to 85% Off + Free Pickup",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    326.67,
+    clearancePrice: 49,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Kohl's%20Clearance%20Up%20to",
+    link:           "https://slickdeals.net/f/19948458-kohl-s-clearance-save-up-to-85-after-an-extra-50-off?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             10,
     name:           "Select Sam\\'s Club Stores: 65\" Samsung S90FD 4K 120Hz OLED Smart TV",
     category:       "tech",
     retailer:       "samsclub",
@@ -90,7 +126,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             11,
     name:           "VEVOR Foldable Garden Kneeler & Seat w/ 8\" EVA Pad & 2x Tool Pouches",
     category:       "supplies",
     retailer:       "amazon",
@@ -98,18 +134,6 @@ const DEALS = [
     clearancePrice: 17.9,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=VEVOR%20Foldable%20Garden%20",
     link:           "https://slickdeals.net/f/19939044-vevor-foldable-garden-kneeler-seat-w-8-eva-pad-and-tool-pouches-green-17-90-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             9,
-    name:           "Patagonia Past Season Clearance Sale up to 60% Off + Free S&H on $60+",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    150,
-    clearancePrice: 60,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Patagonia%20Past%20Season%20",
-    link:           "https://slickdeals.net/f/19931970-up-to-60-off-patagonia-past-season-clearance-sale-at-rei?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
