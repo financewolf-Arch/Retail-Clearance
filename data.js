@@ -1,6 +1,6 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-09-16 by GitHub Actions
+// Last updated: 2026-09-17 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
@@ -58,7 +58,7 @@ const DEALS = [
     name:           "Backpack Clearance Sale: Wonder Nation Kids\\' 17\" Backpack (Various) $2 & More",
     category:       "supplies",
     retailer:       "walmart",
-    normalPrice:    12.79,
+    normalPrice:    35,
     clearancePrice: 2,
     fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Backpack%20Clearance%20Sal",
     link:           "https://slickdeals.net/f/19990230-backpack-clearance-sale-wonder-nation-kids-17-backpack-various-2-more?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -67,18 +67,6 @@ const DEALS = [
   },
   {
     id:             6,
-    name:           "Eastsport Backpacks: 19\" Aero Core $8, 16\" Success Mesh $4.80 & More",
-    category:       "supplies",
-    retailer:       "walmart",
-    normalPrice:    11.97,
-    clearancePrice: 8,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Eastsport%20Backpacks%3A%201",
-    link:           "https://slickdeals.net/f/19990191-walmart-has-eastport-backpacks-on-clearance-prices-as-low-as-4-79?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             7,
     name:           "Lucid 2\" Cooling Gel Aloe Vera Plush Memory Foam Mattress Topper (Twin XL Size) $16.95 + Free S&H on $35+",
     category:       "home",
     retailer:       "walmart",
@@ -90,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             7,
     name:           "Gunpla Model Kits: Bandai Gundam RG 1:144 RX-78-2 Gundam Ver. 2.0 Model Kit $30 & More + Free S/H Orders $49+",
     category:       "supplies",
     retailer:       "amazon",
@@ -102,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             8,
     name:           "Kohl\\'s: Extra 50% Off Clearance + Earn Kohl\\'s Cash + Coupon Offers $10 Off $25 + 15% Off Home + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
@@ -114,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             10,
+    id:             9,
     name:           "Kohl\\'s Clearance Up to 85% Off + Free Pickup",
     category:       "supplies",
     retailer:       "amazon",
@@ -122,6 +110,18 @@ const DEALS = [
     clearancePrice: 49,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Kohl's%20Clearance%20Up%20to",
     link:           "https://slickdeals.net/f/19948458-kohl-s-clearance-save-up-to-85-after-an-extra-50-off?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             10,
+    name:           "Select Advance Auto Stores: 6-Gal. Seachoice Portable Marine Gas Tank (Red) $20.45 + Free Pickup",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    81.8,
+    clearancePrice: 20.45,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Advance%20Auto%20St",
+    link:           "https://slickdeals.net/f/19945860-seachoice-products-marine-fuel-tank-6-gallon-capacity-without-gauge-epa-carb-compliant-red-20-45-at-advance-auto-parts?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   },
@@ -134,18 +134,6 @@ const DEALS = [
     clearancePrice: 799.9,
     fallbackImage:  "https://placehold.co/300x200/004990/ffffff?text=Select%20Sam's%20Club%20Stor",
     link:           "https://slickdeals.net/f/19943088-sam-s-club-in-store-samsung-65inch-class-s90fd-series-4k-oled-smart-tv-799-91-5-yr-all-state-ymmv?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             12,
-    name:           "VEVOR Foldable Garden Kneeler & Seat w/ 8\" EVA Pad & 2x Tool Pouches",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    35,
-    clearancePrice: 17.9,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=VEVOR%20Foldable%20Garden%20",
-    link:           "https://slickdeals.net/f/19939044-vevor-foldable-garden-kneeler-seat-w-8-eva-pad-and-tool-pouches-green-17-90-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
