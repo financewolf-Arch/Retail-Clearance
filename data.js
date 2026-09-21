@@ -1,6 +1,6 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-09-20 by GitHub Actions
+// Last updated: 2026-09-21 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
@@ -91,18 +91,6 @@ const DEALS = [
   },
   {
     id:             8,
-    name:           "Eastsport Backpacks: 19\" Aero Core $8, 16\" Success Mesh $4.80 & More",
-    category:       "supplies",
-    retailer:       "walmart",
-    normalPrice:    11.97,
-    clearancePrice: 8,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Eastsport%20Backpacks%3A%201",
-    link:           "https://slickdeals.net/f/19990191-walmart-has-eastport-backpacks-on-clearance-prices-as-low-as-4-79?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             9,
     name:           "Lucid 2\" Cooling Gel Aloe Vera Plush Memory Foam Mattress Topper (Twin XL Size) $16.95 + Free S&H on $35+",
     category:       "home",
     retailer:       "walmart",
@@ -114,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             10,
+    id:             9,
     name:           "Gunpla Model Kits: Bandai Gundam RG 1:144 RX-78-2 Gundam Ver. 2.0 Model Kit $30 & More + Free S/H Orders $49+",
     category:       "supplies",
     retailer:       "amazon",
@@ -122,18 +110,6 @@ const DEALS = [
     clearancePrice: 30,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Gunpla%20Model%20Kits%3A%20Ban",
     link:           "https://slickdeals.net/f/19973661-select-gunpla-40-off-at-michaels-30?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             11,
-    name:           "Kohl\\'s: Extra 50% Off Clearance + Earn Kohl\\'s Cash + Coupon Offers $10 Off $25 + 15% Off Home + Free Pickup",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    25,
-    clearancePrice: 10,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Kohl's%3A%20Extra%2050%25%20Off%20",
-    link:           "https://slickdeals.net/f/19963884-kohl-s-extra-50-off-clearance-earn-kohl-s-cash-coupon-offers-10-off-25-15-off-home-free-pickup?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
