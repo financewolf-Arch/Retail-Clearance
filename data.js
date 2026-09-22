@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-09-21 by GitHub Actions
+// Last updated: 2026-09-22 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Kohl\\'s: Select Lego Sets 20% Off + $10 off $50+: Disney\\'s Lilo & Stitch (43249) $42 & More",
+    category:       "toys",
+    retailer:       "amazon",
+    normalPrice:    50,
+    clearancePrice: 10,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Kohl's%3A%20Select%20Lego%20Se",
+    link:           "https://slickdeals.net/f/20041989-kohls-10-off-50-toys-coupon-lego-extravaganza-more?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "Victoria\\'s Secret Women\\'s Panties (Various) 5",
     category:       "supplies",
     retailer:       "amazon",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "40-Lb CAP Barbell Adjustable Weighted Vest w/ Removable Weight Packets $37.35 + Free S&H on $49+",
     category:       "supplies",
     retailer:       "amazon",
@@ -30,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "B1G1: 8-pc Comforter Sets (various) 2",
     category:       "supplies",
     retailer:       "amazon",
@@ -42,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
     name:           "Vibrant Life 11\" Holiday Highland Cow w/ Present Plush Dog Toy (Brown/Red) $2.40 + Free S&H on $35+",
     category:       "toys",
     retailer:       "walmart",
@@ -54,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             6,
     name:           "Cooler Master Q300L V1 Micro-ATX High Airflow PC Case $35 + Free S&H",
     category:       "supplies",
     retailer:       "amazon",
@@ -66,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             7,
     name:           "Nike Vapor 16/Phantom 6 Academy D-Width Soccer Cleats (various colors) $22.50 + Free S&H on $25+",
     category:       "supplies",
     retailer:       "amazon",
@@ -78,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             8,
     name:           "Backpack Clearance Sale: Wonder Nation Kids\\' 17\" Backpack (Various) $2 & More",
     category:       "supplies",
     retailer:       "walmart",
@@ -90,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             9,
     name:           "Lucid 2\" Cooling Gel Aloe Vera Plush Memory Foam Mattress Topper (Twin XL Size) $16.95 + Free S&H on $35+",
     category:       "home",
     retailer:       "walmart",
@@ -98,18 +110,6 @@ const DEALS = [
     clearancePrice: 16.95,
     fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Lucid%202%22%20Cooling%20Gel%20A",
     link:           "https://slickdeals.net/f/19973970-lucid-2-cooling-gel-with-aloe-plush-memory-foam-mattress-topper-twin-xl-16-94?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             9,
-    name:           "Gunpla Model Kits: Bandai Gundam RG 1:144 RX-78-2 Gundam Ver. 2.0 Model Kit $30 & More + Free S/H Orders $49+",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    49,
-    clearancePrice: 30,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Gunpla%20Model%20Kits%3A%20Ban",
-    link:           "https://slickdeals.net/f/19973661-select-gunpla-40-off-at-michaels-30?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
