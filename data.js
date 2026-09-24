@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-09-23 by GitHub Actions
+// Last updated: 2026-09-24 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Disney Mickey Mouse Men\\'s Beach Swim Trunks (Red, Various)",
+    category:       "supplies",
+    retailer:       "walmart",
+    normalPrice:    19.98,
+    clearancePrice: 5.25,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Disney%20Mickey%20Mouse%20Me",
+    link:           "https://slickdeals.net/f/20051439-disney-swim-trunks-mickey-mouse-beach-sizes-s-3xl-available-5-24-clearance-walmart-ships-free?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "Men\\'s Nirvana Smiley Graphic Pullover Sweatshirt in Yellow (various sizes) $7.75 + Free S&H on $35+",
     category:       "fashion",
     retailer:       "walmart",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "Kohl\\'s: Select Lego Sets 20% Off + $10 off $50+: Disney\\'s Lilo & Stitch (43249) $42 & More",
     category:       "toys",
     retailer:       "amazon",
@@ -30,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "Victoria\\'s Secret Women\\'s Panties (Various) 5",
     category:       "supplies",
     retailer:       "amazon",
@@ -42,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
     name:           "40-Lb CAP Barbell Adjustable Weighted Vest w/ Removable Weight Packets $37.35 + Free S&H on $49+",
     category:       "supplies",
     retailer:       "amazon",
@@ -54,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             6,
     name:           "B1G1: 8-pc Comforter Sets (various) 2",
     category:       "supplies",
     retailer:       "amazon",
@@ -66,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             7,
     name:           "Vibrant Life 11\" Holiday Highland Cow w/ Present Plush Dog Toy (Brown/Red) $2.40 + Free S&H on $35+",
     category:       "toys",
     retailer:       "walmart",
@@ -78,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             8,
     name:           "Cooler Master Q300L V1 Micro-ATX High Airflow PC Case $35 + Free S&H",
     category:       "supplies",
     retailer:       "amazon",
@@ -90,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             9,
     name:           "Nike Vapor 16/Phantom 6 Academy D-Width Soccer Cleats (various colors) $22.50 + Free S&H on $25+",
     category:       "supplies",
     retailer:       "amazon",
@@ -98,30 +110,6 @@ const DEALS = [
     clearancePrice: 22.5,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Nike%20Vapor%2016%2FPhantom%20",
     link:           "https://slickdeals.net/f/19992495-nike-vapor-16-phantom-6-academy-d-width-soccer-cleats-various-colors-22-50-free-s-h-on-25?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             9,
-    name:           "Backpack Clearance Sale: Wonder Nation Kids\\' 17\" Backpack (Various) $2 & More",
-    category:       "supplies",
-    retailer:       "walmart",
-    normalPrice:    35,
-    clearancePrice: 2,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Backpack%20Clearance%20Sal",
-    link:           "https://slickdeals.net/f/19990230-backpack-clearance-sale-wonder-nation-kids-17-backpack-various-2-more?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             10,
-    name:           "Eastsport Backpacks: 19\" Aero Core $8, 16\" Success Mesh $4.80 & More",
-    category:       "supplies",
-    retailer:       "walmart",
-    normalPrice:    11.97,
-    clearancePrice: 8,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Eastsport%20Backpacks%3A%201",
-    link:           "https://slickdeals.net/f/19990191-walmart-has-eastport-backpacks-on-clearance-prices-as-low-as-4-79?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
