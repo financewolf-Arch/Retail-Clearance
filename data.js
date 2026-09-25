@@ -1,6 +1,6 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-09-24 by GitHub Actions
+// Last updated: 2026-09-25 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
@@ -10,7 +10,7 @@ const DEALS = [
     name:           "Disney Mickey Mouse Men\\'s Beach Swim Trunks (Red, Various)",
     category:       "supplies",
     retailer:       "walmart",
-    normalPrice:    19.98,
+    normalPrice:    35,
     clearancePrice: 5.25,
     fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Disney%20Mickey%20Mouse%20Me",
     link:           "https://slickdeals.net/f/20051439-disney-swim-trunks-mickey-mouse-beach-sizes-s-3xl-available-5-24-clearance-walmart-ships-free?utm_source=rss&utm_content=fp&utm_medium=RSS2",
