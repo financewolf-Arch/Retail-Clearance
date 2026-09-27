@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-09-26 by GitHub Actions
+// Last updated: 2026-09-27 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Hallmark Clearance: Ornaments, Gifts, Home Decor & More Up to 50% Off + Free S&H on $30+",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    60,
+    clearancePrice: 30,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Hallmark%20Clearance%3A%20Or",
+    link:           "https://slickdeals.net/f/20062287-up-to-50-off-hallmark-clearance-sale?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "Forever 21 Women\\'s Sleeveless Lace Mini Dress (3 Colors)",
     category:       "fashion",
     retailer:       "walmart",
@@ -18,7 +30,19 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
+    name:           "Nike Men\\'s Structure Plus Running Shoes (White/Black/Volt) $68.35 + Free S&H",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    68.37,
+    clearancePrice: 68.35,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Nike%20Men's%20Structure%20P",
+    link:           "https://slickdeals.net/f/20061030-nike-men-s-structure-plus-running-shoes-white-black-volt-68-37-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             4,
     name:           "ASICS Women\\'s Gel-Nimbus 28 Running Shoes (Blush/Sky) $91.75 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -30,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             5,
     name:           "Brooks Men\\'s Hyperion 3 Running Shoes (2 Colors) $65.40 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -42,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             6,
     name:           "Disney Mickey Mouse Men\\'s Beach Swim Trunks (Red, Various)",
     category:       "supplies",
     retailer:       "walmart",
@@ -54,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             7,
     name:           "Men\\'s Nirvana Smiley Graphic Pullover Sweatshirt in Yellow (various sizes) $7.75 + Free S&H on $35+",
     category:       "fashion",
     retailer:       "walmart",
@@ -66,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             8,
     name:           "Kohl\\'s: Select Lego Sets 20% Off + $10 off $50+: Disney\\'s Lilo & Stitch (43249) $42 & More",
     category:       "toys",
     retailer:       "amazon",
@@ -78,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             9,
     name:           "Victoria\\'s Secret Women\\'s Panties (Various) 5",
     category:       "supplies",
     retailer:       "amazon",
@@ -90,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             10,
     name:           "40-Lb CAP Barbell Adjustable Weighted Vest w/ Removable Weight Packets $37.35 + Free S&H on $49+",
     category:       "supplies",
     retailer:       "amazon",
@@ -102,7 +126,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             11,
     name:           "Select Stores: 5-Pc Husky Pliers & Wrench Set",
     category:       "supplies",
     retailer:       "amazon",
@@ -110,18 +134,6 @@ const DEALS = [
     clearancePrice: 6.2,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Stores%3A%205-Pc%20Hu",
     link:           "https://slickdeals.net/f/20028630-select-stores-5-pc-husky-pliers-wrench-set-6-20-in-store-only?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             10,
-    name:           "B1G1: 8-pc Comforter Sets (various) 2",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    39,
-    clearancePrice: 29.95,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=B1G1%3A%208-pc%20Comforter%20S",
-    link:           "https://slickdeals.net/f/20014554-buy-one-get-one-two-8-piece-comforter-sets-various-any-size-29-93-14-96-each-3-piece-23-93-free-pickup-at-macys-or-free-shipping-on-39?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
