@@ -1,6 +1,6 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-09-27 by GitHub Actions
+// Last updated: 2026-09-28 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
@@ -55,6 +55,18 @@ const DEALS = [
   },
   {
     id:             5,
+    name:           "Nike Women\\'s Zenvy 7/8 Leggings (Sea Coral) $17 + Free S&H on $49+",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    49,
+    clearancePrice: 17,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Nike%20Women's%20Zenvy%207%2F8",
+    link:           "https://slickdeals.net/f/20060745-nike-women-s-zenvy-7-8-leggings-sea-coral-15-27-free-shipping-on-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             6,
     name:           "Brooks Men\\'s Hyperion 3 Running Shoes (2 Colors) $65.40 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -66,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             7,
     name:           "Disney Mickey Mouse Men\\'s Beach Swim Trunks (Red, Various)",
     category:       "supplies",
     retailer:       "walmart",
@@ -78,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             8,
     name:           "Men\\'s Nirvana Smiley Graphic Pullover Sweatshirt in Yellow (various sizes) $7.75 + Free S&H on $35+",
     category:       "fashion",
     retailer:       "walmart",
@@ -90,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             9,
     name:           "Kohl\\'s: Select Lego Sets 20% Off + $10 off $50+: Disney\\'s Lilo & Stitch (43249) $42 & More",
     category:       "toys",
     retailer:       "amazon",
@@ -102,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             10,
     name:           "Victoria\\'s Secret Women\\'s Panties (Various) 5",
     category:       "supplies",
     retailer:       "amazon",
@@ -114,7 +126,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             10,
+    id:             11,
     name:           "40-Lb CAP Barbell Adjustable Weighted Vest w/ Removable Weight Packets $37.35 + Free S&H on $49+",
     category:       "supplies",
     retailer:       "amazon",
@@ -122,18 +134,6 @@ const DEALS = [
     clearancePrice: 37.35,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=40-Lb%20CAP%20Barbell%20Adju",
     link:           "https://slickdeals.net/f/20033826-40-lb-cap-barbell-adjustable-weighted-vest-37-35-free-shipping-on-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             11,
-    name:           "Select Stores: 5-Pc Husky Pliers & Wrench Set",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    6.22,
-    clearancePrice: 6.2,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Select%20Stores%3A%205-Pc%20Hu",
-    link:           "https://slickdeals.net/f/20028630-select-stores-5-pc-husky-pliers-wrench-set-6-20-in-store-only?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
