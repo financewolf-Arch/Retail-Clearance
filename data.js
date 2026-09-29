@@ -1,6 +1,6 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-09-28 by GitHub Actions
+// Last updated: 2026-09-29 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
@@ -79,10 +79,22 @@ const DEALS = [
   },
   {
     id:             7,
+    name:           "18-Oz Aveeno Skin Relief Moisturizing Lotion for Very Dry Skin (Fragrance-Free) 2",
+    category:       "beauty",
+    retailer:       "amazon",
+    normalPrice:    10,
+    clearancePrice: 7.25,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=18-Oz%20Aveeno%20Skin%20Reli",
+    link:           "https://slickdeals.net/f/20055942-18-oz-aveeno-skin-relief-moisturizing-lotion-for-very-dry-skin-fragrance-free-4-49-or-2-for-7-23-3-63-each-at-walgreens-w-free-store-pickup-on-10?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             8,
     name:           "Disney Mickey Mouse Men\\'s Beach Swim Trunks (Red, Various)",
     category:       "supplies",
     retailer:       "walmart",
-    normalPrice:    19.98,
+    normalPrice:    35,
     clearancePrice: 5.25,
     fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Disney%20Mickey%20Mouse%20Me",
     link:           "https://slickdeals.net/f/20051439-disney-swim-trunks-mickey-mouse-beach-sizes-s-3xl-available-5-24-clearance-walmart-ships-free?utm_source=rss&utm_content=fp&utm_medium=RSS2",
@@ -90,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             9,
     name:           "Men\\'s Nirvana Smiley Graphic Pullover Sweatshirt in Yellow (various sizes) $7.75 + Free S&H on $35+",
     category:       "fashion",
     retailer:       "walmart",
@@ -102,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             10,
     name:           "Kohl\\'s: Select Lego Sets 20% Off + $10 off $50+: Disney\\'s Lilo & Stitch (43249) $42 & More",
     category:       "toys",
     retailer:       "amazon",
@@ -110,30 +122,6 @@ const DEALS = [
     clearancePrice: 10,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Kohl's%3A%20Select%20Lego%20Se",
     link:           "https://slickdeals.net/f/20041989-kohls-10-off-50-toys-coupon-lego-extravaganza-more?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             10,
-    name:           "Victoria\\'s Secret Women\\'s Panties (Various) 5",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    50,
-    clearancePrice: 20,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Victoria's%20Secret%20Wome",
-    link:           "https://slickdeals.net/f/20033838-victoria-s-secret-big-fall-sale-panties-5-for-20-3-99?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             11,
-    name:           "40-Lb CAP Barbell Adjustable Weighted Vest w/ Removable Weight Packets $37.35 + Free S&H on $49+",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    49,
-    clearancePrice: 37.35,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=40-Lb%20CAP%20Barbell%20Adju",
-    link:           "https://slickdeals.net/f/20033826-40-lb-cap-barbell-adjustable-weighted-vest-37-35-free-shipping-on-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
