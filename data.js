@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-09-29 by GitHub Actions
+// Last updated: 2026-09-30 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "3-Pk Men\\'s Gildan Cotton Stretch Crewneck Tee in White (Small or Medium) $5.65 + Free S&H on $35+",
+    category:       "supplies",
+    retailer:       "walmart",
+    normalPrice:    35,
+    clearancePrice: 5.65,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=3-Pk%20Men's%20Gildan%20Cott",
+    link:           "https://slickdeals.net/f/20072679-medium-cotton-crew-neck-undershirt-3-pack-5-67-walmart?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "Hallmark Clearance: Ornaments, Gifts, Home Decor & More Up to 50% Off + Free S&H on $30+",
     category:       "supplies",
     retailer:       "amazon",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "Forever 21 Women\\'s Sleeveless Lace Mini Dress (3 Colors)",
     category:       "fashion",
     retailer:       "walmart",
@@ -30,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "Nike Men\\'s Structure Plus Running Shoes (White/Black/Volt) $68.35 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -42,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
     name:           "ASICS Women\\'s Gel-Nimbus 28 Running Shoes (Blush/Sky) $91.75 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -54,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             6,
     name:           "Nike Women\\'s Zenvy 7/8 Leggings (Sea Coral) $17 + Free S&H on $49+",
     category:       "fashion",
     retailer:       "amazon",
@@ -66,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             7,
     name:           "Brooks Men\\'s Hyperion 3 Running Shoes (2 Colors) $65.40 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -78,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             8,
     name:           "18-Oz Aveeno Skin Relief Moisturizing Lotion for Very Dry Skin (Fragrance-Free) 2",
     category:       "beauty",
     retailer:       "amazon",
@@ -90,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             9,
     name:           "Disney Mickey Mouse Men\\'s Beach Swim Trunks (Red, Various)",
     category:       "supplies",
     retailer:       "walmart",
@@ -102,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             10,
     name:           "Men\\'s Nirvana Smiley Graphic Pullover Sweatshirt in Yellow (various sizes) $7.75 + Free S&H on $35+",
     category:       "fashion",
     retailer:       "walmart",
@@ -114,7 +126,19 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             10,
+    id:             11,
+    name:           "Dockers Men\\'s Frederick Casual Sneaker (Various, Med & Wide)",
+    category:       "fashion",
+    retailer:       "walmart",
+    normalPrice:    35,
+    clearancePrice: 25,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Dockers%20Men's%20Frederic",
+    link:           "https://slickdeals.net/f/20049219-dockers-men-s-frederick-casual-sneaker-various-med-and-wide-widths-24-99-free-s-h-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             12,
     name:           "Kohl\\'s: Select Lego Sets 20% Off + $10 off $50+: Disney\\'s Lilo & Stitch (43249) $42 & More",
     category:       "toys",
     retailer:       "amazon",
