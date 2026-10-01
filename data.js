@@ -1,12 +1,48 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-09-30 by GitHub Actions
+// Last updated: 2026-10-01 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Nautica Sitewide Sale: Up to 60% Off and Clearance Up to 70% Off & More + Free S&H on $60+",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    150,
+    clearancePrice: 60,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Nautica%20Sitewide%20Sale%3A",
+    link:           "https://slickdeals.net/f/20079960-nautica-sale-up-to-60-off-sitewide-up-to-70-off-clearance-sweaters-from-29-99-free-shipping-on-orders-60?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
+    name:           "Men\\'s Wrangler Brushed Performance Thermal Long Sleeve Base Layer Shirt $4.45 + Free S&H on $35+",
+    category:       "fashion",
+    retailer:       "walmart",
+    normalPrice:    35,
+    clearancePrice: 4.45,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Men's%20Wrangler%20Brushed",
+    link:           "https://slickdeals.net/f/20078997-wrangler-men-s-brushed-performance-thermal-long-sleeve-base-layer-shirt-dark-military-green-or-naval-academy-m-2xl-4-47-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             3,
+    name:           "Nirvana Men\\'s Tie-Dye Graphic Pullover Hoodie Sweatshirt",
+    category:       "fashion",
+    retailer:       "walmart",
+    normalPrice:    35,
+    clearancePrice: 12.55,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Nirvana%20Men's%20Tie-Dye%20",
+    link:           "https://slickdeals.net/f/20078748-nirvana-men-s-tie-dye-graphic-pullover-hoodie-sweatshirt-s-m-l-2xl-12-55-free-s-h-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             4,
     name:           "3-Pk Men\\'s Gildan Cotton Stretch Crewneck Tee in White (Small or Medium) $5.65 + Free S&H on $35+",
     category:       "supplies",
     retailer:       "walmart",
@@ -18,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             5,
     name:           "Hallmark Clearance: Ornaments, Gifts, Home Decor & More Up to 50% Off + Free S&H on $30+",
     category:       "supplies",
     retailer:       "amazon",
@@ -30,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             6,
     name:           "Forever 21 Women\\'s Sleeveless Lace Mini Dress (3 Colors)",
     category:       "fashion",
     retailer:       "walmart",
@@ -42,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             7,
     name:           "Nike Men\\'s Structure Plus Running Shoes (White/Black/Volt) $68.35 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -54,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             8,
     name:           "ASICS Women\\'s Gel-Nimbus 28 Running Shoes (Blush/Sky) $91.75 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -66,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             9,
     name:           "Nike Women\\'s Zenvy 7/8 Leggings (Sea Coral) $17 + Free S&H on $49+",
     category:       "fashion",
     retailer:       "amazon",
@@ -78,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             10,
     name:           "Brooks Men\\'s Hyperion 3 Running Shoes (2 Colors) $65.40 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -90,7 +126,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             11,
     name:           "18-Oz Aveeno Skin Relief Moisturizing Lotion for Very Dry Skin (Fragrance-Free) 2",
     category:       "beauty",
     retailer:       "amazon",
@@ -102,7 +138,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             12,
     name:           "Disney Mickey Mouse Men\\'s Beach Swim Trunks (Red, Various)",
     category:       "supplies",
     retailer:       "walmart",
@@ -110,42 +146,6 @@ const DEALS = [
     clearancePrice: 5.25,
     fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Disney%20Mickey%20Mouse%20Me",
     link:           "https://slickdeals.net/f/20051439-disney-swim-trunks-mickey-mouse-beach-sizes-s-3xl-available-5-24-clearance-walmart-ships-free?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             10,
-    name:           "Men\\'s Nirvana Smiley Graphic Pullover Sweatshirt in Yellow (various sizes) $7.75 + Free S&H on $35+",
-    category:       "fashion",
-    retailer:       "walmart",
-    normalPrice:    35,
-    clearancePrice: 7.75,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Men's%20Nirvana%20Smiley%20G",
-    link:           "https://slickdeals.net/f/20049264-nirvana-men-s-smiley-graphic-pullover-hoodie-sweatshirt-yellow-7-77-free-s-h-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             11,
-    name:           "Dockers Men\\'s Frederick Casual Sneaker (Various, Med & Wide)",
-    category:       "fashion",
-    retailer:       "walmart",
-    normalPrice:    35,
-    clearancePrice: 25,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Dockers%20Men's%20Frederic",
-    link:           "https://slickdeals.net/f/20049219-dockers-men-s-frederick-casual-sneaker-various-med-and-wide-widths-24-99-free-s-h-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             12,
-    name:           "Kohl\\'s: Select Lego Sets 20% Off + $10 off $50+: Disney\\'s Lilo & Stitch (43249) $42 & More",
-    category:       "toys",
-    retailer:       "amazon",
-    normalPrice:    50,
-    clearancePrice: 10,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Kohl's%3A%20Select%20Lego%20Se",
-    link:           "https://slickdeals.net/f/20041989-kohls-10-off-50-toys-coupon-lego-extravaganza-more?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
