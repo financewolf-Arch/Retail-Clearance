@@ -1,6 +1,6 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-10-01 by GitHub Actions
+// Last updated: 2026-10-02 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
@@ -43,6 +43,18 @@ const DEALS = [
   },
   {
     id:             4,
+    name:           "Kacey Lee Men\\'s 100% Cotton Canvas 91B Jacket (Dark Khaki Rinse)",
+    category:       "fashion",
+    retailer:       "walmart",
+    normalPrice:    35,
+    clearancePrice: 13.9,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Kacey%20Lee%20Men's%20100%25%20C",
+    link:           "https://slickdeals.net/f/20078676-kacey-lee-men-s-100-cotton-canvas-91b-jacket-dark-khaki-rinse-sizes-s-2xl-13-87-free-s-h-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             5,
     name:           "3-Pk Men\\'s Gildan Cotton Stretch Crewneck Tee in White (Small or Medium) $5.65 + Free S&H on $35+",
     category:       "supplies",
     retailer:       "walmart",
@@ -54,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             6,
     name:           "Hallmark Clearance: Ornaments, Gifts, Home Decor & More Up to 50% Off + Free S&H on $30+",
     category:       "supplies",
     retailer:       "amazon",
@@ -66,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             7,
     name:           "Forever 21 Women\\'s Sleeveless Lace Mini Dress (3 Colors)",
     category:       "fashion",
     retailer:       "walmart",
@@ -78,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             8,
     name:           "Nike Men\\'s Structure Plus Running Shoes (White/Black/Volt) $68.35 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -90,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             9,
     name:           "ASICS Women\\'s Gel-Nimbus 28 Running Shoes (Blush/Sky) $91.75 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -102,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             10,
     name:           "Nike Women\\'s Zenvy 7/8 Leggings (Sea Coral) $17 + Free S&H on $49+",
     category:       "fashion",
     retailer:       "amazon",
@@ -114,7 +126,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             10,
+    id:             11,
     name:           "Brooks Men\\'s Hyperion 3 Running Shoes (2 Colors) $65.40 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -126,7 +138,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             11,
+    id:             12,
     name:           "18-Oz Aveeno Skin Relief Moisturizing Lotion for Very Dry Skin (Fragrance-Free) 2",
     category:       "beauty",
     retailer:       "amazon",
@@ -138,7 +150,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             12,
+    id:             13,
     name:           "Disney Mickey Mouse Men\\'s Beach Swim Trunks (Red, Various)",
     category:       "supplies",
     retailer:       "walmart",
