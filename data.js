@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-10-04 by GitHub Actions
+// Last updated: 2026-10-06 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Cooler Master Q300L V1 Micro-ATX High Airflow PC Case",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    35,
+    clearancePrice: 30,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Cooler%20Master%20Q300L%20V1",
+    link:           "https://slickdeals.net/f/20100006-cooler-master-q300l-v1-micro-atx-pc-case-high-airflow-transparent-panel-29-99-free-s-h-w-prime-or-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "Nike Men\\'s Air Jordan MVP 92 Shoes (Black/Anthracite/Gamma Blue) $56.95 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "Nautica Sitewide Sale: Up to 60% Off and Clearance Up to 70% Off & More + Free S&H on $60+",
     category:       "supplies",
     retailer:       "amazon",
@@ -30,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "Men\\'s Wrangler Brushed Performance Thermal Long Sleeve Base Layer Shirt $4.45 + Free S&H on $35+",
     category:       "fashion",
     retailer:       "walmart",
@@ -42,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
     name:           "Nirvana Men\\'s Tie-Dye Graphic Pullover Hoodie Sweatshirt",
     category:       "fashion",
     retailer:       "walmart",
@@ -50,18 +62,6 @@ const DEALS = [
     clearancePrice: 12.55,
     fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Nirvana%20Men's%20Tie-Dye%20",
     link:           "https://slickdeals.net/f/20078748-nirvana-men-s-tie-dye-graphic-pullover-hoodie-sweatshirt-s-m-l-2xl-12-55-free-s-h-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             5,
-    name:           "Kacey Lee Men\\'s 100% Cotton Canvas 91B Jacket (Dark Khaki Rinse)",
-    category:       "fashion",
-    retailer:       "walmart",
-    normalPrice:    35,
-    clearancePrice: 13.9,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Kacey%20Lee%20Men's%20100%25%20C",
-    link:           "https://slickdeals.net/f/20078676-kacey-lee-men-s-100-cotton-canvas-91b-jacket-dark-khaki-rinse-sizes-s-2xl-13-87-free-s-h-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   },
