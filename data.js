@@ -1,12 +1,36 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-10-08 by GitHub Actions
+// Last updated: 2026-10-09 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "George Men\\'s Full Zip Players Jacket (4 Colors)",
+    category:       "fashion",
+    retailer:       "walmart",
+    normalPrice:    35,
+    clearancePrice: 10,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=George%20Men's%20Full%20Zip%20",
+    link:           "https://slickdeals.net/f/20133150-george-men-s-full-zip-players-jacket-4-colors-10-00-free-s-h-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
+    name:           "adidas Men\\'s Handball Spezial Shoes: Collegiate Red $39.55, Pulse Aqua $32.35 + Free S&H on $50+",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    50,
+    clearancePrice: 39.55,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=adidas%20Men's%20Handball%20",
+    link:           "https://slickdeals.net/f/20129742-adidas-handball-spezial-men-s-shoes-collegiate-red-39-57-free-shipping-on-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             3,
     name:           "Disney\\'s Toy Story 11\" Mini Backpack (Buzz Lightyear/Woody) $10.80 + Free S&H on $35+",
     category:       "toys",
     retailer:       "walmart",
@@ -18,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             4,
     name:           "Cooler Master Q300L V1 Micro-ATX High Airflow PC Case",
     category:       "supplies",
     retailer:       "amazon",
@@ -30,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             5,
     name:           "Nike Men\\'s Air Jordan MVP 92 Shoes (Black/Anthracite/Gamma Blue) $56.95 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -42,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             6,
     name:           "Nautica Sitewide Sale: Up to 60% Off and Clearance Up to 70% Off & More + Free S&H on $60+",
     category:       "supplies",
     retailer:       "amazon",
@@ -54,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             7,
     name:           "Men\\'s Wrangler Brushed Performance Thermal Long Sleeve Base Layer Shirt $4.45 + Free S&H on $35+",
     category:       "fashion",
     retailer:       "walmart",
@@ -66,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             8,
     name:           "Nirvana Men\\'s Tie-Dye Graphic Pullover Hoodie Sweatshirt",
     category:       "fashion",
     retailer:       "walmart",
@@ -78,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             9,
     name:           "3-Pk Men\\'s Gildan Cotton Stretch Crewneck Tee in White (Small or Medium) $5.65 + Free S&H on $35+",
     category:       "supplies",
     retailer:       "walmart",
@@ -90,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             10,
     name:           "Hallmark Clearance: Ornaments, Gifts, Home Decor & More Up to 50% Off + Free S&H on $30+",
     category:       "supplies",
     retailer:       "amazon",
@@ -102,7 +126,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             11,
     name:           "Forever 21 Women\\'s Sleeveless Lace Mini Dress (3 Colors)",
     category:       "fashion",
     retailer:       "walmart",
@@ -114,7 +138,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             10,
+    id:             12,
     name:           "Nike Men\\'s Structure Plus Running Shoes (White/Black/Volt) $68.35 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -126,7 +150,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             11,
+    id:             13,
     name:           "ASICS Women\\'s Gel-Nimbus 28 Running Shoes (Blush/Sky) $91.75 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -138,7 +162,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             12,
+    id:             14,
     name:           "Nike Women\\'s Zenvy 7/8 Leggings (Sea Coral) $17 + Free S&H on $49+",
     category:       "fashion",
     retailer:       "amazon",
@@ -150,7 +174,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             13,
+    id:             15,
     name:           "Brooks Men\\'s Hyperion 3 Running Shoes (2 Colors) $65.40 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -162,7 +186,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             14,
+    id:             16,
     name:           "18-Oz Aveeno Skin Relief Moisturizing Lotion for Very Dry Skin (Fragrance-Free) 2",
     category:       "beauty",
     retailer:       "amazon",
