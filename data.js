@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-10-09 by GitHub Actions
+// Last updated: 2026-10-10 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "30-Qt. Stanley Adventure Outdoor Cooler (Charcoal) $43 + Free S/H Orders $89+",
+    category:       "supplies",
+    retailer:       "amazon",
+    normalPrice:    89,
+    clearancePrice: 43,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=30-Qt.%20Stanley%20Adventu",
+    link:           "https://slickdeals.net/f/20135079-stanley-adventure-cold-for-days-outdoor-cooler-30-qt-43-sierra-com-free-shipping-today-only-10-9-with-code-freeship?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "George Men\\'s Full Zip Players Jacket (4 Colors)",
     category:       "fashion",
     retailer:       "walmart",
@@ -14,18 +26,6 @@ const DEALS = [
     clearancePrice: 10,
     fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=George%20Men's%20Full%20Zip%20",
     link:           "https://slickdeals.net/f/20133150-george-men-s-full-zip-players-jacket-4-colors-10-00-free-s-h-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             2,
-    name:           "adidas Men\\'s Handball Spezial Shoes: Collegiate Red $39.55, Pulse Aqua $32.35 + Free S&H on $50+",
-    category:       "fashion",
-    retailer:       "amazon",
-    normalPrice:    50,
-    clearancePrice: 39.55,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=adidas%20Men's%20Handball%20",
-    link:           "https://slickdeals.net/f/20129742-adidas-handball-spezial-men-s-shoes-collegiate-red-39-57-free-shipping-on-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   },
@@ -182,18 +182,6 @@ const DEALS = [
     clearancePrice: 65.4,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Brooks%20Men's%20Hyperion%20",
     link:           "https://slickdeals.net/f/20060652-brooks-men-s-hyperion-3-running-shoes-2-colors-65-42-free-shipping?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             16,
-    name:           "18-Oz Aveeno Skin Relief Moisturizing Lotion for Very Dry Skin (Fragrance-Free) 2",
-    category:       "beauty",
-    retailer:       "amazon",
-    normalPrice:    10,
-    clearancePrice: 7.25,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=18-Oz%20Aveeno%20Skin%20Reli",
-    link:           "https://slickdeals.net/f/20055942-18-oz-aveeno-skin-relief-moisturizing-lotion-for-very-dry-skin-fragrance-free-4-49-or-2-for-7-23-3-63-each-at-walgreens-w-free-store-pickup-on-10?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
