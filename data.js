@@ -1,12 +1,48 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-10-13 by GitHub Actions
+// Last updated: 2026-10-14 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Men\\'s Disney Goofy Howdy Y\\'All Graphic Fleece Zip Up Hoodie (Heather Grey) $9.45 + Free S&H on $35+",
+    category:       "fashion",
+    retailer:       "walmart",
+    normalPrice:    35,
+    clearancePrice: 9.45,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Men's%20Disney%20Goofy%20How",
+    link:           "https://slickdeals.net/f/20156220-disney-goofy-men-s-and-big-men-s-howdy-y-all-graphic-fleece-zip-up-hoodie-sizes-s-3xl-9-43?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
+    name:           "Women\\'s Forever 21 Sleeveless Lace Mini Dress (Ivory) $4.75 + Free S&H on $35+",
+    category:       "fashion",
+    retailer:       "walmart",
+    normalPrice:    35,
+    clearancePrice: 4.75,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Women's%20Forever%2021%20Sle",
+    link:           "https://slickdeals.net/f/20152404-women-s-forever-21-sleeveless-lace-mini-dress-ivory-4-75-free-s-h-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             3,
+    name:           "Women\\'s Free Assembly Embroidered Square Neck Cotton Tank Top (Palm Tree) $5.80 + Free S&H on $35+",
+    category:       "supplies",
+    retailer:       "walmart",
+    normalPrice:    35,
+    clearancePrice: 5.8,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Women's%20Free%20Assembly%20",
+    link:           "https://slickdeals.net/f/20151660-free-assembly-women-s-embroidered-square-neck-cotton-tank-top-sizes-xs-xxl-5-80?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             4,
     name:           "Staples Rewards Offer: Luggage Purchase (up to $150), Earn 100% Back in Points (valid today only)",
     category:       "supplies",
     retailer:       "amazon",
@@ -18,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             5,
     name:           "4-Pk 65L Geelin Foldable Under Bed Storage Bins w/ Wheels & Lids (White or Gray)",
     category:       "supplies",
     retailer:       "amazon",
@@ -30,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             6,
     name:           "Nike Men\\'s Tech Shori Knit Drill Pants (Court Blue) $29 + Free Pickup",
     category:       "fashion",
     retailer:       "amazon",
@@ -42,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             7,
     name:           "3-Pk Men\\'s Jockey Generation Microfiber Stretch Boxer Briefs (Blue/Stripe/Red) $6.10 + Free S&H on $35+",
     category:       "supplies",
     retailer:       "walmart",
@@ -54,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             8,
     name:           "Solati Cordless Hair Clipper & Beard Trimmer Kit w/ LED Display",
     category:       "supplies",
     retailer:       "amazon",
@@ -66,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             9,
     name:           "30-Qt. Stanley Adventure Outdoor Cooler (Charcoal) $43 + Free S/H Orders $89+",
     category:       "supplies",
     retailer:       "amazon",
@@ -78,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             10,
     name:           "Men\\'s Dockers Straight Fit Stretch Twill Shorts (Black) $7.90 + Free S&H on $35+",
     category:       "supplies",
     retailer:       "walmart",
@@ -90,7 +126,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             11,
     name:           "George Men\\'s Full Zip Players Jacket (4 Colors)",
     category:       "fashion",
     retailer:       "walmart",
@@ -102,7 +138,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             12,
     name:           "Kacey Lee Men\\'s Canvas 91B Jacket",
     category:       "fashion",
     retailer:       "walmart",
@@ -114,7 +150,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             10,
+    id:             13,
     name:           "adidas Men\\'s Handball Spezial Shoes: Collegiate Red $39.55, Pulse Aqua $32.35 + Free S&H on $50+",
     category:       "fashion",
     retailer:       "amazon",
@@ -126,7 +162,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             11,
+    id:             14,
     name:           "Disney\\'s Toy Story 11\" Mini Backpack (Buzz Lightyear/Woody) $10.80 + Free S&H on $35+",
     category:       "toys",
     retailer:       "walmart",
@@ -138,7 +174,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             12,
+    id:             15,
     name:           "Cooler Master Q300L V1 Micro-ATX High Airflow PC Case",
     category:       "supplies",
     retailer:       "amazon",
@@ -150,7 +186,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             13,
+    id:             16,
     name:           "Nike Men\\'s Air Jordan MVP 92 Shoes (Black/Anthracite/Gamma Blue) $56.95 + Free S&H",
     category:       "fashion",
     retailer:       "amazon",
@@ -162,7 +198,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             14,
+    id:             17,
     name:           "Nautica Sitewide Sale: Up to 60% Off and Clearance Up to 70% Off & More + Free S&H on $60+",
     category:       "supplies",
     retailer:       "amazon",
@@ -174,7 +210,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             15,
+    id:             18,
     name:           "Men\\'s Wrangler Brushed Performance Thermal Long Sleeve Base Layer Shirt $4.45 + Free S&H on $35+",
     category:       "fashion",
     retailer:       "walmart",
@@ -182,42 +218,6 @@ const DEALS = [
     clearancePrice: 4.45,
     fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Men's%20Wrangler%20Brushed",
     link:           "https://slickdeals.net/f/20078997-wrangler-men-s-brushed-performance-thermal-long-sleeve-base-layer-shirt-dark-military-green-or-naval-academy-m-2xl-4-47-free-shipping-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             16,
-    name:           "Nirvana Men\\'s Tie-Dye Graphic Pullover Hoodie Sweatshirt",
-    category:       "fashion",
-    retailer:       "walmart",
-    normalPrice:    35,
-    clearancePrice: 12.55,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Nirvana%20Men's%20Tie-Dye%20",
-    link:           "https://slickdeals.net/f/20078748-nirvana-men-s-tie-dye-graphic-pullover-hoodie-sweatshirt-s-m-l-2xl-12-55-free-s-h-w-walmart-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             17,
-    name:           "3-Pk Men\\'s Gildan Cotton Stretch Crewneck Tee in White (Small or Medium) $5.65 + Free S&H on $35+",
-    category:       "supplies",
-    retailer:       "walmart",
-    normalPrice:    35,
-    clearancePrice: 5.65,
-    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=3-Pk%20Men's%20Gildan%20Cott",
-    link:           "https://slickdeals.net/f/20072679-medium-cotton-crew-neck-undershirt-3-pack-5-67-walmart?utm_source=rss&utm_content=fp&utm_medium=RSS2",
-    inStock:        true,
-    badge:          "Clearance",
-  },
-  {
-    id:             18,
-    name:           "Hallmark Clearance: Ornaments, Gifts, Home Decor & More Up to 50% Off + Free S&H on $30+",
-    category:       "supplies",
-    retailer:       "amazon",
-    normalPrice:    60,
-    clearancePrice: 30,
-    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Hallmark%20Clearance%3A%20Or",
-    link:           "https://slickdeals.net/f/20062287-up-to-50-off-hallmark-clearance-sale?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
