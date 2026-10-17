@@ -1,12 +1,24 @@
 // ============================================================
 // ClearanceHub — Auto-Generated Deal Data
-// Last updated: 2026-10-16 by GitHub Actions
+// Last updated: 2026-10-17 by GitHub Actions
 // Sources: DealNews category RSS · Slickdeals clearance search
 // ============================================================
 
 const DEALS = [
   {
     id:             1,
+    name:           "Gap Factory Sale: Gap Logo Flip Flops $3.25, babyGap Small Fry Graphic T-Shirt $2.15 & More + Free S&H",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    6.5,
+    clearancePrice: 3.25,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Gap%20Factory%20Sale%3A%20Gap%20",
+    link:           "https://slickdeals.net/f/20168826-gap-factory-sale-gap-logo-flip-flops-3-25-babygap-small-fry-graphic-t-shirt-2-15-more-free-s-h?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             2,
     name:           "750-Sheet Wexford 8.5\"x11\" Multipurpose Paper (Letter Size) $3 + Free Pickup on Orders $10+",
     category:       "supplies",
     retailer:       "amazon",
@@ -18,7 +30,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             2,
+    id:             3,
     name:           "Dreamweave Toddler Varsity Jacket w/ Lining: Bluey, Toy Story, Hello Kitty $8.55 & More + Free S&H on $35+",
     category:       "fashion",
     retailer:       "walmart",
@@ -30,7 +42,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             3,
+    id:             4,
     name:           "Women\\'s No Boundaries Mid-Rise Classic Denim Shorts (Medium Wash) $4.75 + Free S&H on $35+",
     category:       "supplies",
     retailer:       "walmart",
@@ -42,7 +54,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             4,
+    id:             5,
     name:           "Bluey Men\\'s Graphic Short-Sleeve Button-Up Shirt (Egret or Ice Blue)",
     category:       "fashion",
     retailer:       "walmart",
@@ -54,7 +66,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             5,
+    id:             6,
     name:           "Lilo & Stitch Men\\'s Graphic Button-Up Shirt (2 Styles)",
     category:       "fashion",
     retailer:       "walmart",
@@ -66,7 +78,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             6,
+    id:             7,
     name:           "SpongeBob SquarePants Men\\'s Graphic Button-Up Shirt (Pink)",
     category:       "fashion",
     retailer:       "walmart",
@@ -78,7 +90,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             7,
+    id:             8,
     name:           "Men\\'s Garfield Long Sleeve Graphic Pullover Hoodie (Royal Blue) $7.45 + Free S&H on $35+",
     category:       "fashion",
     retailer:       "walmart",
@@ -90,7 +102,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             8,
+    id:             9,
     name:           "No Boundaries Women\\'s Lace Trim Cardigan (Various Colors, L-XXL)",
     category:       "supplies",
     retailer:       "walmart",
@@ -102,7 +114,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             9,
+    id:             10,
     name:           "3-Pk Garanimals Newborn, Baby & Toddler Girl Cotton Pull-on Leggings (Various)",
     category:       "fashion",
     retailer:       "walmart",
@@ -114,7 +126,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             10,
+    id:             11,
     name:           "Bass & Co. Men\\'s Canyon Pull On Pants (Size 36, Deep Lichen Green)",
     category:       "fashion",
     retailer:       "walmart",
@@ -126,7 +138,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             11,
+    id:             12,
     name:           "Men\\'s Disney Goofy Howdy Y\\'All Graphic Fleece Zip Up Hoodie (Heather Grey) $9.45 + Free S&H on $35+",
     category:       "fashion",
     retailer:       "walmart",
@@ -138,7 +150,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             12,
+    id:             13,
     name:           "Women\\'s Ozark Trail Compression Hike Leggings (various colors/sizes) $6.80 + Free S&H on $35+",
     category:       "fashion",
     retailer:       "walmart",
@@ -150,7 +162,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             13,
+    id:             14,
     name:           "Dungeons and Dragons Men\\'s Graphic Hoodie (Gray Heather)",
     category:       "fashion",
     retailer:       "walmart",
@@ -162,7 +174,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             14,
+    id:             15,
     name:           "Women\\'s Forever 21 Sleeveless Lace Mini Dress (Ivory) $4.75 + Free S&H on $35+",
     category:       "fashion",
     retailer:       "walmart",
@@ -174,7 +186,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             15,
+    id:             16,
     name:           "Women\\'s Free Assembly Embroidered Square Neck Cotton Tank Top (Palm Tree) $5.80 + Free S&H on $35+",
     category:       "supplies",
     retailer:       "walmart",
@@ -186,7 +198,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             16,
+    id:             17,
     name:           "Staples Rewards Offer: Luggage Purchase (up to $150), Earn 100% Back in Points (valid today only)",
     category:       "supplies",
     retailer:       "amazon",
@@ -198,7 +210,7 @@ const DEALS = [
     badge:          "Clearance",
   },
   {
-    id:             17,
+    id:             18,
     name:           "4-Pk 65L Geelin Foldable Under Bed Storage Bins w/ Wheels & Lids (White or Gray)",
     category:       "supplies",
     retailer:       "amazon",
@@ -206,6 +218,42 @@ const DEALS = [
     clearancePrice: 16,
     fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=4-Pk%2065L%20Geelin%20Foldab",
     link:           "https://slickdeals.net/f/20151180-4-pack-65l-geelin-foldable-under-bed-storage-bins-w-wheels-lids-white-or-gray-15-99-free-shipping-w-prime-or-on-35?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             19,
+    name:           "Fantastic Four Men\\'s Graphic T-Shirt",
+    category:       "fashion",
+    retailer:       "walmart",
+    normalPrice:    35,
+    clearancePrice: 4.8,
+    fallbackImage:  "https://placehold.co/300x200/0071ce/ffffff?text=Fantastic%20Four%20Men's%20G",
+    link:           "https://slickdeals.net/f/20150595-fantastic-four-men-s-graphic-t-shirt-4-80?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             20,
+    name:           "Nike Men\\'s Tech Shori Knit Drill Pants (Court Blue) $29 + Free Pickup",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    49,
+    clearancePrice: 29,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Nike%20Men's%20Tech%20Shori%20",
+    link:           "https://slickdeals.net/f/20147877-nike-men-s-tech-shori-knit-drill-pants-court-blue-28-97-free-shipping-on-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
+    inStock:        true,
+    badge:          "Clearance",
+  },
+  {
+    id:             21,
+    name:           "Under Armour Men\\'s Icon Fleece Hoodie (Orange Bloc Light Heather)",
+    category:       "fashion",
+    retailer:       "amazon",
+    normalPrice:    49,
+    clearancePrice: 15,
+    fallbackImage:  "https://placehold.co/300x200/ff9900/ffffff?text=Under%20Armour%20Men's%20Ico",
+    link:           "https://slickdeals.net/f/20147826-under-armour-men-s-icon-fleece-hoodie-orange-14-97-free-shipping-on-49?utm_source=rss&utm_content=fp&utm_medium=RSS2",
     inStock:        true,
     badge:          "Clearance",
   }
